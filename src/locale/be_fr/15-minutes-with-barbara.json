@@ -1,0 +1,123 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Barbara Malewicz",
+    "Tagline": "Rencontre avec Barbara, blogueuse et éditrice mode pour le magazine WAD",
+    "Time": "16.00 Paris",
+    "ChatText": "le temps d’un café, on a eut la chance de discuter avec barbara",
+    "IntroText": "Barbara, 25 ans est probablement une des parisiennes les plus cools qu'on a eut la chance de croiser. Blogueuse & rédactrice mode pour le magazine WAD, elle a un sens inné du style et est toujours a l'affut des dernières tendances. Entre seance de sport et rendez-vous avec artistes & stylistes, elle partage avec nous un peu de son quotidien parisien...",
+    
+    "Question_section1":
+    {
+        "Time_one": "16.05 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ta dernière découverte ?",
+                "answer": "C’est une petite marque française de bijoux  que j’ai découvert récemment lors d’un salon et qui s’appelle Chabaux : supra colorée, décalée et girly. J’adore ! A première vue, ça peut faire un peu  “too much” parce que c’est très girly avec pleins de couleurs et de paillettes… Mais une seule de leur création suffit à réveiller une tenue et à lui donner une touche d'originalité qu’on ne retrouve pas ailleurs."
+            },
+            {
+                "question": "Ton rituel du matin ?",
+                "answer": "De l'eau chaude avec du citron… Non je rigole ! Le matin, je me laisse toujours le temps d'émerger et de me réveiller doucement… Je me laisse un peu trainer : j’habite dans la rue de mon boulot, du coup j’en profite pour dormir... J’aime beaucoup dormir, j’en ai besoin.Et sinon, en ce moment mon rituel du matin c'est de l'huile d'amande et coco sur tout le corps pour hydrater à fond avec l'arrivée de l'été…"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "La vie à Paris, c’est…",
+                "answer": "Une chance… Mais aussi  beaucoup de marche ! Mes journées s’organisent autour de mes rendez-vous avec des artistes, des stylistes ou pour me rendre à des press days… ça fait beaucoup d’aller-retours..."
+            },
+            {
+                "question": "Plutôt matin ou soir ?",
+                "answer": "Définitivement le soir. C’est à ce moment là que je trouve un peu de temps pour moi. Mes journées sont très occupées par mon travail, du coup le soir j’en profite ! J’alterne entre séances de sport et apéro avec mon copain… Comme ça, je trouve mon équilibre."
+            },
+            {
+                "question": "La personne la plus cool selon toi c’est...",
+                "answer": "@snoochieshy : mannequin, DJ, animatrice radio, cheveux roses, style de fou… Elle est très, très cool."
+            }
+        ]
+    },
+    "QuoteText": "Récemment j’ai eu un déclic pour Paris : je m’y sens bien!",
+    "Name": "Barbara",
+    "Question_section2":
+    {
+        "Time_two": "16.10 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Une heure de trou dans la journée, je…",
+                "answer": "Je geek : je check internet, je peaufine un article sur mon blog… Ou alors je me fais des tresses."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Un bon souvenir ?",
+                "answer": "Il y en a beaucoup... Dans ma mémoire récente je pense aux vacances de cet été et à la découverte de Sintra, près de Lisbonne au Portugal. Un château de conte de fées, un régal pour nos yeux !"
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "Ma montre Rosefield préférée :",
+       "WatchText": "La Gramercy en rose pâle !",
+       "CheckThisWatch": "Décrouvez cette montre",
+       "ProductName": "The Gramercy",
+       "ProductShortDesc": "Blanc - Rose"
+    },
+    "Question_section3":
+    {
+        "Time_three": "16.15 Paris",
+         "LeftQuestion":
+        [
+            {
+                "question": "Je suis toujours à l’heure/en retard ?",
+                "answer": "Je suis quasiment toujours à l'heure. J'ai appris de mes erreurs et je préfère maintenant avoir de la marge et être zen plutôt que de courir et transpirer dans tous les sens. Cela dit je me laisse parfois encore surprendre..."
+            },
+            {
+                "question": "Si tu pouvais te téléporter – ça serait pour aller…",
+                "answer": "À Venice Beach ! Je rêve d’y aller depuis toujours. Je suis déjà allée à New-York en avril, mais il me reste encore toute la côte ouest à découvrir : LA, tous les paysages californiens… ça me fait rêver."
+            },
+            {
+                "question": "Dans 5 ans, je…",
+                "answer": "Pendant longtemps, je pensais que je finirai par retourner vivre à Londres, où j’avais habité pendant mes études. Ça me manquait, mais récemment j’ai eu un déclic pour Paris : je m’y sens bien. Par contre, je vivrai dans plus de 18 mètres carrés, ça je me le promets !"
+            },
+            {
+                "question": "Ce que les gens ne savent pas sur toi ?",
+                "answer": "Tellement de choses ;) Pour n'en révéler qu'une : je peux avoir très mauvais caractère. En général, je suis facile à vivre, enjouée et souriante, mais il faut bien me connaître pour vivre ma part sombre !"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "L’expression que tu dis tout le temps ?",
+                "answer": "En revanche"
+            },
+            {
+                "question": "Tu passerais bien une petite heure avec ?",
+                "answer": "Niels Schneider. Acteur dans le film “Les amours Imaginaires”, je suis fan."
+            },
+            {
+                "question": "La chanson que tu écoutes en boucle ?",
+                "answer": "“Too Good” de Drake."
+            },
+            {
+                "question": "Le dernier film qui t’a fait pleurer ?",
+                "answer": "De rire ? Les Amours Imaginaires. Ce n'est a priori pas un film comique, mais une des scènes finales où Francis et Marie revoient Nicolas a eu raison de moi."
+            },
+            {
+                "question": "Une recette “wahou” en 15 min’ ?",
+                "answer": "Même en moins de 15 minutes : du fromage frais, un bon avocat, un peu de citron vert, on écrase, on mélange et on étale sur ce qu'on veut : un blini, de la baguette fraîche... OMG."
+            },
+            {
+                "question": "Ta petite manie ?",
+                "answer": "Je m'épile les sourcils tous les jours. Je ne peux pas m'en empêcher, si j'en vois ne serait-ce qu'un ou deux là où il ne faut pas je les retire immédiatement."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Dans 5 ans, je vivrai dans plus de 18 mètres carrés, je me le promets !"
+    }
+
+}

@@ -1,0 +1,126 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Esmée Geeratz",
+    "Tagline": "Meet Fashion, Beauty en Lifestyle Editor Esmée.",
+    "Time": "11.10 AM amsterdam",
+    "ChatText": "we met esmee for coffee and a chat",
+    "IntroText": "Esmée Geeratz (25), has a predilection for fashion photography. She has a distinct eye for detail and does not stop until she created the perfect image. After nearly five years of styling and art direction for Dutch Jan Magazine, it’s time for her to leave the warm nest and spread her wings as a freelancer. She already landed her first new and exciting job, but cannot tell us what it is just yet.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.18 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "There is never enough time, haha. I love working and sometimes I just wish a day could be longer. A few more hours to shoot, to have fun and to enjoy life. Time for me also means getting older, and getting older means getting a little wiser. And caring less about the small stuff and focus on what’s really important."
+            },
+            {
+                "question": "Your job sounds supercool, at what age did you start becoming fascinated with fashion and photography?",
+                "answer": "I became fascinated with fashion and photography at a very young age I guess. When I was about eight years old I would wear my mother’s heels for hours, even for a walk to the city-centre to get some candy. Later on a I started making moodboards with old black and white pictures and cut-outs from fashion magazines. I always found fashion photography fascinating."
+            },
+            {
+                "question": "What photographer would you like to work with?",
+                "answer": "Alive or dead? Richard Avedon. The way he captured people truly amazes me. In every picture there is a certain movement. I love that in a picture."
+            },
+            {
+                "question": "How do you stay updated on current trends?",
+                "answer": "I check out the shows of the most popular designers and review what is happening in high fashion. And I love Pinterest and Instagram for streetstyle trends. A lot of trends are created at those social media channels and that makes them very wearable."
+            },
+            {
+                "question": "What sort of things do you do to prepare yourself for an upcoming shoot?",
+                "answer": "The most important thing for me is a story line. I don’t like to have someone just standing there in some pretty clothes. I need there to be a story; what is she doing? Why? So I create a big storyboard with lots of ideas and sketches."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Latest discovery in Amsterdam?",
+                "answer": "A shop called Nuvo Niche. It’s a store filled with decoration pieces for the house. The owner Tiffany even designs some of the items herself, like these really cool velvet pillows in beautiful colors. I bought four of them and now my couch looks like an old boudoir."
+            },
+            {
+                "question": "Your favorite place in Amsterdam?",
+                "answer": "The Utrechtsestraat. That street is like a little village in the middle of a busy city. I like walking up and down the street to do some shopping, get some good Vietnamese food and coffee every now and then."
+            },
+            {
+                "question": "What is your morning routine?",
+                "answer": "When I wake up, I kiss my man until he says I need to back off because he still needs some sleep. I shower and I take a good amount of time to do my makeup. While working in the fashion industry I befriended a few makeup artists who showed me some tricks and I like to do them right. I have breakfast, most of the time that’s raw veggies followed by some eggs or yogurt. While I drive my scooter to the office I enjoy the view of the Amsterdam canals."
+            },
+            {
+                "question": "How do you like your coffee in the morning?",
+                "answer": "No coffee for me, I like vervain tea in the morning."
+            }
+        ]
+    },
+    "QuoteText": "Someone who likes herself, to me that is true beauty.",
+    "Name": "Esmée",
+    "CenterQuestion":
+    {
+       "question": "Favorite timepiece?",
+       "answer": "One I don’t own yet: The Mercer in Rose Gold. It’s so simple yet glamorous and I love the color."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "11.23 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Can you give us a few beauty tips and tricks?",
+                "answer": "I love my nails to be pretty, always. To me your hands are one of the first things people see when they meet you, they need to look good. Gel polish is my favorite, it stays put for two weeks and looks very pretty and shiny."
+            },
+            {
+                "question": "Name the top three things in your beauty kit?",
+                "answer": "Moisturizer, lipbalm and mascara. It all starts with baby soft skin. I can’t live without lipbalm and I feel naked without mascara on a workday."
+            },
+            {
+                "question": "Who or what is the epitome of beauty for you?",
+                "answer": "Being completely happy with yourself. In a world filled with this social media roller coaster telling you to look a certain way it’s hard to just be happy with yourself. You may not have the most beautiful body or nose or hair, but when you feel beautiful you are beautiful. Someone who likes herself, to me that is true beauty."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Who or what inspired you in life?",
+                "answer": "A bit of a cliché, but actually both my parents still inspire me every day. They had me at a very young age. My dad was nearly nineteen and my mom was twenty-two. But they worked their asses off to provide for me. My mom was born to be a mother, she’s always there for me. My dad founded his own company when I was twelve and he is damn good at what he does. I always got everything I wanted. I guess you could say I’m spoiled. Spoiled with love and beautiful things."
+            },
+            {
+                "question": "What people do not know about you?",
+                "answer": "That I’m highly sensitive, I feel everything very deeply. I can walk in a room and instantly feel how someone else is feeling. When people are uncomfortable in a physical environment I tend to know what needs to be done to make it more comfortable (like changing the lighting or the seating). It’s both a blessing and a curse. Because I can use it to my own advantage, but sometimes it would be nice to just care about your own feelings."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "The Mercer in Rose Gold is a favorite. It’s so simple yet glamorous and I love the color.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Rose Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "11.25 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "In five years I…",
+                "answer": "I’ll turn 31 years old and just like my father I would love to found my own company. Maybe have my own fashion label, back to my roots as a fashion designer. I also hope that I’m blessed to start a family, because I absolutely adore children. Then I could annoy someone else with my morning kisses."
+            }
+
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "On Sundays…",
+                "answer": "Chill, just chill. I plan nothing. Because I travel a lot I like to be completely free on the days I’m off. I like to wake up and have a talk with myself: what would you like to do today? Without having an obligation to meet someone or do something. I like to take the day as it comes."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "I guess you could say I’m spoiled. Spoiled with love and beautiful things."
+    }
+
+}

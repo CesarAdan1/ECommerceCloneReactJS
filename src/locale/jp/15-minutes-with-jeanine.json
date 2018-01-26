@@ -1,0 +1,102 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Jeanine Tebbe",
+    "Tagline": "Meet Jeanine, founder of jewelry label Overload Studios",
+    "Time": "11.00 Berlin",
+    "ChatText": "we met jeanine in amsterdam for a chat",
+    "IntroText": "Jeanine Tebbe –Currently 30 years old, Jeanine was born in Amsterdam, but raised in Almere. After living in Amsterdam again for over 10 years, Amsterdam really feels like home to her. Since elementary school, Jeanine was already interested in designing jewelry and two and a half years ago she started her own label: Overload Studios.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "Time, there is never enough time! It goes by way too fast and I always wish I had more hours in the day. I do think time is something beautiful because it gives you the chance to make something grow out of nothing. In life, in love, time can make things a lot better."
+            },
+            {
+                "question": "How do you start your day?",
+                "answer": "I’m definitely not a morning person. I always struggle with getting up, but as soon as I’m up I am immediately active. When I'm still in bed, I always post a photo on Instagram and scroll through the other posts. Then I jump into the shower, drink some tea and have breakfast while I do my make-up. It doesn’t take me long to get ready but it can take some time to decide what to wear."
+            },
+            {
+                "question": "When did you start Overload Studios?",
+                "answer": "Two and a half years ago."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "When did your interest in making jewelry start?",
+                "answer": "When I was in elementary school I was already making jewelry with some beads and thread. The older I get, the more interested I got in different materials and techniques. I started with assembling some simple bracelets and necklaces, which I sold to friends and their friends. From there I tried to expand. I visited a lot of fairs where I bought jewelry and materials and kept making more and more. While I was traveling I made a small collection and slowly I created Overload. In the summer of 2014 I sold my first full collection."
+            },
+            {
+                "question": "Do you design everything yourself?",
+                "answer": "Yes. When I have time I like to take on some custom orders. Though for now, designs for the new collections are my main focus."
+            }
+        ]
+    },
+    "QuoteText": "Time goes by way too fast and I always wish I had more hours in the day.",
+    "Name": "Jeanine",
+    "CenterQuestion":
+    {
+       "question": "what do you like to do when you have a day off?",
+       "answer": "I live in Amsterdam West so I love to hang out at Hendrix, Pazzi or van ‘t Spit. During the day we just move from one terrace to the other. People are always tagging along so we usually end up with a big group of friends."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "11.10 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Best beauty secret/hack?",
+                "answer": "Tattooed eyeliner! I did it 5 years ago. I never wear a lot of make-up but always eyeliner. The tattoo faded already, but I would really like to do it again, I love it! Besides that, highlighter. It makes the day a lot better when you face doesn’t feel like it. Works like a charm!"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Where do you get your inspiration?",
+                "answer": "I’m always looking at ‘old’ jewelry. Sometimes it’s antiques, sometimes trends from the 90’s when I was younger and wore the craziest things. I get inspired by art, from different shapes and also just practical objects. It’s funny how you can look at something in a totally different way just by focusing on different details. I can’t help myself, but every time I meet someone I scan them to see what kind of jewelry he or she is wearing."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "The gold Tribeca. Chic and easy. It blends perfectly with my other gold bracelets, perfect!",
+       "CheckThisWatch": "CHECK THIS WATCH",
+       "ProductName": "The Tribeca",
+       "ProductShortDesc": "White - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "11.15 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "How would you describe your style?",
+                "answer": "Minimalistic, but with lots of prints. I can never resist any dresses, skirts, suits and pants with polka dots and stripes while shopping. This said, you can also find a lot of navy, nude and black in my closet. I wear a lot of jeans with plain shirts or blouses, but I always go all out with shoes and of course accessories! I never leave the house without decorating the Christmas tree (which is me)."
+            }
+
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "I’m always late/on time…",
+                "answer": "I’m always in a hurry, but I’m usually on time or just a few minutes late. Always just on the edge."
+            },
+            {
+                "question": "In five years…",
+                "answer": "Overload Studios might be more than just jewelry. From the beginning I always had the ambition to, if possible, expand Overload Studios with more accessories and homeware. That is why I added ‘Studios’: this leaves room for more."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "In five years Overload Studios might be more than just jewelry..."
+    }
+
+}

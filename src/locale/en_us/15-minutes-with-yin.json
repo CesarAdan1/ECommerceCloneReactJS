@@ -1,0 +1,126 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Yin Fung",
+    "Tagline": "Meet the Editorial Assistant at Dutch ELLE.",
+    "Time": "15.00 Amsterdam",
+    "ChatText": "We met Yin at the canals of Amsterdam",
+    "IntroText": "The ever adorable Yin Fung (forever 28) is an Editorial Assistant at Dutch ELLE Magazine. She lives in Amsterdam, and loves to stroll around the city. Her style is quirky and colorful – hysterical slash modest, as she puts it. She loves to travel and is an absolute animal lover.",
+    
+    "Question_section1":
+    {
+        "Time_one": "15.05 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "Sometimes I wish there were more hours in a day, time flies way too fast. But that’s only because I’m having so much fun."
+            },
+            {
+                "question": "You work for one of the coolest magazines, Dutch ELLE. Does this affect your credit card?",
+                "answer": "Well, a bit. Especially during sale. My colleagues have great taste and they inspire me a lot, but when it comes to purchasing I try to keep it to a minimum. Buying less is more."
+            },
+            {
+                "question": "Can you describe your style?",
+                "answer": "Hysterical slash modest. I have a thing for glitter, colour and pattern. Wearing Rick Owens’ style would make me very sad."
+            },
+            {
+                "question": "Sneakers or heels?",
+                "answer": "At he moment my New Balance sneakers."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Latest discovery in Amsterdam?",
+                "answer": "Flevopark. I try to avoid crowded parks. Flevopark is super quiet."
+            },
+            {
+                "question": "How do you start your day?",
+                "answer": "I ALWAYS put on MTV Breakfast Club before starting my morning routine. I already decide what I want to wear the previous evening, so I am quite fast with getting dressed. After finishing breakfast, I put on my lipstick and then bike to work."
+            },
+            {
+                "question": "Your favorite place in Amsterdam?",
+                "answer": "Zeedijk, the Chinatown area. Probably has to do with my Chinese background. I love the food, atmosphere and people."
+            },
+            {
+                "question": "On Sundays I…",
+                "answer": "On Sundays I like to spend time with my boyfriend, so we usually wander around the city, visit museums and meet our friends."
+            }
+        ]
+    },
+    "QuoteText": "I try to keep my purchases to a minimum. Buying less is more",
+    "Name": "Yin",
+    "CenterQuestion":
+    {
+       "question": "what do you like to do when you have a day off?",
+       "answer": "Yoga, hanging out with my friends and then go to a rave."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "15.10 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Your best memory?",
+                "answer": "A ‘go with the flow attitude’ will surprise you in many ways. You will meet so many great people and you will go to places you never thought of visiting."
+            },
+            {
+                "question": "What is your beauty secret?",
+                "answer": "When it comes to skincare the beautician is my best friend. And I don’t drink alcohol at all."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Who or what inspired you in life and why?",
+                "answer": "I am surrounded with the coolest, smartest, funniest people every day. They make me realize that you don’t have to follow the crowd to fit in with society."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "The Mercer in Gold is my favorite – simple and elegant.",
+       "CheckThisWatch": "CHECK THIS WATCH",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "15.15 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Who do you admire?",
+                "answer": "My twin sister, she is so strong and yet so delicate."
+            },
+            {
+                "question": "I’m always late/on time...",
+                "answer": "On time. I hate it when people are late."
+            },
+            {
+                "question": "In five years time I…",
+                "answer": "In five years time I’ll have a clothing line with my best friend and visit many countries."
+            }
+
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "If you could teleport yourself, where would you go?",
+                "answer": "I would go to Bhutan. They say it’s the happiest country in the world. I would like to find out why."
+            },
+            {
+                "question": "Gold or silver?",
+                "answer": "Gold for now, wouldn’t say no to silver."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "I’m always on time. I hate it when people are late."
+    }
+
+}

@@ -1,0 +1,246 @@
+{
+  "Title": "Terms & Conditions",
+  "Definition": {
+    "Title": "1. Definition",
+    "Text": "The following conditions regulate the sale of products featured on this website by our company:",
+    "AddressOptions": 
+    [
+      {
+        "Options": "ROSEFIELD watches BV"
+      },
+      {
+        "Options": "Elandsstraat 44R"
+      },
+      {
+        "Options": "1016 SG"
+      },
+      {
+        "Options": "Amsterdam"
+      },
+      {
+        "Options": "The Netherlands"
+      }                          
+    ],
+    "Text1": "The following conditions regulate the sale of products featured on this website by our company:",
+    "Website": "Website:: www.rosefieldwatches.com.",
+    "Text2": "Customer: a natural person who is of legal age and who is not acting within the context of practising a profession or conducting a business, with whom ROSEFIELD concludes an Agreement.",
+    "Text3": "Order: an agreement between ROSEFIELD and the customer made for the delivery of one or more products, which ROSEFIELD accepted as such.",
+    "Text4": "Product: a ROSEFIELD product that ROSEFIELD offers on the website for sale."
+  },
+  "Applicability": {
+    "Title": "2. Applicability",
+    "Text": "Below, we invite you to review the terms and conditions which regulate the purchase of ROSEFIELD products via www.rosefieldwatches.com. These terms and conditions apply to all orders placed on the website by customers worldwide. ROSEFIELD reserves the right to update these terms and conditions from time to time. If you have any queries regarding the Terms & Conditions, please contact our Support desk."
+  },
+  "Ordersonthewebsite": {
+    "Title": "3. Orders on the website",
+    "Title31": "3.1. Availability Of The Service",
+    "Title31option":
+    [
+      {
+        "Options": "ROSEFIELD offers free worldwide shipping. Before placing an order on our website, please make sure that you are:"
+      },
+      {
+        "Options": "- over 16 years old"
+      },
+      {
+        "Options": "- a consumer and not a professional reseller"
+      }
+    ],
+    "Title32":
+    {
+      "Title": "3.2. Purchase procedure",
+      "Title32option":
+      [
+        {
+          "Options": "To make a purchase, the customer’s personal details will be required and will be included on our database in order to process the order. The personal details provided by customers will be treated in accordance with our Privacy Policy."
+        },
+        {
+          "Options": "When you submit an order we will send you an e-mail confirming that the order has been received (Order Confirmation). At this point, the agreement to deliver the ordered product is accepted by ROSEFIELD. As a consequence a contract, containing these terms and conditions, comes into existence and is binding between the customer and ROSEFIELD."
+        },
+        {
+          "Options": "If you do not receive this e-mail, this could be due to a temporary communications problem in the network or an error in the e-mail address entered. In both cases, ROSEFIELD advises the customer to contact our Support desk."
+        }
+      ]
+    },
+    "Title33":
+    {
+      "Title": "3.3. Refusal of order ",
+      "Text": "Whilst we will use our reasonable endeavours to process all the orders submitted to us, ROSEFIELD reserves the right not to accept your order for any reason. ROSEFIELD also reserves the right to cancel a Contract in the following situations, without the obligation to compensate the buyer for any losses other than a refund of the amount received from the buyer:",
+      "Title33option":
+      [
+        {
+          "Options": "- in exceptional circumstances that the product appears to be not available or not in stock after we have sent you an order confirmation"
+        },
+        {
+          "Options": "- your order is flagged up by our security systems as an unusual order or an order susceptible to fraud;"
+        },
+        {
+          "Options": "- we have reason to believe the customer is under 16 years old;"
+        },
+        {
+          "Options": "- we have reason to believe that the customer is a reseller;"
+        },
+        {
+          "Options": "- in the event of misspelling, pricing or other errors or mistakes in the Website information;"
+        },
+        {
+          "Options": "- in the event of misspelling, pricing or other errors or mistakes in the Website information;"
+        },
+        {
+          "Options": "- due to an event outside our control (see art. 8: Force Majeure)"
+        }
+      ]
+    }
+  },
+  "PricePayment": {
+    "Title": "4. Price and payment",
+    "Title41":
+    {
+      "Title": "4.1. Payment And Currency",
+      "Text": "ROSEFIELD allows users to modify the destination country by changing the country flag. If the customer changes the country flag, the currency in which the prices are displayed may vary."
+    },
+    "Title42":
+    {
+      "Title": "4.2. Guaranteed Price",
+      "Text": "ROSEFIELD  is not obliged to fulfil and/or deliver an order, in case of an error in the presentation of the product or an error in the wording of the specifications of the product and i) it should have been clear to the buyer that the error was a typographical error or ii) in case it should have been clear to the buyer that in the circumstances at hand, it would not be reasonable to expect that the product could be available at the presented price level or with the presented specifications."
+    },
+    "Title43":
+    {
+      "Title": "4.3. Payment methods",
+      "Title43option":
+      [
+        {
+          "Options": "ROSEFIELD offers a wide variety of payment methods. Our safe payment methods include, amongst others: Visa, MasterCard, American Express, Diners Club, Discover, Maestro and Paypal. "
+        },
+        {
+          "Options": "For all payments by credit or debit card, the charge will be made online, in other words, in real time, through the payment gateway of the corresponding financial entity, once it has been confirmed that the data sent by the customer is correct."
+        }
+      ]
+    },
+    "Title44":
+    {
+      "Title": "4.4. Payment security ",
+      "Text": "In order to offer maximum security in the payment system, ROSEFIELD uses the secure payment systems of the leading financial entities in e-commerce. Therefore, all confidential data is transferred directly and in an encrypted format (SSL) to the corresponding financial entity."
+    },
+    "Title45":
+    {
+      "Title": "4.5. Purchase limit",
+      "Text": "ROSEFIELD does not permit the purchase of ROSEFIELD products for subsequent resale. Consequently, it is not possible to order more than 9 items at once. Customers who wish to make purchases in excess of this quantity are asked to contact our support department at support@rosefieldwatches.com, who will assist you in making the desired purchase."
+    }
+  },
+  "Delivery": {
+    "Title": "5. Delivery",
+    "Titleoption":
+    [
+      {
+        "Options": "Delivery of items purchased at our website will be carried out via the postal services and their partners around the world.In order to avoid any delivery problems (incorrect addresses, nobody at home, etc.), you must fill the address form correctly and it is advisable to leave a contact telephone number in the corresponding field."
+      },
+      {
+        "Options": "Once the order has been handed over to the carrier, ROSEFIELD will send customers a track and trace code, allowing them to track the order from their computer at any moment until final reception."
+      }
+    ],
+    "Title51":
+    {
+      "Title": "5.1. Delivery terms",
+      "Title51option":
+      [
+        {
+          "Options": "ROSEFIELD will try everything within its capacities to deliver the order within the expected delivery terms at the delivery address. The customer bears the responsibility for the correct input of the delivery address; in case anything goes wrong with the shipment of an order, due to an error in the delivery address (that can be attributed to the customer), ROSEFIELD cannot be held responsible for the (partial) loss of the shipment. In case ROSEFIELD needs additional information regarding a delivery address, the customer may be approached by us to provide additional information. A delay in the delivery may occur in case additional information regarding the delivery address is needed."
+        },
+        {
+          "Options": "All mentioned delivery terms (shipping days, delivery time in working days, shipment date etc.) on the website should be understood as estimated delivery terms and cannot be understood as final delivery terms or guaranteed delivery terms."
+        }
+      ]
+    },
+    "Title52":
+    {
+      "Title": "5.2. Damaged, incomplete or wrong product(s)",
+      "Title52option":
+      [
+        {
+          "Options": "In case a product has been delivered to the customer in damaged or incomplete state, the customer must inform the ROSEFIELD customer care team as soon as possible (within 24 hours after receiving the order) by e-mail or telephone. Subsequently, ROSEFIELD will properly deal with the matter at hand; the customer must always inform ROSEFIELD in the aforementioned situation(s) and wait for the instructions of the ROSEFIELD customer support team. A customer who returns a product in this situation at his own costs, without contacting and awaiting the instructions of our support team, cannot claim the costs he/she made at ROSEFIELD (nor hold ROSEFIELD responsible for the return shipment that took place without prior consent of ROSEFIELD)."
+        },
+        {
+          "Options": "In case the customer receives a product that the customer did not order, the buyer must inform ROSEFIELD as soon as possible (within 24 hours after receiving the order). The customer must take care of the return shipment of such a product after receiving return instructions from ROSEFIELD and ROSEFIELD will bear the costs of this shipment and must subsequently take care of the shipment of the correct product to the customer."
+        }
+      ]
+    },
+    "Title53":
+    {
+      "Title": "5.3. Missing items",
+      "Title53option":
+      [
+        {
+          "Options": "In case the order that has been shipped or is being shipped by ROSEFIELD to the customer is missing, went missing, or in case the customer claims that he/she did not receive the order (despite information such as the track & trace data / carrier information, indicating otherwise), the complaint procedure of the carrier will be started and the outcome of this procedure will be awaited, before any refund or re-shipment shall take place. The buyer must fully cooperate with the complaint procedure of the carrier. In case of a shipment that went missing as the result of an error by the carrier (and after the complaint procedure of the carrier has been completed), ROSEFIELD will either refund the customer or try to re-ship the ordered product."
+        },
+        {
+          "Options": "In case a shipment  has not been delivered at the delivery address (or pick-up point) of the customer after 14 days, the customer has the obligation to inform the ROSEFIELD support team by e-mail within 14 days i.e, ultimately 28 days after the shipment date)."
+        }
+      ]
+    }   
+  },
+  "Exchangesandreturns": {
+    "Title": "6. Exchanges and returns",
+    "Titleoption":
+    [
+      {
+        "Options": "Any purchase made through the website www.rosefieldwaches.com may be returned up to 14 days from receiving the order, without stating a reason (please note the above mentioned exception: in case a product is damaged or incomplete, the buyer has the obligation to inform the ROSEFIELD support team by e-mail and to await further instructions)."
+      },
+      {
+        "Options": "The right to return the product only applies in the case that the product and its original packaging can be returned in the same state as when received. The customer is only allowed to unpack and/or to use the ordered product as far as is needed to be able to determine whether he/she wants to keep the product."
+      },
+      {
+        "Options": "The buyer is responsible for the return shipment of his/her order and bears all the risks related to the return shipment. ROSEFIELD advises the customers to return a product by insured shipment and in a sealed packaging. In case an insured return shipment goes missing, gets damaged or in case the reception of a returned shipment is denied (for example, in case no valid signature can be shown by the carrier), the customer then has the option to hold the carrier liable. The customer, as the sender of the return shipment, must start the complaint procedure for any issue that may occur with the return shipment. The customer must keep the (official, digital) receipt of his/her return shipment that contains the tracking information."
+      },
+      {
+        "Options": "The shipment costs for a return shipment within the trial period and the shipment costs for a return shipment for a warranty request or repair request (for defects occuring after the customer has used the product), are borne by the customer. In case of a revocation by the customer within the trial period, ROSEFIELD will credit the customer within 14 days after receiving the return shipment (no credit applies for costs of the return shipment). Any credit due as a result of a returned product, will be credited to the account that the customer used to pay the original order."
+      }
+    ]
+  },
+  "Warrantyandrepair": {
+    "Title": "7. Warranty and repair",
+    "Titleoption":
+    [
+      {
+        "Options": "ROSEFIELD offers a warranty of two years from the date of purchase. The two year warranty on a ROSEFIELD watch guarantees the customer that the product meets the standards of usability, reliability and durability. The warranty does not apply to:"
+      },
+      {
+        "Options": "- damages as a result of inattention or improper usage such as scratching, bouncing, falling"
+      },
+      {
+        "Options": "- failure or damage caused by unjustifiable repair or modification performed by a prior party without prior written permission by ROSEFIELD"
+      },
+      {
+        "Options": "- failure or damage caused by fire or water (all contact with water should be avoided)"
+      },
+      {
+        "Options": "- Esthetic changes that occur during normal wear and tear and aging (e.g. alteration of the color of the strap, scratches on the case and/or crystal and peeling of the plating on the case)"
+      },
+      {
+        "Options": "- battery replacement, also during the warranty term"
+      }
+    ],
+    "Text": "In case of questions regarding returns and warranty, the customer can always contact the ROSEFIELD support team via <a href='mailto:support@rosefieldwatches.com'>support@rosefieldwatches.com.</a>"
+  },
+  "Forcemajaure": {
+    "Title": "8. Force majaure",
+    "Text": "ROSEFIELD shall be exempt from liability for damages and other penalties on the performance of the contract prevented, hindered or delayed by circumstances beyond our control. As the release factor should be considered include government intervention, new / amended legislation, lack of state, war, fire, flood, labor disturbance, prohibitions, restrictions, sabotage, poor transport or weather conditions or lack of delivery from suppliers and the company is exposed to criminal activity that affects activities."
+  },
+  "Personaldataandprivacy": {
+    "Title": "9. Personal data and privacy",
+    "Titleoption":
+    [
+      {
+        "Options": "ROSEFIELD complies with the privacy regulations, as recorded in the Wet Bescherming Persoonsgegevens (the Dutch Personal Data Protection Act). The customer, for example, always has the possibility to see, to amend or to delete his/her personal data, by logging into his/her account on rosefieldwatches.com."
+      },
+      {
+        "Options": "ROSEFIELD will store the data entered by the customer in a file. The data will be used for the purpose of fulfilling the customer's order and will be stored as long as is necessary in order to deal with possible issues regarding the fulfilment of the order. ROSEFIELD guarantees that all personal data will be handled with care. The customer's personal data will not be shared with any third party, except for purposes of fulfilling the order or for repair purposes. ROSEFIELD is allowed to use the customers' data to advertise products to the customer."
+      }
+    ]
+  },
+  "Applicablelaws": {
+    "Title": "10. Applicable laws",
+    "Text": "Dutch law applies to all agreements and legal relationships between ROSEFIELD and the customer, regardless the country from which the customer places an order and regardless the country to which the order will be shipped."
+  },
+  "UpdateText": "-Last updated March 2015-"
+}

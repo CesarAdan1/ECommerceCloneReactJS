@@ -1,0 +1,121 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Laurianne Melierre",
+    "Tagline": "Meet the journalist and Radio host, Meet the journalist and Radio host,",
+    "Time": "16.00 Paris",
+    "ChatText": "we share a plate of gyoza with laurianne in the little tokyo of paris",
+    "IntroText": "Laurianne Melierre, 24 years old, journalist at L’Obs and radio host for the Rinse France radio station. I live in the 10th arrondissement of Paris but I was born in Lyon from a Cameroonian mother and a French father (though I was born and raised in Morocco). Long family story! I have 5 sisters.",
+    
+    "Question_section1":
+    {
+        "Time_one": "16.05 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Your last discovery?",
+                "answer": "Your last discovery?I love rappers that are a little bit « freak-ish », often unknown in France – such as MC Bin Laden, an amazing rapper from the favelas in Rio, or lately, Brian Imanuel aka Rich Chigga – a 16 year old kid whom I’m obsessed with, and especially about his new track, Dat $tick. It’s crazy."
+            },
+            {
+                "question": "Your morning routine?",
+                "answer": "Lay down in foetus position in my bed and pretend that I didn’t hear the alarm, until the anxiety of possibly being fired kicks me out of bed."
+            },
+            {
+                "question": "Life in France, its…",
+                "answer": "In France, I wouldn’t see myself living anywhere else but Paris. There, I found the open-mindedness, the curiosity and the diversity that I have never really found in Lyon. But it’s difficult, you need to hang on."
+            },
+            {
+                "question": "Morning or Evening?",
+                "answer": "Evening"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Gold or Silver?",
+                "answer": "I would say gold. It reminds me of my mother’s huge loop earrings. My older sister Sandrine also has a little gold nugget tied around her neck. It must run in the family. But apart from watches, I do not wear any jewelry, never ever."
+            },
+            {
+                "question": "The coolest person is..",
+                "answer": "M.I.A. She has no equal. But I also have a massive crush on Bill Murray."
+            },
+            {
+                "question": "My favourite Rosefield Watch?",
+                "answer": "It’s the GRAMERCY Black Black Gold. Black Dial, black bracelet, gold case. It looks like a night butterfly that found light in the darkness. I think that it fits me well."
+            },
+            {
+                "question": "I’m always late/on time?",
+                "answer": "I am somebody who’s always really late. I am incapable to manage my time and plan ahead accurately. This, plus the fact that I am just a generally slow person… But I’m working on it."
+            }
+        ]
+    },
+    "QuoteText": "I wouldn’t see myself living anywhere else but Paris.",
+    "Name": "Laurianne",
+    "CenterQuestion":
+    {
+       "question": "an hour free during the day, i..",
+       "answer": "I wish! But if it happens, I have a little nap before I get back to work while I listen to the podcast “Le Masque et la Plume” fom the station France Inter. I’m not trying to act cool by saying that, it’s really what I do."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "16.10 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "You would gladly spend an hour with…",
+                "answer": "My Friend Cleon Grey, in New York, who just launched his own – and excellent – magazine “Sheren”. In it, he explores via incredibly well written texts, the greatest fears and insecurities hidden within human relationships in NYC. We would cruise around the Bronx before heading out to eat Jamaican food."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "If you could teleport yourself, you would go..",
+                "answer": "To the fish market in Tokyo – at 4 am."
+            },
+            {
+                "question": "What do people not know about you?",
+                "answer": "That I want to be proposed to in Rungis"
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "it looks like a night butterfly that found light in the darkness. i think that it fits me well.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Gramercy",
+       "ProductShortDesc": "Black - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "16.15 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "In five years, I will...",
+                "answer": "Buy myself a tailored suit, made sur-mesure."
+            },
+            {
+                "question": "The song that you listen to non-stop?",
+                "answer": "« They cum, they go » from Tommy Genesis – a song that is as good during the day than during the night."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "The thing that you always say?",
+                "answer": "I’m hungry."
+            },
+            {
+                "question": "An amazing 15 min recipe?",
+                "answer": "My Magic Fried Chicken. Vinegar marinade, crust with starch / semolina / Espelette pepper, lime."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "My little habit? Steal food in other people’s plates…"
+    }
+
+}

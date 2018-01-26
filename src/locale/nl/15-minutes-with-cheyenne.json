@@ -1,0 +1,113 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Cheyenne Tulsa",
+    "Tagline": "Meet Cheyenne, Berlin model and It Girl",
+    "Time": "11.00 Berlin",
+    "ChatText": "we met cheyenne in berin for a chat",
+    "IntroText": "Berlin It Girl and model Cheyenne Tulsa has a special love for Chinese food, coffee and art. From Australia but currently living in Berlin, Cheyenne inspires us with her impeccable taste for fashion and interior design and gives us a daily glimpse into her life in Berlin.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "That time shouldn’t go to waste"
+            },
+            {
+                "question": "Latest discovery?",
+                "answer": "Ming's Garden in Kudamm… seriously the best chinese food I’ve had in Berlin."
+            },
+            {
+                "question": "What is your morning routine?",
+                "answer": "The first thing I do is make a coffee... or two. Afterwards I spend time replying back and forth to emails, then I have a shower, get dressed and start my day."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Favorite spot in Berlin?",
+                "answer": "I live in Kreuzberg so I'm surrounded by so many of my favourite places. In the Summer I love to hang by the canal or in the park with friends. Jungbusch and Lugosi for drinks. Coffee from Carpenter coffee is the best, Zola's for pizza, Mugrabi or Stella's i for lunch, Eggs Benedict at Le Bon, Hangover cure at Cabslam, the list goes on..."
+            },
+            {
+                "question": "Who or what is the essence of beauty for you?",
+                "answer": "Someone who has the confidence to celebrate their imperfections."
+            },
+            {
+                "question": "On Sundays I…",
+                "answer": "Am checking out an exhibition somewhere, with my friends, doing sport, chilling in bed..."
+            }
+        ]
+    },
+    "QuoteText": "Time shouldn’t go to waste",
+    "Name": "Cheyenne",
+    "CenterQuestion":
+    {
+       "question": "what do you like most about your day off?",
+       "answer": "It’s very rare for me to have a day off but if I do I usually visit an area or store I’ve wanted to go to, or I develop ideas and projects that are on my list of things to do."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "11.10 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "What is your best memory?",
+                "answer": "The day I moved from Australia to Europe."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Who or what inspired you in life and why?",
+                "answer": "My mom. She’s the most inspiring, warm hearted, hardest working woman I know."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "The Tribeca in white - gold, shiny but classy.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Tribeca",
+       "ProductShortDesc": "White - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "11.15 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "One thing that most people do not know about you?",
+                "answer": "I like K-pop and I play the electric bass guitar."
+            },
+            {
+                "question": "I'm always late / punctual. How so?",
+                "answer": "No matter what, I always try to be on time."
+            },
+            {
+                "question": "In five years time I…",
+                "answer": "Evolve my new project (launching very soon). Keep traveling, own an apartment by the ocean somewhere and keep tricking things off my 'to do' list."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Where would you be instantly on the spot, if you could?",
+                "answer": "Somewhere tropical by the ocean sipping from a coconut under the sun my bikini on, surrounded by seafood and acai bowls"
+            },
+            {
+                "question": "Gold or silver?",
+                "answer": "Both, but I have a rule I never mix gold and silver together."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "My best memory is the day I moved from Australia to Europe."
+    }
+
+}

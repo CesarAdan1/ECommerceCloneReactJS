@@ -1,0 +1,13 @@
+body {
+	margin: 0px !important;
+}
+
+main {
+	/*temp*/
+	/*min-height: 400px;*/
+}
+
+main, nav {
+	/*lost-center: 1278px;*/
+	lost-utility: clearfix;
+}

@@ -1,0 +1,130 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Virna Auvergne",
+    "Tagline": "An encounter with the press officer at ASAP Communication, Paris.",
+    "Time": "14:10 PM Paris",
+    "ChatText": "We had coffee & spent time with Virna",
+    "IntroText": "Virna, 27 years old, hails from the South of France born to an Italian father and Spanish mother. She made the move to Paris over 7 years ago with high energy with a sharp curiosity of life. Beware - she'll tell it like it is.",
+    
+    "Question_section1":
+    {
+        "Time_one": "14:14 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Your morning ritual?",
+                "answer": "Getting ready even faster than the day before: I use up every single minute, waking up is absolute torture so I try to push back this moment to last possible minute."
+            },
+            {
+                "question": "Life in Paris/in France, its…",
+                "answer": "It’s like reality TV. Every day is like a new episode with lots of action. I work in a press agency where we manage several brands, each day brings its own little bag of surprises: event, photoshoot, interview, fair, press presentation, agency life… when I get home at night, my boyfriend has to listen to my stories for hours and all the gossip that comes with it: “Live my life of a PR coordinator”"
+            },
+            {
+                "question": "Morning or Evening?",
+                "answer": "Seeing how tough it is for me to wake up, you will understand that I am more of an evening person. I like the freedom that the night brings, what is usually forbidden isn’t so much so anymore, there's something sexy in all that."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "The coolest person for you is…",
+                "answer": "My friends. They are all the coolest, so we come as one. And omg, what a team! If I could introduce them to you… you would all agree. We are actually thinking about making a movie out of our daily lives. It'd make a great story, with lots of laughs, surprises and also passion. We want to set this tale in history, and we want to see that for once - the beautiful story projected on the movie screens: it’s ours."
+            },
+            {
+                "question": "My favourite Rosefield watch:",
+                "answer": "I love them all! On point, minimalist, fashion forward. They really look super cool. For now, I wear the bowery in blue rose gold - and people stop me a lot on the streets to ask me what brand my watch is. I swear!"
+            },
+            {
+                "question": "An hour free during the day, I…",
+                "answer": "Eat! In Paris, new restaurants spawn every week. I had a to-do list with all the places I want to try out. Everything is always a concept, and I like to have my own opinion for each restaurant - so anytime I can, I try :)"
+            }
+        ]
+    },
+    "QuoteText": "It’s like reality TV. Every day is like a new episode with lots of action.",
+    "Name": "Virna",
+    "CenterQuestion":
+    {
+       "question": "gold or silver?",
+       "answer": "Why choose? Melting pot!"
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "14:22 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "A nice memory?",
+                "answer": "Uncontrollable laughter with my grandma, my mother and my sister. The coming together of four generations and all in Spanish. Each family event is a grand occasion - all very memorable. Nothing is ever normal with us."
+            },
+            {
+                "question": "I'm always on time/late?",
+                "answer": "… late, as much as I try not to be. I try, Im working on it, it annoys the ones who hang out with me but I think I just have a very bad notion of the passing of time. I also have a terrible notion of distances actually."
+            },
+            {
+                "question": "If you could teleport - you would go…",
+                "answer": "To the Golfe of Sperone : a beach coming right down from heaven in Corsica, competing with the most beautiful islands of this world. Forget about the Maldives and its 11hours flight to get there - it’s not worth it!"
+            },
+            {
+                "question": "What people dont know about you?",
+                "answer": "That I want to participate in the “Rallye des Gazelles” for my 30th birthday"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "In 5 years, I will..",
+                "answer": "live in the south of france, in a cool house with a huge studio and a garden with lots of animals: 2 turtles, 3 cats, a funny dog and some chickens. I will also have a quad, a motorbike and an old convertible like a Golf 1 or a Lada."
+            },
+            {
+                "question": "Your favorite saying?",
+                "answer": "“It’s Blue cheese who says to Camembert: you stink!” (hahaha). Another way of saying: people in glass houses shouldn’t throw stone. Super old school…"
+            },
+            {
+                "question": "You would love to spend an hour with…",
+                "answer": "Tom Hardy :) even if you can imagine that I am not his type - but I would like to know for sure. But I dont speak english really well, so I’m not sure I’ll be able to understand him."
+            },
+            {
+                "question": "The song that you have on repeat?",
+                "answer": "Madonna, her whole discography."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "I love them all but my all time favorite is the bowery blue rosegold.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Bowery",
+       "ProductShortDesc": "Blue - Rose Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "14:25 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "The last movie that made you cry?",
+                "answer": "Mommy, from Dolan. But I also cried watching Zootopia or Stranger Things. Movies have a very powerful effect on me."
+            },
+            {
+                "question": "Your little habit?",
+                "answer": "Chill at my house, wearing an old oversized t-shirt and granny panties: my passion!"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Your go-to 15 minute recipe?",
+                "answer": "The Poulette Sauce: whole cream, white wine, one vegetable stock cube and pepper. You pour this over pasta, chicken, mashed potatoes, mashed carrots… it’s fabulous!"
+            }
+        ]
+    },
+
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "A good memory? The times when my grand-mother, mother, sister and i would burst into laughter."
+    }
+
+}

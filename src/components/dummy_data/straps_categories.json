@@ -1,0 +1,191 @@
+[{
+  "name": "TANGERINE STRAPS",
+  "description": "We’ve got an orange crush. For Spring/Summer we’ve designed a limited edition interchangeable tangerine strap. Highlighting this season’s orange trend color, the strap features a structured, luxurious clemence genuine leather with a vibrant stitched border. Escape the city buzz with this interchangeable strap, available in rose gold, gold or silver for both the 33mm and 38mm watch cases.",
+  "products": [{
+    "id": 309,
+    "name": "Tangerine strap",
+    "short_description": "Gold / 38mm",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/tangerine-strap/Tangerine-strap-Gold.png"
+  }, {
+    "id": 310,
+    "name": "Tangerine strap",
+    "short_description": "Rose Gold / 38mm",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/tangerine-strap/Tangerine-strap-RoseGold.png"
+  }, {
+    "id": 311,
+    "name": "Tangerine strap",
+    "short_description": "Silver / 38mm",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/tangerine-strap/Tangerine-strap-Silver.png"
+  }, {
+    "id": 312,
+    "name": "Tangerine strap",
+    "short_description": "Gold / 33mm",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/tangerine-strap/Tangerine-strap-Gold-33.png"
+  }]
+},{
+  "name": "WEST VILLAGE STRAPS",
+  "description": "The WEST VILLAGE strap has a clean, seamless finish made of velvety nubuck leather. Striking details stand out, like the delicate metal rings around the strap, embodying the vintage-chic feel of this collection. Made by hand, each strap color is unique with a different set of metal rings.",
+  "products": [{
+    "id": 288,
+    "name": "Elephant grey strap",
+    "short_description": "Rose gold / 33mm",
+    "price": "45",
+    "image": "http://i.rosefieldwatches.com/products/straps/west-village-straps/WEST-VILLAGE-STRAPS-Elephant-grey-strap.png"
+  }, {
+    "id": 287,
+    "name": "Mint grey strap",
+    "short_description": "Rose gold / 33mm",
+    "price": "45",
+    "image": "http://i.rosefieldwatches.com/products/straps/west-village-straps/WEST-VILLAGE-STRAPS-Mint-grey-strap.png"
+  }, {
+    "id": 286,
+    "name": "Soft pink strap",
+    "short_description": "Rose gold / 33mm",
+    "price": "45",
+    "image": "http://i.rosefieldwatches.com/products/straps/west-village-straps/WEST-VILLAGE-STRAPS-Soft-pink-strap.png"
+  }, {
+    "id": 289,
+    "name": "Pink strap",
+    "short_description": "Gold / 33mm",
+    "price": "45",
+    "image": "http://i.rosefieldwatches.com/products/straps/west-village-straps/west-village-straps-Pink-stra-33.png"
+  }]
+},{
+  "name": "UPPER EAST SIDE STRAPS",
+  "description": "The Upper East Side link bracelet turns your 33 mm Rosefield watch into a cool and sophisticated classic. The glossy stainless steel link bracelet is available in three colors: Silver, Gold and Rose Gold. All handmade, the bracelets have a timeless yet modern appeal. The straps are adjustable with a tool supplied with every watch.",
+  "products": [{
+    "id": 305,
+    "name": "Gold strap",
+    "short_description": "Gold / 33mm",
+    "price": "55",
+    "image": "http://i.rosefieldwatches.com/products/straps/upper-east-side-straps/UPPER-EAST-SIDE-STRAPS-Gold-strap.png"
+  }, {
+    "id": 306,
+    "name": "Rose Gold Strap",
+    "short_description": "Rose gold / 33mm",
+    "price": "55",
+    "image": "http://i.rosefieldwatches.com/products/straps/upper-east-side-straps/UPPER-EAST-SIDE-STRAPS-Rose-Gold-Strap.png"
+  }, {
+    "id": 307,
+    "name": "Silver strap",
+    "short_description": "Silver / 33mm",
+    "price": "55",
+    "image": "http://i.rosefieldwatches.com/products/straps/upper-east-side-straps/UPPER-EAST-SIDE-STRAPS-Silver-strap.png"
+  }]
+}, {
+  "name": "MERCER STRAPS",
+  "description": "Paying tribute to an exciting street in one of NYC’s signature shopping destinations, the MERCER collection features stainless steel mesh straps for an exquisite look that suits this fashionable neighborhood.",
+  "products": [{
+    "id": 292,
+    "name": "Gold mesh strap",
+    "short_description": "Gold / 38mm",
+    "price": "45",
+    "image": "http://i.rosefieldwatches.com/products/straps/mercer-straps/MERCER-STRAPS-Gold-mesh-strap.png"
+  }, {
+    "id": 293,
+    "name": "Rose gold mesh strap",
+    "short_description": "Rose gold / 38mm",
+    "price": "45",
+    "image": "http://i.rosefieldwatches.com/products/straps/mercer-straps/MERCER-STRAPS-Rose-Gold-Mesh-Strap.png"
+  }, {
+    "id": 294,
+    "name": "Silver mesh strap",
+    "short_description": "Silver / 38mm",
+    "price": "45",
+    "image": "http://i.rosefieldwatches.com/products/straps/mercer-straps/MERCER-STRAPS-Silver-mesh-strap.png"
+  }, {
+    "id": 297,
+    "name": "Silver mesh strap",
+    "short_description": "Black / 38mm",
+    "price": "45",
+    "image": "http://i.rosefieldwatches.com/products/straps/mercer-straps/MERCER-STRAPS-black-mesh-strap.png.png"
+  }]
+},{
+  "name": "GRAMERCY STRAPS",
+  "description": "Handmade of soft genuine leather, our Gramercy straps are created for a clean and modern fashion look. The clean-cut and unstitched finish of this strap represent all things quintessentially Amsterdam and New York.",
+  "products": [{
+    "id": 100,
+    "name": "Black strap",
+    "short_description": "Gold",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/gramercy-straps/GRAMERCY-STRAPS-Black-strap.png"
+  }, {
+    "id": 105,
+    "name": "Brown strap",
+    "short_description": "Gold",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/gramercy-straps/GRAMERCY-STRAPS-Brown-strap.png"
+  }, {
+    "id": 107,
+    "name": "Pink strap",
+    "short_description": "Silver",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/gramercy-straps/GRAMERCY-STRAPS-Pink-strap.png"
+  }, {
+    "id": 122,
+    "name": "Black strap",
+    "short_description": "Black",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/gramercy-straps/GRAMERCY-STRAPS-Black-strap-33.png"
+  }]
+},{
+  "name": "BOWERY STRAPS",
+  "description": "With its stitched finish and classy look, the Bowery straps work perfectly with our thin and elegant watch cases. Handmade and stitched to perfection, the Bowery strap is a classic wardrobe essential that never goes out of style.",
+  "products": [{
+    "id": 71,
+    "name": "Pink strap",
+    "short_description": "Rose Gold",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/bowery-straps/BOWERY-STRAPS-Pink-strap-Rose-Gold.png"
+  }, {
+    "id": 72,
+    "name": "Pink strap",
+    "short_description": "Silver",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/bowery-straps/BOWERY-STRAPS-Pink-strap-Silver.png"
+  }, {
+    "id": 84,
+    "name": "Brown strap",
+    "short_description": "Rose Gold",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/bowery-straps/BOWERY-STRAPS-Brown-strap-Rose-Gold.png"
+  }, {
+    "id": 88,
+    "name": "Black strap",
+    "short_description": "Rose Gold",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/bowery-straps/BOWERY-STRAPS-Black-strap-Rose-Gold.png.png"
+  }]
+}, {
+  "name": "TRIBECA STRAPS",
+  "description": "Tailored for our smaller-sized Tribeca watches, these straps have been designed for the more delicate wrist. Available in both genuine leather and luxurious stainless steel mesh, with these straps you can easily match your Tribeca watch with any outfit!",
+  "products": [{
+    "id": 241,
+    "name": "Brown strap",
+    "short_description": "Rose gold",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/tribeca-straps/TRIBECA-STRAPS-Rose-Gold-Brown-strap-Rose-gold.png"
+  }, {
+    "id": 257,
+    "name": "Pink strap",
+    "short_description": "Rose gold",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/tribeca-straps/TRIBECA-STRAPS-Pink-strap-Rose-Gold.png"
+  }, {
+    "id": 258,
+    "name": "Black strap",
+    "short_description": "Silver",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/tribeca-straps/TRIBECA-STRAPS-Black-strap-Silver.png"
+  }, {
+    "id": 259,
+    "name": "Black strap",
+    "short_description": "Rose Gold",
+    "price": "35",
+    "image": "http://i.rosefieldwatches.com/products/straps/tribeca-straps/TRIBECA-STRAPS-Black-strap-Rosegold.png.png"
+  }]
+}]

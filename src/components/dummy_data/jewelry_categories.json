@@ -1,0 +1,69 @@
+[{
+  "name": "DOWNTOWN CHIC",
+  "description": "Introducing Rosefield Fine Jewelry with the Downtown Chic Collection. Inspired by downtown New York City and the cool-girl Amsterdam look the collection is a range of 7 bracelets, each with their own subtle personality. Designed to mix and match with each watch, the bracelets are handcrafted out of sterling silver and are available in a range of plated gold, rose gold or silver.",
+  "products": [
+  {
+    "id": 323,
+    "name": "The Broome",
+    "short_description": "Gold",
+    "price": "89",
+    "image": "https://i.rosefieldwatches.com/products/jewelry/downtown-chic/downtown-chic-the-broome-gold.png"
+  },
+  {
+    "id": 324,
+    "name": "The Broome",
+    "short_description": "Silver",
+    "price": "89",
+    "image": "https://i.rosefieldwatches.com/products/jewelry/downtown-chic/downtown-chic-the-broome-silver.png"
+  },
+  {
+    "id": 325,
+    "name": "The Broome",
+    "short_description": "Rose gold",
+    "price": "89",
+    "image": "https://i.rosefieldwatches.com/products/jewelry/downtown-chic/downtown-chic-the-broome-rose-gold.png"
+  },
+  {
+    "id": 315,
+    "name": "The Baxter",
+    "short_description": "Rose Gold",
+    "price": "89",
+    "image": "https://i.rosefieldwatches.com/products/jewelry/downtown-chic/downtown-chic-the-baxter-rose-gold.png"
+  },
+  {
+    "id": 314,
+    "name": "The Baxter",
+    "short_description": "Gold",
+    "price": "89",
+    "image": "https://i.rosefieldwatches.com/products/jewelry/downtown-chic/downtown-chic-the-baxter-gold.png"
+  },
+  {
+    "id": 320,
+    "name": "The Mulberry",
+    "short_description": "Gold",
+    "price": "49",
+    "image": "https://i.rosefieldwatches.com/products/jewelry/downtown-chic/downtownchic-the-mulberry-gold.png"
+  },
+  {
+    "id": 318,
+    "name": "The Mott",
+    "short_description": "Rose gold",
+    "price": "49",
+    "image": "https://i.rosefieldwatches.com/products/jewelry/downtown-chic/downtown-chic-the-mott-rose-gold.png"
+  },
+  {
+    "id": 317,
+    "name": "The Mott",
+    "short_description": "Gold",
+    "price": "49",
+    "image": "https://i.rosefieldwatches.com/products/jewelry/downtown-chic/downtown-chic-the-mott-gold.png"
+  },
+  {
+    "id": 319,
+    "name": "The Mott",
+    "short_description": "Silver",
+    "price": "49",
+    "image": "https://i.rosefieldwatches.com/products/jewelry/downtown-chic/downtown-chic-the-mott-silver.png"
+  }
+]
+}]

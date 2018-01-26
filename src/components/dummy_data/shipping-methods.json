@@ -1,0 +1,17 @@
+[
+  
+  {
+     "value":"myparcel_flatrate",
+     "title":"Standard Shipping - Free",
+     "shipping-price":"10.05", 
+     "tax":"1"
+  },
+  
+  {
+     "value":"myparcel_flatrate",
+     "title":"Post NL 1-2 dagen",
+     "shipping-price":"15.45", 
+     "tax":"0"
+  }
+
+]

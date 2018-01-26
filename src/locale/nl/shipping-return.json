@@ -1,0 +1,32 @@
+{
+    "Title": "VERZENDING & RETOURNEREN",
+    "ShippintText": {
+        "Title": "VERZENDING",
+        "Headline": "Wij verzenden gratis wereldwijd. Zie onderstaande tabel voor de verwachte levertijden:",
+        "TableContent": [{
+			"field1":"BESTEMMING",
+            "field2":"EXPRESS PRIJS",
+            "field3":"EXPRESS LEVERING"
+        }, {
+            "field1":"Nederland",
+            "field2":"Gratis",
+            "field3":"1 - 2 werkdagen"
+        }, {
+            "field1":"De rest van Europa",
+            "field2":"Gratis",
+            "field3":"1 - 3 werkdagen"
+        },{
+            "field1":"De rest van de wereld",
+            "field2":"Gratis",
+            "field3":"2 - 4 werkdagen"
+        }]
+    },
+    "ShippingNote": "Please be aware of the fact that for straps which are bought individually (not together with a watch) we charge US$ 10 shipping costs:",
+    "ShippingDescription": {
+        "Title": "RETOURNEREN",
+        "Description": [{"sub_desc":"Alle producten van ROSEFIELD kunnen binnen 14 dagen na ontvangst zonder enige reden worden geretourneerd. Alle producten hebben een garantie van 2 jaar. Zie de Algemene Voorwaarden voor meer informatie."},
+            {"sub_desc":"Geretourneerde producten dienen in dezelfde staat teruggezonden te worden als waarin ze zijn ontvangen. Een koper die het product wenst te retourneren, mag het product alleen uitgepakt en gebruikt hebben voor zover nodig is geweest om te bepalen of hij of zij het product wenst te houden. Geretourneerde producten worden zorgvuldig nagekeken, omdat ze ongedragen en in de originele verpakking teruggestuurd dienen te worden."},
+            {"sub_desc":"Indien een product defect is bij ontvangst, of er een verkeerd product is afgeleverd, dient de koper ons meteen (binnen 24 uur) te informeren. Wij zullen je vervolgens verdere instructies geven."},
+            {"sub_desc":"Kopers die het product wensen te retourneren zijn zelf verantwoordelijk voor de retourzending en de kosten daarvan. We raden kopers aan om de bestelling verzekerd terug te sturen, aangezien een koper zelf verantwoordelijk is voor eventuele problemen met betrekking tot de retourzending. Wij zullen elk teruggezonden product zorgvuldig nakijken en indien het gebrek niet door de koper is veroorzaakt, zal er een gerepareerd product of een vervangend product teruggezonden worden naar de koper. Eventuele kosten van de verzending naar ROSEFIELD worden in dit geval teruggestort."}]
+}
+}

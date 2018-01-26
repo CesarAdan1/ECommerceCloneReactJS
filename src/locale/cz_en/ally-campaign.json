@@ -1,0 +1,82 @@
+{    
+    "BannerInfoText":
+    {
+       "AmcText": "Ams | Nyc",
+       "IntroText": "A day in the life: New York with Ally",
+       "SubIntroText": "Two girls, a lot of dreams. Even though Ally and Aby live in different continents, they have a lot in common.",
+       "VideoButtonText": "Play video"
+    },
+    "FirstSection":
+    {
+       "TimeText": "1.37 AM, The Bowery",
+       "Text1": "Since moving to Bowery, I’ve been wearing earplugs at night.",
+       "Text2": "But it’s still not easy to sleep through the ambulance sirens at night. The flashing lights fill my bedroom with red shadows, making it appear like a brothel."
+    },
+    "SecondSection":
+    {
+       "Text": "Half asleep, I grab my watch from the nightstand. It’s not even close to wake up time yet.",
+       "ViewTheWatch": "View the Watch"
+    },
+    "ThirdSection":
+    {  
+       "Text1": "I crawl back under the covers, inhaling the smell of clean sheets.",
+       "TimeText": "8.25 AM, The Bowery",
+       "Text2" : "I’m late again, but I’m way too clumsy to rush. I’d definitely trip."
+       
+    },
+    "FourthSection":
+    {
+       "TimeText": "8.25 AM, The Bowery",
+       "Text": "My hair is still a mess.",
+       "ShowTheWatch": "Show the Watch"
+    },
+    "FifthSection":
+    {
+       "Text": "love the ceiling tiles of the elegant apartment I pass on my left but I won’t be seduced by the irresistible charm of this nostalgic building. I won’t daydream of a romantic breakfast in crisp white sheets inside it. At least not today."
+    },
+    "SixthSection":
+    {
+       "Text": "First thing’s first. I’m in dire need of a caffeine fix…"
+       
+    },
+    "SeventhSection":
+    {
+       "Text1": "Like they say, in New York City people work hard and play hard. That’s definitely true for me. It’s time to sit down for lunch with my friends at Dimes Deli. I’m dying to try their lavender acai bowl.",
+       "Text2": "First thing’s first. In dire need of a caffeine fix, I walk up to the first Starbucks I see and order my usual: a cappuccino, with two extra shots of espresso, please.",
+       "ShowTheWatch": "Show the Watch"
+    },
+    "EighthSection":
+    {
+       "TimeText": "8.54 PM Nolita, Restaurant Rubirosa",
+       "Text1": "No, no! I’ll rupture a tendon!",
+       "Text2": "Every two months or so, I excitedly start a new work out routine without ever sticking to it."
+    },
+    "NinethSection":
+    {
+       "Text": "‘No, no! I'll rupture a tendon!’ Every two months or so, I excitedly start a new work out routine without ever sticking to it. Barre combines ballet, yoga and pilates, and guessing from the way the instructor is looking at me, I'm not doing very well today. She carefully tries to manipulate my arms and legs into the right position, unfortunately with little result.",
+       "SeeWhatAby": "See what Aby is up to in Amsterdam"
+    },
+    "TenthSection":
+    {
+       "TimeText": "7.20 PM, Times Square",
+       "Text": "Like they say, in New York City people work hard and play hard. That’s definitely true for me."
+    },
+    "EleventhSection":
+    {
+       "Text": "I’m slowly sipping my Cicilian Nero D’Avola while sitting at a wide wooden bar the color of yellowing newspaper.",
+       "ShowTheWatch": "Show the Watch"
+       
+    },
+    "TwelthSection":
+    {
+       "Text": "From the rooftop I’ll admire the flashing neon lights of Times Square and observe the movements of hundreds of lingering tourists. Lizzie will be arriving late. Hungry for food, my mind wanders while I wait. During my time in Amsterdam I shared a pizza with my ex-boyfriend in a restaurant in the city’s West side that could easily compete with a New York pie."
+       
+    },
+    "thirteenthSection":
+    {
+       "Text": "What would it be like to live there? I think about Amsterdam nearly every day. Maybe I should move."
+       
+    }
+
+
+}

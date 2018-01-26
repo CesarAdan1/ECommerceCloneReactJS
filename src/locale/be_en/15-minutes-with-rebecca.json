@@ -1,0 +1,109 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Rebecca Price",
+    "Tagline": "Meet one of the Stylists at Karen Millen",
+    "Time": "11.00 Amsterdam",
+    "ChatText": "we met rebecca for a coffee and a chat",
+    "IntroText": "Rebecca Price - Stylist at Karen Millen and working on several projects and photoshoots. She is British, but grew up in a tiny village in the Catalonian Pyrenees near Barcelona where she attended a Catalan school. Returned to London where she studied at the London College of Fashion. She is crazy about contemporary art, so while traveling she spends a lot of time in museums.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "Time seems to go faster the older you get, I never used to believe people when they would tell me that, but time does fly by these days!"
+            },
+            {
+                "question": "Latest discovery in Amsterdam?",
+                "answer": "Recently I discovered La Boite a Sardine in Marseille, France. One of the best seafood restaurants I have ever been to. I love seafood!"
+            },
+            {
+                "question": "What is your morning routine?",
+                "answer": "Breakfast first. I get grumpy if I don't eat. Jump in the shower and get ready for work."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Your favorite place in Amsterdam?",
+                "answer": "Toki for coffee on the Binnen Dommersstraat and Skins for perfume and candles. I have a bit of an addiction when it comes to cosmetics and Diptyque do the best candles."
+            },
+            {
+                "question": "On Sundays I…",
+                "answer": "On Sundays.. I love to visit the flea markets for vintage clothes or mid century furniture. I love mixing vintage clothing with high street or designer. I picked up this great leopard print coat from the market over at Waterlooplein last summer."
+            }
+        ]
+    },
+    "QuoteText": "Breakfast first. I get grumpy if I don't eat.",
+    "Name": "Rebecca",
+    "CenterQuestion":
+    {
+       "question": "what do you like to do when you have a day off?",
+       "answer": "Visit the Stedelijk or Foam museum. Meet a friend for coffee or take a walk through Vondelpark."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "11.10 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Your best memory?",
+                "answer": "Waking up to the call for prayer in Meknes Morocco. I travelled all over Morocco a few years ago and it is still one of the most magical places I have been to."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Who or what inspired you in life and why?",
+                "answer": "My parents. They have never been scared of an adventure. We moved and travelled a lot when I was growing up and lived in the most remote places, we lived in freezing temperatures in the Pyrenees with no central heating, only log fires. We would grow our own vegetables and chop fire wood. It was the best childhood."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "The Mercer in White Gold. It's very classic and I wear it with everything. I get so many compliments!",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "11.15 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "What people do not know about you?",
+                "answer": "My grandfather used to make and repair guitars for the Beatles and Jimi Hendrix and I was struck by lightning when I was nine."
+            },
+            {
+                "question": "I’m always late/on time...",
+                "answer": "Early. I find being late very stressful, I always try to arrive 5-10 minutes early."
+            },
+            {
+                "question": "In five years time I…",
+                "answer": "In five years.. I hope to be back home, in Barcelona drinking vermut listening to Leonard Cohen on a terrace somewhere. That's where my heart is."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "If you could teleport yourself, where would you go?",
+                "answer": "To the 1970's, Ziggy Stardust Tour. If anyone ever invents a time machine that's where you will find me, front row with David Bowie."
+            },
+            {
+                "question": "Gold or silver?",
+                "answer": "Gold. Always. I don't think I have ever worn silver."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "I'm always early. I find being late very stressful."
+    }
+
+}

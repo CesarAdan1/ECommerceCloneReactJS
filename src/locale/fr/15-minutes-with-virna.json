@@ -1,0 +1,130 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Virna Auvergne",
+    "Tagline": "Une rencontre avec l’attachée de presse pour l’agence ASAP Communication, Paris.",
+    "Time": "14:10 Paris",
+    "ChatText": "on a partagé un café et un moment avec virna.",
+    "IntroText": "Virna Auvergne, 27 ans, sudiste expatriée à Paris depuis plus de 7 ans, née d’un père italien et d’une maman espagnole. Sang chaud mêlé à une curiosité aiguisée… Attention caractère bien trempé.",
+    
+    "Question_section1":
+    {
+        "Time_one": "14:14 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ta dernière découverte?",
+                "answer": "Le rap français: (Re)découverte. Sans être groupie, je redécouvre la scène rap française et je me surprends à apprendre les textes par coeur comme quand j’avais 15 ans avec MC Solaar ou IAM. Set&Match, S-Crew, Joke, Nekfeu, Mhd… tournent en boucle dans mon casque et rythment mes grosses journées parisiennes. À vos casques!"
+            },
+            {
+                "question": "Ton rituel du matin?",
+                "answer": "Me préparer en un laps de temps encore plus rapide que la veille: je rentabilise chaque minute, le réveil est un véritable supplice pour moi, je repousse toujours ce moment fatal. "
+            },
+            {
+                "question": "La vie à Paris c’est…",
+                "answer": "Une téléréalité. Chaque jour livre son lot de rebondissements. Je bosse dans un bureau de presse où l'on gère plusieurs marques, chaque jour réserve son lot de surprise: evénement, shooting, interview, salon, présentation presse, vit d’agence… le soir quand je rentre mon mec m’écoute pendant une heure lui raconter ma journée et son lot de petits potins: vis ma vie d’attacher de presse (avec beaucoup d’auto-dérision)."
+            },
+            {
+                "question": "Plutôt matin ou soir?",
+                "answer": "Compte tenu de mon rituel matinal, vous aurez compris que  c'est plutôt soir. J’aime la liberté que livre la nuit, les interdits ne le sont plus vraiment, il y a un côté sexy dans tout ça."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "La personne la plus cool selon toi c’est…",
+                "answer": "Mes amis. Ils sont plusieurs je sais, mais en fait ils ne forment qu’un. Et mon dieu quelle équipe! Si je pouvais seulement vous les présenter… vous seriez unanimes. D’ailleurs on est en train de réfléchir à l’idée de réaliser un film autour de ça. C’est une très belle histoire, avec énormément de rires, de rebondissements aussi et de passion. On veut immortaliser tout ça et se dire que c’est dans la boîte, que cette fois-ci la belle histoire à l’écran, c’est la nôtre."
+            },
+            {
+                "question": "Ma montre Rosefield préférée:",
+                "answer": "Je les aime toutes! Efficaces, sobres et percutantes. Elles en jettent sérieux. En ce moment je porte la Bowery cadran or rose avec un bracelet bleu et on m’arrête souvent dans la rue pour me demander la marque de ma montre. Je vous jure!"
+            },
+            {
+                "question": "Une heure de trou dans la journée, je…",
+                "answer": "..mange ! À Paris, de nouvelles adresses poussent chaque semaine, j’ai une To Do List avec tous les endroits que je dois tester. Tout est toujours « à concept » et j’aime me faire un avis sur chaque lieu, alors, à la moindre occasion, je fonce ;)"
+            }
+        ]
+    },
+    "QuoteText": "La vie à Paris c’est une télé réalité. Chaque jour livre son lot de rebondissements.",
+    "Name": "Virna",
+    "CenterQuestion":
+    {
+       "question": "or ou argent?",
+       "answer": "Pourquoi choisir. Melting pot!"
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "14:22 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Si tu pouvais te téléreporter – ça serait pour aller…",
+                "answer": "Dans le Golfe de Sperone, une plage paradisiaque en Corse digne de toutes les plus belles îles du monde franchement. Oubliez les Maldives et ses 11 heures de vol, ça vaut pas le coup!"
+            },
+            {
+                "question": "Ce que les gens ne savent pas sur toi?",
+                "answer": "Que je veux faire le rallye des Gazelles pour mes 30 ans."
+            },
+            {
+                "question": "Dans 5 ans, je…",
+                "answer": "..vivrai dans le Sud, dans une chouette maison avec un grand atelier et un jardin avec plein d’animaux: deux tortues, trois chats, un chien marrant et des poules. J’aurai un quad aussi, une mobylette et une veille décapotable type Golf 1 ou une Lada."
+            },
+            {
+                "question": "L’expression que tu dis tout le temps?",
+                "answer": "« Non mais Roquefort qui dit à Camembert: tu pues! » Une autre manière de dire, c’est l’hôpital qui se fout de la charité. Trop dépassée celle-ci."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Tu passerais bien une petite heure avec?",
+                "answer": "Tom Hardy :) même si on soupçonne que je ne sois pas son genre. J’aimerai bien en avoir le coeur net. Mais bon je parle assez mal anglais, du coup je ne suis pas tout à fait sûre de comprendre."
+            },
+            {
+                "question": "La chanson que tu écoutes en boucle?",
+                "answer": "Madonna, toute sa discographie."
+            },
+            {
+                "question": "Le dernier film qui t’a fait pleurer?",
+                "answer": "Mommy, de Dolan. Mais j’ai aussi pleuré devant Zootopie ou Stranger Things, le cinéma à un grand pouvoir sur moi."
+            },
+            {
+                "question": "Une recette “wahou” en 15 min’?",
+                "answer": "La sauce poulette: de la bonne crème entière, du vin blanc, un kub’or et du poivre. Tu mets ça avec des pâtes, du poulet, des pommes de terre sautées ou un écrasé de carotte… c’est fabuleux!"
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "Ma montre Rosefield préférée:",
+       "WatchText": "Je les aime toutes mais ma préférée est la bowery au cadran or rose avec son bracelet bleu",
+       "CheckThisWatch": "Décrouvez cette montre",
+       "ProductName": "The Bowery",
+       "ProductShortDesc": "Blue - Rose Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "14:25 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ta petite manie?",
+                "answer": "Traîner chez moi en t-shirt oversize informe et culotte de gamine, une passion!"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Montre préférée:",
+                "answer": "Je les aime toutes mais ma préférée est la bowery au cadran or rose avec son bracelet bleu"
+            }
+        ]
+    },
+
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Un bon souvenir? Les crises de rires qu’on attrape avec ma grand-mère, ma mère, ma soeur et moi."
+    }
+
+}

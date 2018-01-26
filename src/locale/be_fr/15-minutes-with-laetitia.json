@@ -1,0 +1,129 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Laetitia Guérini",
+    "Tagline": "Rencontre avec Laetitia, fondatrice de la marque LEÏ 1984",
+    "Time": "11.00 PM Paris",
+    "ChatText": "On a partagé un petit moment autour d’un café avec Laetitia.",
+    "IntroText": "Entre deux voyages de son sud natal vers la capitale, Laetitia Guérini, fondatrice de la marque LEÏ 1984, a trouvé le temps de se poser le temps d’un café et de nous en dire un peu plus sur ses inspirations, sa vie & son quotidien parisien.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ta dernière découverte?",
+                "answer": "Le cacao cru, le granola fait maison, et la marque Rosefield !"
+            },
+            {
+                "question": "Ton rituel du matin ?",
+                "answer": "Mon nouveau rituel beauté c’est de me laver le visage avec une éponge Konjak. C’est une éponge naturelle qui vient du Japon, il suffit de l’humidifier et d’ajouter un peu de démaquillant et elle nettoie tout en douceur !"
+            },
+            {
+                "question": "La vie à Paris / en France c’est…",
+                "answer": "Speed à Paris, plus cool quand je suis chez moi à Aix. Je partage mon temps entre ces deux villes : je profite du calme d’Aix pour me ressourcer et me concentrer sur mes nouveaux designs. Mais une fois à Paris le rythme s’intensifie : j’enchaine rendez-vous sur rendez-vous… C’est très intense !"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Plutôt matin ou soir ?",
+                "answer": "Sans aucune hésitation : le soir ! C'est comme si j'avais emmagasiné de l'énergie toute la journée pour en profiter le soir."
+            },
+            {
+                "question": "Or ou Argent ?",
+                "answer": "Argent."
+            }
+        ]
+    },
+    "QuoteText": "C'est comme si j'avais emmagasiné de l'énergie toute la journée pour en profiter le soir.",
+    "Name": "Laetitia",
+    "CenterQuestion":
+    {
+       "question": "une heure de trou dans la journée, je…",
+       "answer": "Je file à un cours de yoga direct ! J’essaye de faire attention à mon bien-être et pour ça je n’ai encore rien trouvé de plus efficace que le Yoga."
+        
+    },
+    "Question_section2":
+    {
+        "Time_three": "11.10 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "La personne la plus cool selon toi c’est…",
+                "answer": "Très dur de choisir, mais selon moi mes amies sont les personnes les plus cools sur terre."
+            },
+            {
+                "question": "Un bon souvenir ?",
+                "answer": "L'été dernier à la campagne, de longues siestes au bord d’un lac sauvage."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Je suis toujours à l’heure/en retard ? (Pourquoi ?)",
+                "answer": "Je cours pour être pile à l'heure mais toujours avec un gros stress d'être en retard."
+            },
+            {
+                "question": "Si tu pouvais te téléporter – ça serait pour aller…",
+                "answer": "En corse chez mon papa… Je n'ai pas eu le temps d'y aller cet été."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "Ma montre Rosefield préférée :",
+       "WatchText": "la mercer en rosegold, c’est un bijou !",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Rose Gold"
+    },
+        "Question_section3":
+    {
+        "Time_three": "11.15 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ce que les gens ne savent pas sur toi ?",
+                "answer": "J’essaye de le cacher, mais j'ai toujours le trac quand il s'agit de vendre mes créations."
+            },
+            {
+                "question": "Dans 5 ans, je…",
+                "answer": "J'espère avoir la chance de continuer à faire ce que j'aime."
+            },
+            {
+                "question": "L’expression que tu dis tout le temps ?",
+                "answer": "'C'est Hyper beau.'"
+            },
+            {
+                "question": "Tu passerais bien une petite heure avec ?",
+                "answer": "Mon amoureux."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "La chanson que tu écoutes en boucle ?",
+                "answer": "Black roses de Barrigton Levy."
+            },
+            {
+                "question": "Le dernier film qui t’a fait pleurer ?",
+                "answer": "Le film Turc “Mustang” par Deniz Gamze Ergüven."
+            },
+            {
+                "question": "Une recette “wahou” en 15 min’ ?",
+                "answer": "Un pistou maison ! Délicieux !"
+            },
+            {
+                "question": "Ta petite manie ?",
+                "answer": "Rituel du soir indispensable de mes journées : une tisane yogi tea."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Dans 5 ans, j'espère avoir la chance de continuer à faire ce que j'aime."
+    }
+
+}

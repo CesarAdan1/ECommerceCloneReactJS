@@ -1,0 +1,129 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Stephanie Broek",
+    "Tagline": "Meet the Fashion Features editor for Glamour NL.",
+    "Time": "11.00 A msterdam",
+    "ChatText": "we met jeanine in amsterdam for a nice chat",
+    "IntroText": "She’s blonde, she’s young, she’s beautiful.She never leaves the house looking anything less than supercool.She’s a big fan of vintage and she always picks special items that make her wardrobe unique and personal. Her dream job gives her the opportunity to follow the most important fashion shows around the world and to always be right on top of the latest trends.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "Time, there is never enough time! It goes by way too fast and I always wish I had more hours in the day. I do think time is something beautiful because it gives you the chance to make something grow out of nothing. In life, in love, time can make things a lot better."
+            },
+            {
+                "question": "What is your morning routine?",
+                "answer": "I snooze a hundred times and open Instagram to stay awake. When I finally drag myself out of bed – approximately half an hour after my first alarm went off. I either make a breakfast smoothie if I have enough time or rush into the shower."
+            },
+            {
+                "question": "Favorite Instagram account?",
+                "answer": "o many… I&#39;ll try to keep it <br />short: @blancamiro @majawyh @manrepeller <br />@pernilleteisbaek @sarrjamois"
+            },
+            {
+                "question": "Latest discovery?",
+                "answer": "Canggu, a surfer town in Bali. It has a perfect mix of rice fields,local shops and warungs with mouthwatering nasi campur plus a few coo restaurants and stores."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Your favorite place in Amsterdam?",
+                "answer": "The Vondelpark in autumn, when the leaves of trees turn yellow,orange and red. Never gets old."
+            },
+            {
+                "question": "As the Fashion Features editor for Glamour your wardrobe must be every girls dream, what are your most favorite pieces?",
+                "answer": "All my coats. Coats are the building bricks of my wardrobe, since we have to wear one almost every day of the year in the Netherlands.I can&#39;t live without my biker jacket (which is made from recycled leather) and my faux fur coats."
+            },
+            {
+                "question": "Your job allows you to travel to many places, which one has been your favorite/the coolest so far?",
+                "answer": "I was able to see New York for the first time thanks to my job.It was during New York Fashion Week and although I was freezing to death – it was -16 outside – it was an unforgettable journey. Recently I was invited to stay at Yasuragi in Stockholm, an amazing Japanese spa.Traveling is one of the best aspects of my job. I still feel so lucky every time I get on a plane."
+            }
+        ]
+    },
+    "QuoteText": "I was able to see New York for the first time thanks to my job.",
+    "Name": "Stephanie",
+    "CenterQuestion":
+    {
+       "question": "on sundays i…",
+       "answer": "Sleep in, go out for brunch, see a movie or read a book at my favorite spot along the Amstel."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "10.23 AM Amsterdam ",
+        "LeftQuestion":
+        [
+            {
+                "question": "Who or what is for you the epitome of beauty?",
+                "answer": "Someone who radiates kindness."
+            },
+            {
+                "question": "Your best memory?",
+                "answer": "A trip to Paris in August 2008. My boyfriend and I started dating two months earlier. We walked around city on cloud nine."
+            },
+            {
+                "question": "I’m always late/on time?",
+                "answer": "In the nick of time or maximum 5 minutes late. It's just impossible for me to be on time, but I'm never embarrassing late."
+            },
+            {
+                "question": "If you could teleport yourself, where would you go?",
+                "answer": "Barcelona. My favorite city in the world. It has a beach, beautiful museums, mesmerizing architecture and incredible food. Sitting on a terrace in the El Born neighbourhood after a day of sun worshipping and cycling by Gaudi's Casa Milà is my idea of happiness."
+            },
+            {
+                "question": "What people do not know about you?",
+                "answer": "There is a 65-years old lady living inside of me. Aside from work (which allows me to travel often, takes me to incredible parties and meet extraordinary people) I'm really boring. I love to stay in at night. If I party once a year, that's a lot for me."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Who or what inspired you in life and why?",
+                "answer": "Becoming vegan was and still is the most fulfilling decision of my life. I admire people who try to do something good for the planet and I always challenge myself to do more."
+            },
+            {
+                "question": "How do you combine this way of life with fashion?",
+                "answer": "I try to buy as much vintage and second hand as possible. I love going to flea markets and thrift stores. Fashion in itself recycles all the time. For instance: nineties puffer jackets are everywhere this fall. You can find amazing puffer jackets in thrift stores. I also try to think consciously before I buy something. Do I really need this? Is the quality long-lasting? Will I still be happy with it in 5 years? I would never buy something I know I’m only going to wear once."
+            },
+            {
+                "question": "Favorite vegan designers:",
+                "answer": "Stella McCartney and Bruno Pieters. They show that you don’t have to sacrifice style when you buy sustainable/vegan/green."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "my favorite is the mercer white rose gold, goes with everything.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "Rose Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "10.25 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "In five years I…",
+                "answer": "hope I'm still as happy as I am today and travel even more."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Favorite (Rosefield) timepiece?",
+                "answer": "The Mercer in White - Rose Gold. Goes with everything."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "In five years I hope I'm still as happy as I am today and travel even more."
+    }
+
+}

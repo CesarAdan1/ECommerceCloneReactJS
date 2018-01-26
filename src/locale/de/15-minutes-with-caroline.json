@@ -1,0 +1,114 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Caroline Lemblé",
+    "Tagline": "Lerne eine der Freelance Stylisten von Berlin kennen",
+    "Time": "14.35 Berlin",
+    "ChatText": "wir trafen uns mit caroline für einen spaziergang durch berlin.",
+    "IntroText": "Die gebürtige Französin Caroline Lemblé lebt derzeit zusammen mit Hund Lou in Berlin. Nach anfänglich für Interview, Harpers Bazaar und L’Officiel gearbeitet zu arbeiten, ist sie derzeit Stylistin. Ihr beeindruckendes Resumé ist eine Hommage an ihren Fleiß, Widmung und der Liebe für Mode.",
+    
+    "Question_section1":
+    {
+        "Time_one": "14.40 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "Was bedeutet Zeit für Dich?",
+                "answer": "Sie ist für mich etwas sehr Wertvolles. Oft hat man davon nicht genug und hetzt von einem Termin zum nächsten. Es ist sehr wichtig sich Zeit zu nehmen für die Menschen, die im Leben zählen."
+            },
+            {
+                "question": "Wer oder was ist für Dich der Inbegriff von Schönheit?",
+                "answer": "Schönheit trägt man im Herzen. Gutmütigkeit kann man Menschen oft in den Augen ansehen. Sie haben immer dieses bestimmte Leuchten."
+            },
+            {
+                "question": "Neueste Entdeckung?",
+                "answer": "Das Café Dots in Neukölln."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Was ist Deine morgendliche Routine?",
+                "answer": "Zigarette und Kaffee und dann im Pyjama möglichst schnell raus mit Lou (meinem Hund)."
+            },
+            {
+                "question": "Favorite Spot in Berlin?",
+                "answer": "Plänterwald – ein wunderschöner kleiner Wald, der nur 10 min entfernt von meiner Wohnung liegt."
+            },
+            {
+                "question": "Sonntags mache ich…",
+                "answer": "nichts. Ausschlafen, keine Mails, keine Anrufe .... lange im Bett dösen und einen guten Film am Abend gucken."
+            }
+        ]
+    },
+    "QuoteText": "Es ist sehr wichtig sich Zeit zu nehmen für die Menschen, die im Leben zählen.",
+    "Name": "Caroline",
+    "CenterQuestion":
+    {
+       "question": "Was machst du am liebsten an Deinem freien Tag?",
+       "answer": "Kaffee to go am Pavillon (Paul-Lincke-Ufer/Ecke Glogauer Straße) und dann ab in den Wald."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "14.45 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "Was ist Deine beste Erinnerung?",
+                "answer": "Meine Kindheit in Marokko, Loveparade im Jahr 2000, meine Studienjahre an der AMD und die Urlaube mit meiner Mutter."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Wer oder was inspiriert dich im Leben und wieso?",
+                "answer": "Meine Mutter, denn sie war einfach einzigartig und hat stets ihr Ding durchgezogen."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite uhr",
+       "WatchText": "the tribeca in weiß-schwarz. klein und klassisch.",
+       "CheckThisWatch": "CHECK THIS WATCH",
+       "ProductName": "The Tribeca",
+       "ProductShortDesc": "White - Black"
+    },
+    "Question_section3":
+    {
+        "Time_three": "14.50 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "Eine Sache, die die meisten Menschen nicht über dich wissen?",
+                "answer": "Ich sammle Porzellanfiguren, wie eine alte Omi"
+            },
+            {
+                "question": "Bist du immer pünktlich oder zu spät? Wieso?",
+                "answer": "Ich bin immer pünktlich. Wieso? Aus Respekt."
+            },
+            {
+                "question": "In fünf Jahren werde ich…",
+                "answer": "hoffentlich ein Gästehaus in Griechenland führen."
+            }
+
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "An welchen Ort würdest du dich auf der Stelle beamen, wenn du könntest?",
+                "answer": "Auf die Insel Mykonos, dort habe ich mit meinem besten Freund den schönsten Urlaub verbracht."
+            },
+            {
+                "question": "Gold oder Silber?",
+                "answer": "Silber."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Ich bin immer pünktlich. Wieso? Aus Respekt."
+    }
+
+}

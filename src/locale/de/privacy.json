@@ -1,0 +1,23 @@
+{
+  "Title": "Datenschutzerklärung",
+  "PersonalInformation": {
+    "Title": "DATENSCHUTZERKLÄRING",
+    "Text": "Der Schutz Ihrer Privatspäre und Ihnen ein sicheres und angenehmes Einkaufserlebnis zu bieten ist für uns sehr wichtig. Nachfolgend informieren wir Sie ausführlich über den Umgang mit Ihren Daten."
+  },
+  "Payments": {
+    "Title": "Personenbezogene Daten",
+    "Text": "Wenn Sie auf www.rosefieldwatches.com einkaufen, sammeln wir personenbezogene Daten, die Sie uns bei einem Kauf, bei der Anmeldung für unseren Newsletter oder beim Erstellen eines Kontos freiwillig zur Verfügung stellen. Sie können jederzeit das Abonnement für weitere Emails mit dem Link am Schluss jeder E-Mail stornieren. Hierbei handelt es sich beispielsweise um Ihren Namen, Ihre Adresse, Ihre Kontakinformationen usw. Eine Weitergabe Ihrer personenbezogenen Daten erfolgt nur an von uns im Rahmen der Bestellabwicklung eingesetzte Partner (Transporteur, Logistiker, Banken)."       
+  },
+  "ThirdParties": {
+    "Title": "Auskunftsrecht",
+    "Text": "Nach dem Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche Auskünfte über Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten."       
+  },
+  "Cookies": {
+    "Title": "Datensicherheit",
+    "Text": "Ihre Zahlungsdaten werden im Bestellprozess verschlüsselt über das Internet übertragen. Wir sichern unsere Website und sonstigen Systeme durch technische und organisatorische Maßnahmen gegen Verlust, Zerstörung, Zugriff, Veränderung und Verbreitung Ihrer Daten durch unbefugte Personen. Sie sollten Ihre Zugangsinformationen stets vertraulich behandeln und das Browserfenster schließen, wenn Sie die Kommunikation mit uns beendet haben."       
+  },
+  "NewsletterSubscription": {
+    "Title": "Verwendung von Cookies",
+    "Text": "Cookies sind kleine Textdateien, die bei einem Besuch unserer Webseite auf der Festplatte Ihres Computers abgelegt werden. Einige Cookies sind für die korrekte Funktionsweise der Website wichtig. Sie verfolgen Ihre Einstellungen und machen Ihr Einkaufserlebnis angenehmer, indem sie beispielsweise Ihr Gerät erkennen und Ihre Einstellungen abspeichern. Cookies werden außerdem verwendet, um Nutzungsdaten zu sammeln, z. B. Dauer der Sitzung, angezeigte Seiten, durchgeführte Transaktionen oder demografische Daten wie Herkunft, Geschlecht und Alter. Diese Angaben werden zu Analysezwecken verwendet und geben uns die Möglichkeit, Ihnen das beste Einkaufserlebnis zu bieten. Ihr Browser erlaubt Ihnen einschränkende Einstellungen zur Nutzung von Cookies, wobei diese dazu führen können, dass unser Angebot für Sie nicht mehr bzw. eingeschränkt funktioniert. Cookies können dort auch gelöscht werden. Wir verwenden Sitzungs-Cookies und Langzeit-Cookies. Sitzungscookies werden nach dem Schließen Ihres Browsers wieder gelöscht. Langzeit-Cookies verbleiben auf der Festplatte mit einer, für Ihre Bequemlichkeit, eingestellten Verfallszeit. Bei einem weiteren Besuch wird dann automatisch erkannt, dass Sie bereits bei uns waren und welche Eingaben und Einstellungen Sie bevorzugen. Sie können bereits gespeicherte Cookies auf Ihrem Computer deaktivieren, indem Sie die Browsereinstellungen für Cookies ändern. Sie können aber auch Cookie-Abmeldeprogramme wie „Consumer Opt-Out von NAI“ oder das „Opt-Out Browser Add-On“ von Google Analytics verwenden, um Cookies zu deaktivieren. Bitte beachten Sie jedoch, dass diese Einstellungen die korrekte Funktion der Website möglicherweise beeinträchtigen."       
+  }
+}

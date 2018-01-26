@@ -1,0 +1,109 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Chloé Leenheer",
+    "Tagline": "Meet the Dutch actress and photographer.",
+    "Time": "14.40 amsterdam",
+    "ChatText": "15 Minuten mit chloe",
+    "IntroText": "Schauspielerin, Fotografin und cool Girl Chloé Leenheer (28) lebt in Amsterdam. Sie hat vor kurzem Pop In Portraits gegründet, ein kreatives Fotodienst-Studio für prächtige und professionelle Porträts. Die in etwas weniger als einer halben Stunde aufgenommenen Portraits sind für Zuhause geeignet aber auch für Castings oder als schönes Profilbild. Wenn Chloé nicht hinter der Kamera steht, kann man sie vor ihr bewundern, in den niederländischen Fernsehserien wie Zusjes und Bluf. Chloés Stil ist hart, Rock-and-Roll, sogar ein wenig boyish mit einem funky und femininem Touch. Die Schauspielerin in dreizehn Fragen.",
+    
+    "Question_section1":
+    {
+        "Time_one": "14.45 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Was bedeutet Zeit für dich?",
+                "answer": "Ich versuche in der Gegenwart zu leben und mich nicht viel um die Zeit zu Sorgen. Aber ich möchte immer pünktlich sein. Es ist unwahrscheinlich, dass ich mal zu spät zu einem Termin komme."
+            },
+            {
+                "question": "Neueste Entdeckung in Amsterdam?",
+                "answer": "Churros mit heißer Schokoladensauce in einem kleinen spanischen Restaurant namens Pacomer in der Pijp Nachbarschaft. So lecker."
+            },
+            {
+                "question": "Was ist deine Morgenroutine?",
+                "answer": "Kaffee. Insta-Feeds scrollen. Croissants mit Marmelade und Butter. Und erröten. Immer erröten."
+            },
+            {
+                "question": "Dein Lieblingsort in Amsterdam?",
+                "answer": "Das Stedelijk Museum für moderne Kunst und das Felix Meritis Theater und Musik-Veranstaltungsort."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Wer oder was ist der Inbegriff der Schönheit für dich?",
+                "answer": "Ich würde sagen, die Französische Schauspielerin Marion Cotillard."
+            },
+            {
+                "question": "Was machst du gerne, wenn du einen freien Tag hast?",
+                "answer": "Mit meiner besten Freundin tanzen gehen und Tequilas trinken."
+            },
+            {
+                "question": "Deine beste Erinnerung?",
+                "answer": "Die Premiere der Fernsehserie Zusjes."
+            }
+        ]
+    },
+    "QuoteText": "Ich versuche in der Gegenwart zu leben und mich nicht viel um die Zeit zu Sorgen",
+    "Name": "Chloe",
+    "CenterQuestion":
+    {
+       "question": "am sonntag...",
+       "answer": "Arbeit. Aber montags besuche ich den Artis-Zoo und esse Lammkoteletts im Restaurant Plantage."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "14.50 AM Amsterdam ",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ich bin immer zu spät / pünktlich?",
+                "answer": "Ich bin immer pünktlich, sogar zu früh, wenn möglich. Ich mag es nicht, auf andere warten zu müssen, also lasse ich sie auch nicht auf mich warten."
+            },
+            {
+                "question": "Wenn du teleportieren könntest, wo würdest du hingehen?",
+                "answer": "Harry Potter Welt, Orlando. Aber nur, wenn meine beste Freundin auch kommen kann!"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Was wissen die meisten nicht über dich?",
+                "answer": "Ich koche nicht gerne. Aber in letzter Zeit versuche ich es ... wirklich."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "Lieblings-Rosefield-Uhr?",
+       "WatchText": "Die Zeitlose. Haha, was für ein Paradox.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Bowery",
+       "ProductShortDesc": "White - Blue"
+    },
+    "Question_section3":
+    {
+        "Time_three": "14.55 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "In fünf Jahren ...",
+                "answer": "Besitze ich ein multinationales Unternehmen, habe sechs Pferde auf meiner Harry Potter Ranch und werde immer einen Banane Quilt tragen. Und meine Rosefield-Uhr natürlich."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Lieblings-Rosefield-Uhr?",
+                "answer": "Die Zeitlose. Haha, was für ein Paradox."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "In fünf Jahren werde ich ein multinationales Unternehmen besitzen und immer einen Bananen Quilt tragen."
+    }
+
+}

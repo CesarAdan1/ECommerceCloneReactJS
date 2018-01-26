@@ -1,0 +1,129 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Ludivine Ifergan",
+    "Tagline": "Meet Ludivine, stylist and fashion journalist from Paris.",
+    "Time": "11.00 PM Amsterdam",
+    "ChatText": "we had a little chat with ludivine",
+    "IntroText": "Ludivine Ifergan, 30 years old on the dot, has an impeccable sense of style that she brings to the table of the most famous women's fashion magazines.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 AM Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Your latest discovery?",
+                "answer": "A juicer! Perfect smoothies everyday… It is a dream come true!"
+            },
+            {
+                "question": "Your morning ritual?",
+                "answer": "I wash my face with « eau de beauty » by the brand Caudalie."
+            },
+            {
+                "question": "For you, life in France is…",
+                "answer": "Mostly inspiring, but a bit stressful sometimes… This is why I moved to Boulogne, in the Parisian Suburb: it is kind of my little village."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Morning or evening?",
+                "answer": "Morning! I love the moment when the city is still quiet and asleep. Also, as my apartment is on the fifth floor, I can often witness some of the most beautiful sunrises. Not to mention that breakfast is a part of it too- my favorite meal of the day!"
+            },
+            {
+                "question": "Gold or silver?",
+                "answer": "Gold, it matches my hair."
+            }
+        ]
+    },
+    "QuoteText": "I try to live in the moment, and see what the future has planned for me.",
+    "Name": "Ludivine",
+    "CenterQuestion":
+    {
+       "question": "With a free hour during the day, I…",
+       "answer": "I turn on the Radio, listen to France Inter and catch up with the news and my favorite shows."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "11.10 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "The coolest person in the world for you is…",
+                "answer": "My brother: brilliant but chill."
+            },
+            {
+                "question": "A nice memory?",
+                "answer": "Swimming in the Mediterranean Sea !"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "I am always late / on time:",
+                "answer": "Always late. It’s a mystery but it is also what makes me special."
+            },
+            {
+                "question": "If you could teleport yourself anywhere:",
+                "answer": "To the United States! I want to live the American Dream."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "The Mercer. Edgy and chic.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_two": "11.15 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "What people don’t know about me:",
+                "answer": "Don’t judge a book by its cover!"
+            },
+            {
+                "question": "In five years I…",
+                "answer": "That’s a tricky question… ! I try to live in the now, and we will see what the future has planned for me."
+            },
+            {
+                "question": "The one thing that you always say:",
+                "answer": "«Oh the horror!»… I might be a tiny bit dramatic."
+            },
+            {
+                "question": "You would love to spend an hour with:",
+                "answer": "A special someone that is really dear to me but lives on the other side of the Atlantic Ocean."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "The song that you can’t stop listening to?",
+                "answer": "Everything by The Chainsmokers…"
+            },
+            {
+                "question": "The last movie that made you cry?",
+                "answer": "Finding Nemo…?"
+            },
+            {
+                "question": "An amazing 15 minute recipe?",
+                "answer": "A flourless chestnut spread cake. You take 3 eggs. 100g of chocolate, 100g of butter and 500g of chestnut spread. Heat the butter and chocolate together until they melt. Then, you add the chestnut spread and the eggs. Then you have to wait and put it in the oven for 45 minutes… It’s so worth it! I’ve got a lot of compliments out of it."
+            },
+            {
+                "question": "A little habit of yours?",
+                "answer": "I always twirl my curls. Even I am annoyed by this!"
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "I'm always late. It’s a mystery but it is also what makes me special."
+    }
+
+}

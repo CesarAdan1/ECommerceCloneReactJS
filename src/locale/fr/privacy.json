@@ -1,0 +1,23 @@
+{
+  "Title": "Mentions legales",
+  "PersonalInformation": {
+    "Title": "INFORMATIONS PERSONELLES",
+    "Text": "Les montres ROSEFIELD rassemblent toutes les informations personnelles que vous nous envoyez lors de votre inscription et/ou lors du passage de votre commande. Chaque information personnelle est traitée de manière confidentielle et en accord avec la règlementation ayant trait au respect de la vie privée comme attesté dans le Wet Bescherming Persoonsgegevens (la "Loi hollandaise sur la protection des Données Personnelles"). Nous n’utilisons vos informations personnelles que dans le but d’acheminer votre (vos) commande(s), retours, échanges ou afin de traiter tout problème qui surviendrait concernant les situations mentionnées ci-dessus."
+  },
+  "Payments": {
+    "Title": "PAIEMENTS",
+    "Text": "Vos règlements passeront par une passerelle de paiement sécurisée. Aucune de vos informations sensibles (comme vos détails de carte bancaire) ne seront stockées sur nos serveurs."       
+  },
+  "ThirdParties": {
+    "Title": "TIERS",
+    "Text": "Aucune de vos informations personnelles ne seront communiquées à un tiers, sauf dans le cas où un tiers est requis pour satisfaire votre commande ou réparer un article endommagé."       
+  },
+  "Cookies": {
+    "Title": "COOKIES",
+    "Text": "Les Cookies sont des dispositifs de suivi qui permettent aux utilisateurs de naviguer sur les sites internet de manière plus efficace. Certains cookies sont essentiels pour le bon fonctionnement du site et sont utile au client afin de retrouver leurs achats et préférences."       
+  },
+  "NewsletterSubscription": {
+    "Title": "ABONNEMENT A LA NEWSLETTER",
+    "Text": "Pour ne plus recevoir ces mails, vous pouvez vous désinscrire a tout moment en cliquant simplement sur le lien de désinscription se trouvant a la fin de chaque e-mail."       
+  }
+}

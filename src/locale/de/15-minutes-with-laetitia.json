@@ -1,0 +1,125 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Laetitia Guérini",
+    "Tagline": "Meet Laetitia, founder of the Fashion brand LEÏ 1984",
+    "Time": "11.00 PM Paris",
+    "ChatText": "We shared a cup of coffee in Paris with Laetitia",
+    "IntroText": "In between two trips from the South of France and Paris, Laetitia Guerini, founder of the Fashion brand LEÏ 1984, found a few minutes to share a coffee and to tell us more about her work, inspirations & parisian daily life…",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Your latest discovery?",
+                "answer": "Raw cocoa, homemade granola, and Rosefield."
+            },
+            {
+                "question": "Your morning ritual?",
+                "answer": "A part of my new beauty ritual is to wash my face with a Konjak sponge. It’s a new concept from Japan, 100% natural. All you have to do is to add water and it takes off all your make-up. It’s magic!"
+            },
+            {
+                "question": "For you, life in France is…",
+                "answer": "Fast-paced when in Paris, but more relax when I’m home in Aix. I share most of my time between those two cities: I take advantage of the calm & peacefulness of Aix to charge my battery and design my new collections. However once I get to Paris the rhythm gets more intense: I go from one meeting to the other… It can be pretty insane !"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Morning or evening?",
+                "answer": "Easy question, and without hesitation: evening! It’s as if I store my energy throughout the day so that I can use it all at night."
+            },
+            {
+                "question": "Gold or silver?",
+                "answer": "Silver"
+            }
+        ]
+    },
+    "QuoteText": "It’s as if I store my energy throughout the day so that I can use it all at night.",
+    "Name": "Laetitia",
+    "CenterQuestion":
+    {
+       "question": "with a free hour during the day, i…",
+       "answer": "It’s quite rare, but if it happens I immediately seize the occasion to go to a yoga class! I’m trying to take care of myself, and for this purpose, I still haven’t found something more effective than Yoga."
+        
+    },
+    "Question_section2":
+    {
+        "Time_three": "11.10 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "A nice memory?",
+                "answer": "Last summer, taking naps on the banks of a wild lake."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "I am always late / on time:",
+                "answer": "I’m always running to be on time, but I’m always super stressed to be late."
+            },
+            {
+                "question": "If you could teleport yourself anywhere:",
+                "answer": "In Corsica, to visit my dad… I didn’t have time to actually go last summer."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "My favorite Rosefield watch:",
+       "WatchText": "The Mercer Rosegold, it’s a real statement piece of jewelry!",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Rose Gold"
+    },
+        "Question_section3":
+    {
+        "Time_three": "11.15 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "What people don’t know about me:",
+                "answer": "Even though I do my best to hide it, I am always scared when it comes to selling my designs."
+            },
+            {
+                "question": "In five years I…",
+                "answer": "I hope I’ll be lucky enough to still be doing what I love."
+            },
+            {
+                "question": "The one thing that you always say:",
+                "answer": "'It’s crazy beautiful.'"
+            },
+            {
+                "question": "You would love to spend an hour with:",
+                "answer": "My boyfriend."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "The song that you can’t stop listening to?",
+                "answer": "Black Roses by Barrington Levy."
+            },
+            {
+                "question": "The last movie that made you cry?",
+                "answer": "The turkish movie Mustang."
+            },
+            {
+                "question": "An amazing 15 minute recipe?",
+                "answer": "Homemade Pistou sauce! Easy and delicious!"
+            },
+            {
+                "question": "A little habit of yours?",
+                "answer": "Mandatory evening ritual : a Yogi Tea infusion."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "In five years, I hope I’ll be lucky enough to still be doing what I love."
+    }
+
+}

@@ -1,0 +1,114 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Caroline Lemblé",
+    "Tagline": "Meet one of the freelance stylists in Berlin",
+    "Time": "14.35 Berlin",
+    "ChatText": "we met caroline for a walk in berlin.",
+    "IntroText": "The French Caroline Lemblé is currently living in Berlin together with her dog Lou. In the past, she has worked for Harper’s Bazaar, Interview and L’Officiel and is now a freelance stylist. Her impressive resumé is an homage to her hard work, dedication and love for fashion.",
+    
+    "Question_section1":
+    {
+        "Time_one": "14.40 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "Time is very precious to me. Often we don’t have enough and hurry from one appointment to the next. It’s important to make time for the people that matter."
+            },
+            {
+                "question": "Who or what is the essence of beauty to you?",
+                "answer": "Beauty is carried in the heart. You can often see the good nature of people in their eyes. They always have this certain kind of warmth to them."
+            },
+            {
+                "question": "Latest discovery?",
+                "answer": "Café Dots in Neukölln."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "What is your morning routine?",
+                "answer": "Cigarettes and coffee and then taking my dog Lou for a walk in my Pajamas."
+            },
+            {
+                "question": "Favorite spot in Berlin?",
+                "answer": "Plänterwald forest – a beautiful small forest, 10 mins away from my apartment."
+            },
+            {
+                "question": "On sundays I…",
+                "answer": "I don’t do anything on Sundays. I sleep in, don’t read any mails, no calls… dosing in bed and watching a good movie in the evening."
+            }
+        ]
+    },
+    "QuoteText": "It’s important to make time for the people that matter.",
+    "Name": "Caroline",
+    "CenterQuestion":
+    {
+       "question": "what do you like to do when you have a day off?",
+       "answer": "Coffee to go at the Pavillon and then a walk through the forest."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "14.45 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "What’s your favorite memory?",
+                "answer": "My childhood in Morocco, Loveparade in 2000, my university time at the Academy of Fashion and Design, and the vacations with my mother."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Who or what inspired you in life and why?",
+                "answer": "My mom, she’s one of a kind and has always done her thing."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "The Tribeca in white – black, small and fashionable",
+       "CheckThisWatch": "CHECK THIS WATCH",
+       "ProductName": "The Tribeca",
+       "ProductShortDesc": "White - Black"
+    },
+    "Question_section3":
+    {
+        "Time_three": "14.50 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "What people do not know about you?",
+                "answer": "I collect china figures, like an old grandma."
+            },
+            {
+                "question": "I’m always late/on time...",
+                "answer": "I’m always on time. Why? Out of respect."
+            },
+            {
+                "question": "In five years time I…",
+                "answer": "In five years... hopefully run a small hotel in Greece."
+            }
+
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Where would you want to be beamed to right this moment?",
+                "answer": "Mykonos, I have spent one of my best holidays there together with my best friend."
+            },
+            {
+                "question": "Gold or silver?",
+                "answer": "Silver."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "I’m always on time. Why? Out of respect."
+    }
+
+}

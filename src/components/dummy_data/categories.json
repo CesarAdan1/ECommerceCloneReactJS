@@ -1,0 +1,169 @@
+[{  
+  "name": "THE WEST Village",
+  "description": "The iconic and traditionally rebellious neighborhood of the West Village – a nonchalant area with European flair – is the inspiration behind this collection. The watch has a slender case and velvety nubuck leather strap. Special details stand out, like the delicate metal rings decorating the strap. Unique to each strap color, the rings amplify the vintage-chic character of the WEST VILLAGE.",
+  "products": [{
+    "id": 280,
+    "name": "The West Village",
+    "short_description": "Soft Pink - Rose Gold / 33mm",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/west-village/west-village-Soft-Pink.png"
+  }, {
+    "id": 281,
+    "name": "The West Village",
+    "short_description": "Mint Grey - Rose Gold / 33mm",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/west-village/west-village-mint-grey.png"
+  }, {
+    "id": 282,
+    "name": "The West Village",
+    "short_description": "Elephant Grey - Rose Gold / 33mm",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/west-village/west-village-elephant-grey.png"
+  }, {
+    "id": 283,
+    "name": "The West Village",
+    "short_description": "Pink - Gold / 33mm",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/west-village/west-village-pink-gold.png"
+  }]
+},{
+  "name": "THE TRIBECA",
+  "description": "TRIBECA combines favorites from our existing three collections into a series of smaller sized watches for the more delicate wrist. With a 33mm watch case & a minimal design, TRIBECA is the ultimate fashion piece for all who prefer to wear smaller sized watches.",
+  "products": [{
+    "id": 245,
+    "name": "The Tribeca",
+    "short_description": "White - Pink / 33mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-tribeca/the-tribeca-white-pink.png"
+  }, {
+    "id": 246,
+    "name": "The Tribeca",
+    "short_description": "White - Black / 33mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-tribeca/the-tribeca-black-white.png"
+  }, {
+    "id": 247,
+    "name": "The Tribeca",
+    "short_description": "White - Brown / 33mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-tribeca/the-tribeca-white-brown.png"
+  }, {
+    "id": 249,
+    "name": "The Tribeca",
+    "short_description": "Black - Black / 33mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-tribeca/the-tribeca-black-black.png"
+  }]
+},{  
+  "name": "THE MERCER",
+  "description": "Paying tribute to an exciting street in one of NYC’s signature shopping destinations, the MERCER collection features stainless steel mesh straps for an exquisite look that suits this fashionable neighborhood.",
+  "products": [{
+    "id": 190,
+    "name": "The Mercer",
+    "short_description": "Black - Black / 38mm",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-mercer/the-mercer-black-black.png"
+  }, {
+    "id": 191,
+    "name": "The Mercer",
+    "short_description": "White - Silver / 38mm",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-mercer/the-mercer-white-silver.png"
+  }, {
+    "id": 192,
+    "name": "The Mercer",
+    "short_description": "White - Gold / 38mm",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-mercer/the-mercer-white-gold.png"
+  },{
+    "id": 193,
+    "name": "The Mercer",
+    "short_description": "White - Rose Gold / 38mm",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-mercer/the-mercer-white-rosegold.png"
+  }]
+}, {  
+  "name": "THE UPPER EAST SIDE",
+  "description": "The Upper East Side is the most iconic, historical face of New York, with it’s stately apartment blocks and uniformed doormen. The neighborhood embodies full decadence with it’s chic sophistication. Inspired by this luxury, the Upper East Side collection has a glossy stainless steel link bracelet and opulent feel. Stay classy with a cool and polished timepiece. The straps are adjustable with a tool supplied with every watch.",
+  "products": [{
+    "id": 299,
+    "name": "The Upper East Side",
+    "short_description": "White Pearl - Rose Gold / 33mm",
+    "price": "119",
+    "image": "https://i.rosefieldwatches.com/products/watches/upper-east-side/The-Upper-East-Side-White-Pearl-Rose-Gold.png"
+  }, {
+    "id": 300,
+    "name": "The Upper East Side",
+    "short_description": "White Pearl - Gold / 33mm",
+    "price": "119",
+    "image": "https://i.rosefieldwatches.com/products/watches/upper-east-side/The-Upper-East-Side-White-Pearl-Gold.png"
+  }, {
+    "id": 301,
+    "name": "The Upper East Side",
+    "short_description": "White Pearl - Silver / 33mm",
+    "price": "119",
+    "image": "https://i.rosefieldwatches.com/products/watches/upper-east-side/The-Upper-East-Side-White-Pearl-Silver.png"
+  },{
+    "id": 302,
+    "name": "The Upper East Side",
+    "short_description": "Black - Rose Gold / 33mm",
+    "price": "119",
+    "image": "https://i.rosefieldwatches.com/products/watches/upper-east-side/The-Upper-East-Side-Black-Rose-Gold.png"
+  }]
+}, {  
+  "name": "THE BOWERY",
+  "description": "Inspired by an iconic NYC neighborhood and caught between boho-chic and classic, the BOWERY collection combines a minimalist, ultra-thin watch case with elegantly stitched leather straps.",
+  "products": [{
+    "id": 43,
+    "name": "The Bowery",
+    "short_description": "White - Black / 38mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-bowery/The-Bowery-White-Black-rosegold.png"
+  }, {
+    "id": 44,
+    "name": "The Bowery",
+    "short_description": "White - Black / 38mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-bowery/The-Bowery-White-Black-silver.png"
+  }, {
+    "id": 46,
+    "name": "The Bowery",
+    "short_description": "White - Brown / 38mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-bowery/The-Bowery-White-Brown.png"
+  },{
+    "id": 53,
+    "name": "The Bowery",
+    "short_description": "White - Pink / 38mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-bowery/The-Bowery-White-Pink.png"
+  }]
+},{  
+  "name": "THE GRAMERCY",
+  "description": "Named after a prime location in Manhattan, home to fashion designers from all over the world, the GRAMERCY collection combines a clean watch face with clean-cut leather straps to create a modern and alluring fashion accessory.",
+  "products": [{
+    "id": 39,
+    "name": "The Gramercy",
+    "short_description": "White - Black / 38mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-gramercy/The-Gramercy-White-black.png"
+  }, {
+    "id": 40,
+    "name": "The Gramercy",
+    "short_description": "White - black / 38mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-gramercy/The-Gramercy-White-Black.png"
+  }, {
+    "id": 74,
+    "name": "The Gramercy",
+    "short_description": "Black - Brown / 38mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-gramercy/The-Gramercy-Black-Brown.png"
+  }, {
+    "id": 82,
+    "name": "The Gramercy",
+    "short_description": "White - Brown / 38mm",
+    "price": "99",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-gramercy/The-Gramercy-White-Brown.png"
+  }]
+}]

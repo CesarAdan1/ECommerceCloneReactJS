@@ -1,0 +1,48 @@
+
+{
+  "totalprice": "298",
+  "currency":"$",
+  "shipping":"10",
+  "cartitems": 
+  [
+    {
+      "id":"54",
+      "name":"Black strap",
+      "short_description":"Rose Gold",
+      "price":"35", 
+      "currency":"$",
+      "image":"http://i.rosefieldwatches.com/products/straps/gramercy-straps/GRAMERCY-STRAPS-Black-strap.png",
+      "qty":"1"
+    },
+
+    {
+      "id":"58",
+      "name":"Elephant grey strap",
+      "short_description":"Rose gold / 33mm",
+      "price":"35", 
+      "currency":"$",
+      "image":"http://i.rosefieldwatches.com/products/straps/west-village-straps/WEST-VILLAGE-STRAPS-Elephant-grey-strap.png",
+      "qty":"1"
+    },
+
+    {
+      "id":"69",
+      "name":"The West Village",
+      "short_description":"Soft Pink - Rose Gold / 33mm",
+      "price":"109",
+      "currency":"$",
+      "image":"https://i.rosefieldwatches.com/products/watches/west-village/west-village-Soft-Pink.png",
+      "qty":"1"
+    },
+
+    {
+      "id":"254",
+      "name":"The Tribeca",
+      "short_description":"White - Pink / 33mm",
+      "price":"99",
+      "currency":"$",
+      "image":"https://i.rosefieldwatches.com/products/watches/the-tribeca/the-tribeca-white-pink.png",
+      "qty":"1"
+    }
+  ]
+}

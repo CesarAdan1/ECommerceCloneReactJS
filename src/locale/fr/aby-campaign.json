@@ -1,0 +1,55 @@
+{    
+    "BannerInfoText":
+    {
+       "AmcText": "Ams | Nyc",
+       "IntroText": "A day in the life: Amsterdam with Aby",
+       "SubIntroText": "Two girls, a lot of dreams. Even though Ally and Aby live in different continents, they have a lot in common.",
+       "VideoButtonText": "Play video"
+    },
+    "FirstSection":
+    {
+       "TimeText": "Check out the New York story",
+       "Text": "'In need of a cup of morning coffee to start the day, I swing my legs over the edge of the bed and cautiously place one toe on the wooden floor planks.'"
+    },
+    "SecondSection":
+    {
+       "Text": "I wake up naturally thirty minutes before my alarm rings. I hide my face under the covers hoping that by some cosmic miracle time won’t pass. In need of a cup of morning coffee to start the day, I swing my legs over the edge of the bed and cautiously place one toe on the wooden floor planks.",
+       "ViewTheWatch": "View the Watch"
+    },
+    "ThirdSection":
+    {
+       "Text": "Today I worked a half day, so I’m free to do what I want this afternoon"
+    },
+    "FourthSection":
+    {
+       "TimeText": "10.45 AM, Ten Katemarkt, Amsterdam",
+       "Text": "I miss the sunshine and bright light of Spring in the City and how the temperatures steadily rise into Summer heat. In Amsterdam the threat of a torrential rainstorm never subsides and you never know for sure if you’ll get to enjoy Summer that year.",
+       "ShowTheWatch": "Show the Watch"
+    },
+    "FifthSection":
+    {
+       "Text": "The beauty of the tall, thin houses with their large bright windows along the canals will never cease to amaze me."
+    },
+    "SixthSection":
+    {
+       "TimeText": "2.05 PM, The Vondelpark",
+       "Text": "Maybe deciding to exercise on an empty stomach wasn’t the best idea. I got myself into a similar situation in New York’s Central Park last year, but at that time the problem was quickly resolved when I nearly roller-skated into the side of a food truck. I proceeded to buy what turned out to be the best pita with hummus in existence. The food alone is a good enough reason to move to the City.",
+       "ShowTheWatch": "Show the Watch"
+    },
+    "SeventhSection":
+    {
+       "Text": "I’d rather have a negroni like the one I ordered in Attaboy last year, an exceptional Manhattan cocktail bar. But now something greasy is in order to soak up the alcohol. I head straight to my favorite Belgian fries, which are sold from an open window from a tiny store right in the city centre. I confidently order them with extra mayonnaise, greedily grab a fry… and a big blob of mayonnaise drips on my pants.",
+       "SeeWhat": "See what Ally is up to in New York"
+    },
+    "EighthSection":
+    {
+       "TimeText": "8.40 PM, City Centre",
+       "Text": "What would it be like to fall asleep in a bed amidst the hustle and bustle of Manhattan, maybe in a cute walk-up apartment? Would it be easy to make new friends? I think about New York nearly every day. Maybe I should move.",
+       "ShowTheWatch": "Show the Watch"
+    },
+    "NinethSection":
+    {
+       "Text": "What would it be like to fall asleep in a bed amidst the hustle and bustle of Manhattan?"
+    }
+
+}

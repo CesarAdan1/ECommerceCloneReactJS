@@ -1,0 +1,17 @@
+{    
+    "AbySection":
+    {
+       "CheckoutText": "Check out the Amsterdam story",
+       "IntroText": "Day in the life of Aby from Amsterdam",
+       "SubIntroText": "Two girls, a lot of dreams. Even though Ally and Aby live in different continents, they have a lot in common.",
+       "ButtonText": "Read story"
+    },
+    "AllySection":
+    {
+       "CheckoutText": "Check out the New York story",
+       "IntroText": "Day in the life of Ally from New York",
+       "SubIntroText": "Two girls, a lot of dreams. Even though Ally and Aby live in different continents, they have a lot in common.",
+       "ButtonText": "Read story"
+    }
+
+}

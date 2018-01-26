@@ -1,0 +1,123 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Barbara Malewicz",
+    "Tagline": "Meet Barbara, Blogger and fashion editor at WAD magazine.",
+    "Time": "16.00 Paris",
+    "ChatText": "we met with the coolest blogger and fashion editor in town.",
+    "IntroText": "Barbara - 25 years old is, for sure, one of the coolest Parisian women we have been lucky to meet yet. Blogger and Fashion Editor for the magazine WAD, it is safe to say that style comes naturally to her as she is always on the look out for the latest trends. Between her work-out session and one of her many appointments with stylists, she shared a bit of her Parisian daily life with us.",
+    
+    "Question_section1":
+    {
+        "Time_one": "16.05 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Your latest discovery?",
+                "answer": "A jewelry brand named Chabaux. It’s colorful, original and girly. I love it ! It can seem a bit “too much” because it is very glittery and colorful… But just one piece is enough to make your outfit pop !"
+            },
+            {
+                "question": "Your morning routine?",
+                "answer": "Hot water with lemon… No, I’m just kidding!In the morning I l like to take it easy. I give myself the time I need to feel completely awake: I take it slow. I live in the same street as my office so it’s quite convenient and it allows me to sleep more… I love to sleep, I need it.Otherwise right now, my morning routine is coconut and almond oil all over the body to prepare and hydrate my skin before the summer…"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Living in Paris, it is…",
+                "answer": "A chance… But also a lot of walking ! My days consist mostly of walking from one appointment to the other. Whether it is with artists, stylists or just to go to a press event : it is a lot of back and forth…"
+            },
+            {
+                "question": "Morning or Evening?",
+                "answer": "Evening. Definitely. That’s about the only time during the day when I can pause, relax and find a few hours for myself so I enjoy these moments as much as I can ! I alternate between going to the gym and a nice diner with my boyfriend… Balance is everything."
+            },
+            {
+                "question": "The coolest person on earth for you is…",
+                "answer": "@snoochieshy : model, DJ, radio host, pink hair, insane sense of fashion.... She is very very cool."
+            }
+        ]
+    },
+    "QuoteText": "But lately, something clicked: I love Paris, I feel good here.",
+    "Name": "Barbara",
+    "Question_section2":
+    {
+        "Time_two": "16.10 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "An hour free during the day, I…",
+                "answer": "I browse the internet, I put the final touch to an article on my blog… Or I braid my hair."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "A nice memory?",
+                "answer": "There are so many… But recently I think of last year’s summer holidays. This is  when I was discovered Sintra – near Lisbon in Portugal. It was like a fairytale castle, a pleasure for the eyes !"
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "the gramercy in pink!",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Gramercy",
+       "ProductShortDesc": "White - Pink"
+    },
+    "Question_section3":
+    {
+        "Time_three": "16.15 Paris",
+         "LeftQuestion":
+        [
+            {
+                "question": "I am always late / on time...",
+                "answer": "I’m almost always right on time. I learnt from my mistakes and now I’d much rather be early and relaxed that running around and be all sweaty… However, sometimes I catch myself doing the exact opposite!"
+            },
+            {
+                "question": "If you could teleport yourself anywhere, where would you go?",
+                "answer": "Venice Beach ! It has been my dream to go there since forever. I was lucky to go to New York last April, but I still have the West Coast to discover: Los Angeles, the Californian landscapes… Just thinking about it makes me wander off."
+            },
+            {
+                "question": "In five years time I…",
+                "answer": "For a long time, I thought I would end up living back in London, where I studied. But lately, something clicked: I love Paris, I feel good here. Something else: in 5 years, I will live in a bigger flat.. I swear !"
+            },
+            {
+                "question": "What do people not know about you?",
+                "answer": "So many things ;) If I had to pick one: I can be quite moody. Usually I’m very pleasant and positive, with a constant smile on my face. You have to really know me to experience my dark side !"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "The one thing that you always say:",
+                "answer": "However"
+            },
+            {
+                "question": "You would love to spend an hour with...",
+                "answer": "Niels Schneider. The actor in the movie “Hearbeat” by Xavier Dolan. I am a huge fan."
+            },
+            {
+                "question": "The song that you can’t stop listening to?",
+                "answer": "“Too Good” by Drake."
+            },
+            {
+                "question": "The last movie that made you cry?",
+                "answer": "Cry from laughing too much? “Heartbeats” by Xavier Dolan. It is not actually supposed to be a funny movie, but there is this final scene in which the characters Francis and Marie meet Nicolas again… This scene really got me. http://makeagif.com/1awa55"
+            },
+            {
+                "question": "An amazing 15 minute recipe?",
+                "answer": "Even less than 15 minutes : cream cheese, avocado and lime: you smash it all together and you eat it on whatever you want: blinis, baguettes… SO good."
+            },
+            {
+                "question": "A little habit of yours?",
+                "answer": "I tweeze my eyebrows everyday. I can’t help it. If I see even just one tiny hair somewhere it does not belong: I immediately remove it."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "In 5 years I will live in a bigger flat. I swear !"
+    }
+
+}

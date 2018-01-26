@@ -1,0 +1,515 @@
+[
+      {
+        "websiteId": 1,
+        "code": "us",
+        "name": "USA",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/us.png",
+        "stores": [
+          {
+            "storeId": 1,
+            "code": "us",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 2,
+        "code": "uk",
+        "name": "UK",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/uk.png",
+        "stores": [
+          {
+            "storeId": 3,
+            "code": "uk",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 3,
+        "code": "be",
+        "name": "Belgium",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/be.png",
+        "stores": [
+          {
+            "storeId": 4,
+            "code": "be",
+            "name": "Dutch"
+          },
+          {
+            "storeId": 22,
+            "code": "be_fr",
+            "name": "French"
+          },
+          {
+            "storeId": 23,
+            "code": "be_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 4,
+        "code": "de",
+        "name": "Germany",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/de.png",
+        "stores": [
+          {
+            "storeId": 5,
+            "code": "de",
+            "name": "German"
+          },
+          {
+            "storeId": 26,
+            "code": "de_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 7,
+        "code": "nl",
+        "name": "Netherlands",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/nl.png",
+        "stores": [
+          {
+            "storeId": 8,
+            "code": "nl",
+            "name": "Dutch"
+          },
+          {
+            "storeId": 20,
+            "code": "nl_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 8,
+        "code": "es",
+        "name": "Spain",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/es.png",
+        "stores": [
+          {
+            "storeId": 9,
+            "code": "es",
+            "name": "Spanish"
+          },
+          {
+            "storeId": 29,
+            "code": "es_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 9,
+        "code": "au",
+        "name": "Australia",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/au.png",
+        "stores": [
+          {
+            "storeId": 10,
+            "code": "au",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 10,
+        "code": "at",
+        "name": "Austria",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/at.png",
+        "stores": [
+          {
+            "storeId": 11,
+            "code": "at",
+            "name": "German"
+          },
+          {
+            "storeId": 21,
+            "code": "at_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 11,
+        "code": "ca",
+        "name": "Canada",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/ca.png",
+        "stores": [
+          {
+            "storeId": 12,
+            "code": "ca",
+            "name": "English"
+          },
+          {
+            "storeId": 24,
+            "code": "ca_fr",
+            "name": "French"
+          }
+        ]
+      },
+      {
+        "websiteId": 12,
+        "code": "mx",
+        "name": "Mexico",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/mx.png",
+        "stores": [
+          {
+            "storeId": 13,
+            "code": "mx",
+            "name": "Spanish"
+          },
+          {
+            "storeId": 28,
+            "code": "mx_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 13,
+        "code": "eu",
+        "name": "EU",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/eu.png",
+        "stores": [
+          {
+            "storeId": 14,
+            "code": "eu",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 14,
+        "code": "ww",
+        "name": "Global",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/ww.png",
+        "stores": [
+          {
+            "storeId": 15,
+            "code": "ww",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 17,
+        "code": "it",
+        "name": "Italy",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/it.png",
+        "stores": [
+          {
+            "storeId": 18,
+            "code": "it",
+            "name": "Italian"
+          },
+          {
+            "storeId": 27,
+            "code": "it_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 18,
+        "code": "fr",
+        "name": "France",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/fr.png",
+        "stores": [
+          {
+            "storeId": 19,
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "storeId": 25,
+            "code": "fr_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 19,
+        "code": "ch",
+        "name": "Switzerland",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/ch.png",
+        "stores": [
+          {
+            "storeId": 30,
+            "code": "ch",
+            "name": "German"
+          },
+          {
+            "storeId": 31,
+            "code": "ch_fr",
+            "name": "French"
+          },
+          {
+            "storeId": 32,
+            "code": "ch_it",
+            "name": "Italian"
+          },
+          {
+            "storeId": 33,
+            "code": "ch_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 20,
+        "code": "pl",
+        "name": "Poland",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/pl.png",
+        "stores": [
+          {
+            "storeId": 34,
+            "code": "pl",
+            "name": "Polish"
+          },
+          {
+            "storeId": 35,
+            "code": "pl_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 21,
+        "code": "dk",
+        "name": "Denmark",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/dk.png",
+        "stores": [
+          {
+            "storeId": 36,
+            "code": "dk",
+            "name": "Danish"
+          },
+          {
+            "storeId": 37,
+            "code": "dk_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 22,
+        "code": "ie",
+        "name": "Ireland",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/ie.png",
+        "stores": [
+          {
+            "storeId": 38,
+            "code": "ie",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 23,
+        "code": "nz",
+        "name": "New Zealand",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/nz.png",
+        "stores": [
+          {
+            "storeId": 39,
+            "code": "nz",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 24,
+        "code": "cz",
+        "name": "Czech Republic",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/cz.png",
+        "stores": [
+          {
+            "storeId": 40,
+            "code": "cz",
+            "name": "Czech"
+          },
+          {
+            "storeId": 41,
+            "code": "cz_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 25,
+        "code": "za",
+        "name": "South Africa",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/za.png",
+        "stores": [
+          {
+            "storeId": 42,
+            "code": "za",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 26,
+        "code": "sg",
+        "name": "Singapore",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/sg.png",
+        "stores": [
+          {
+            "storeId": 43,
+            "code": "sg",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 27,
+        "code": "se",
+        "name": "Sweden",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/se.png",
+        "stores": [
+          {
+            "storeId": 44,
+            "code": "se",
+            "name": "Sweden"
+          },
+          {
+            "storeId": 45,
+            "code": "se_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 28,
+        "code": "no",
+        "name": "Norway",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/no.png",
+        "stores": [
+          {
+            "storeId": 46,
+            "code": "no",
+            "name": "Norwegian"
+          },
+          {
+            "storeId": 47,
+            "code": "no_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 29,
+        "code": "fi",
+        "name": "Finland",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/fi.png",
+        "stores": [
+          {
+            "storeId": 48,
+            "code": "fi",
+            "name": "Finnish"
+          },
+          {
+            "storeId": 49,
+            "code": "fi_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 30,
+        "code": "hk",
+        "name": "Hong Kong",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/hk.png",
+        "stores": [
+          {
+            "storeId": 50,
+            "code": "hk",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 31,
+        "code": "sa",
+        "name": "Saudi Arabia",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/sa.png",
+        "stores": [
+          {
+            "storeId": 51,
+            "code": "sa",
+            "name": "Arabic"
+          },
+          {
+            "storeId": 52,
+            "code": "sa_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 32,
+        "code": "ae",
+        "name": "United Arabic Emirates",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/ae.png",
+        "stores": [
+          {
+            "storeId": 53,
+            "code": "ae",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 33,
+        "code": "kr",
+        "name": "South Korea",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/kr.png",
+        "stores": [
+          {
+            "storeId": 54,
+            "code": "kr",
+            "name": "Korean"
+          },
+          {
+            "storeId": 55,
+            "code": "kr_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 34,
+        "code": "jp",
+        "name": "Japan",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/ww.png",
+        "stores": [
+          {
+            "storeId": 56,
+            "code": "jp",
+            "name": "Japan"
+          },
+          {
+            "storeId": 57,
+            "code": "jp_en",
+            "name": "English"
+          }
+        ]
+      },
+      {
+        "websiteId": 35,
+        "code": "id",
+        "name": "Indonesia",
+        "flag": "https://dev.rosefieldwatches.com/skin/frontend/watches/default/images/flag/id.png",
+        "stores": [
+          {
+            "storeId": 58,
+            "code": "id",
+            "name": "English"
+          }
+        ]
+      }
+    ]

@@ -1,0 +1,155 @@
+{"stores": [
+      {
+        "id": "295",
+        "name": "OU. BOUTIQUE",
+        "address": "Reestraat 16",
+        "zip": "1016 DN",
+        "country":"Amsterdam",
+        "phone_number": "+31 20 420 2186",
+        "latitude": "52.372369",
+        "longitude": "4.883893",
+        "store_website_title": "google.com",
+        "store_website": "http://google.com",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      },
+      {
+        "id": "296",
+        "name": "JAN",
+        "address": "Utrechtsestraat 74",
+        "zip": "1017 VR",
+        "country":"Amsterdam",
+        "phone_number": "+31 20 626 4301",
+        "latitude": "52.363566",
+        "longitude": "4.898406",
+        "store_website_title": "yahoo.com",
+        "store_website": "http://yahoo.com",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      },
+      {
+        "id": "297",
+        "name": "MASHED CONCEPTSTORE",
+        "address": "Jan Pieter Heijestraat 168",
+        "zip": "1054 ML",
+        "country":"Amsterdam",
+        "phone_number": "+31 64 028 7335",
+        "latitude": "52.361236",
+        "longitude": "4.864952",
+        "store_website_title": "bing.com",
+        "store_website": "http://bing.com",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      },
+      {
+        "id": "298",
+        "name": "SHOP ROGGE",
+        "address": "Ferdinand Bolstraat 109",
+        "zip": "1072 LE",
+        "country":"Amsterdam",
+        "phone_number": "+31 20 221 0638",
+        "latitude": "52.353014",
+        "longitude": "4.891145",
+        "store_website_title": "rosefieldwatches.com",
+        "store_website": "http://rosefieldwatches.com",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      },
+      {
+        "id": "299",
+        "name": "ANNA + NINA",
+        "address": "Gerard Doustraat 94",
+        "zip": "1072 VX",
+        "country":"Amsterdam",
+        "phone_number": "+31 20 204 4532",
+        "latitude": "52.3558",
+        "longitude": "4.892305",
+        "store_website_title": "flipkart.com",
+        "store_website": "http://flipkart.com",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      },
+      {
+        "id": "300",
+        "name": "SIX & SONS",
+        "address": "Haarlemmerdijk 31",
+        "zip": "1013 KA",
+        "country":"Amsterdam",
+        "phone_number": "+31 20 233 0092",
+        "latitude": "52.381974",
+        "longitude": "4.888183",
+        "store_website_title": "twitter.com",
+        "store_website": "http://twitter.com",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      },
+      {
+        "id": "301",
+        "name": "WE ARE LABELS | DE PIJP",
+        "address": "Eerste van der Helststraat 58",
+        "zip": "1072 NX",
+        "country":"Amsterdam",
+        "phone_number": "+31 20 705 9632",
+        "latitude": "52.354783",
+        "longitude": "4.893513",
+        "store_website_title": "horizoncore.com",
+        "store_website": "http://horizoncore.com",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      },
+      {
+        "id": "302",
+        "name": "JUWELIER NUSSELEIN KINKERSTRAAT",
+        "address": "Kinkerstraat 284-286",
+        "zip": "1053 GB",
+        "country":"Amsterdam",
+        "phone_number": "020-6183070",
+        "latitude": "52.3653199",
+        "longitude": "4.8641236",
+        "store_website_title": "speedtest.net",
+        "store_website": "http://speedtest.net",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      },
+      {
+        "id": "303",
+        "name": "JUWELIER NUSSELEIN KINKERSTRAAT2",
+        "address": "Kinkerstraat 284-286",
+        "zip": "1053 GB",
+        "country":"Amsterdam",
+        "phone_number": "020-6183070",
+        "latitude": "52.3653199",
+        "longitude": "4.8641236",
+        "store_website_title": "speedtest.net",
+        "store_website": "http://speedtest.net",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      },
+      {
+        "id": "304",
+        "name": "JUWELIER NUSSELEIN KINKERSTRAAT3",
+        "address": "Kinkerstraat 284-286",
+        "zip": "1053 GB",
+        "country":"Amsterdam",
+        "phone_number": "020-6183070",
+        "latitude": "52.3653199",
+        "longitude": "4.8641236",
+        "store_website_title": "speedtest.net",
+        "store_website": "http://speedtest.net",
+        "image": "http://rosefieldwatches.horizoncore.in/design/mobile-html/v3/static/temp_images/store-locator-banner.png"
+      }
+    ],
+    "locations": [
+      {
+        "id": "1",
+        "code": "au",
+        "name": "Australia"        
+      },{
+        "id": "2",
+        "code": "at",
+        "name": "Austria"        
+      },{
+        "id": "3",
+        "code": "be",
+        "name": "Belgium"        
+      },{
+        "id": "4",
+        "code": "ca",
+        "name": "Canada"        
+      },{
+        "id": "5",
+        "code": "au",
+        "name": "Australia"        
+      }]
+}

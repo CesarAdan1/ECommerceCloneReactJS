@@ -1,0 +1,129 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Ludivine Ifergan",
+    "Tagline": "Rencontre avec Ludivine, styliste et éditrice mode à Paris",
+    "Time": "11.00 PM Amsterdam",
+    "ChatText": "On a partagé un petit moment avec Ludivine",
+    "IntroText": "Ludivine Ifergan, 30 ans tout rond, met son sens du style au service des plus grands noms de la presse feminine. Naturelle et élégante, elle nous dévoile une petite partie de son quotidien. Entre levers de soleil parisiens et smoothies vitaminés… Elle nous en dit plus, le temps d’un café.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 AM Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ta dernière découverte?",
+                "answer": "L'extracteur de jus ! C'est mon rêve...fini les smoothies en purée !"
+            },
+            {
+                "question": "Ton rituel du matin?",
+                "answer": "Je m'asperge le visage d'Eau de beauté de Caudalie."
+            },
+            {
+                "question": "La vie à Paris c’est…",
+                "answer": "C'est inspirant mais un peu stressant...je me suis délocalisée à Boulogne, mon village à moi."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Plutôt matin ou soir?",
+                "answer": "Matin ! J'aime quand la ville n'est pas encore dans l'effervescence, et habitant au 5e étage, j'ai souvent le droit à des levers de soleil de folie ! Et puis le petit déjeuner… c’est mon repas préféré !"
+            },
+            {
+                "question": "Or ou Argent?",
+                "answer": "Or, pour matcher avec mes cheveux."
+            }
+        ]
+    },
+    "QuoteText": "Je préfère profiter de l'instant présent, et on verra ce que le futur me réserve.",
+    "Name": "Ludivine",
+    "CenterQuestion":
+    {
+       "question": "Une heure de libre dans la journee, je...",
+       "answer": "J'allume la radio et branchée sur France Inter, je rattrape des émissions en retard."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "11.10 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "La personne la plus cool selon toi c’est…",
+                "answer": "Mon frère ; brillant mais relax."
+            },
+            {
+                "question": "Un bon souvenir?",
+                "answer": "Les bains de mer en Méditerranée..."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Toujours à l’heure ou en retard ?",
+                "answer": "Toujours en retard. C'est inexplicable et ça fait mon charme !"
+            },
+            {
+                "question": "Si tu pouvais te téléporter, ça serait pour aller…",
+                "answer": "Aux Etats Unis - je suis dans ma période rêve américain."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "MA MONTRE ROSEFIELD PRÉFÉRÉE :",
+       "WatchText": "la mercer. ultra plate, ultra chic.",
+       "CheckThisWatch": "Décrouvez cette montre",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_two": "11.15 Paris",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ce que les gens ne savent pas sur toi ?",
+                "answer": "Il faut se méfier de l'eau qui dort !"
+            },
+            {
+                "question": "Dans 5 ans, je…",
+                "answer": "La question piège... ! Je préfère profiter de l'instant présent, et on verra ce que le futur me réserve."
+            },
+            {
+                "question": "L’expression que tu dis tout le temps ?",
+                "answer": "Oh l’horreur ! Oui, je suis un peu emphatique."
+            },
+            {
+                "question": "Tu passerais bien une petite heure avec ?",
+                "answer": "Une personne que j'affectionne et qui habite de l'autre côté de l'Atlantique."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "La chanson que tu écoutes en boucle ?",
+                "answer": "Tous les titres de The Chainsmokers..."
+            },
+            {
+                "question": "Le dernier film qui t’a fait pleurer ?",
+                "answer": "Némo… ?"
+            },
+            {
+                "question": "Une recette “wahou” en 15 min’ ?",
+                "answer": "Tu prends 3 œufs, 100g de chocolat, 100g de beurre, 500g de crème de marron...Tu fais chauffer le beurre et le chocolat. Tu rajoutes la crème de marron, et les œufs. Bon faut mettre au four 45 min.… Mais ça en fait tomber pas mal dans mes filets! Oui, je suis très gourmande !"
+            },
+            {
+                "question": "Ta petite manie ?",
+                "answer": "Tournicoter mes boucles, même moi ça m’agace !"
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Je suis toujours en retard... Ça fait mon charme"
+    }
+
+}

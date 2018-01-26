@@ -1,0 +1,38 @@
+[
+  
+	{
+  	"label":"PayPal",
+  	"value":"p_method_adyen_hpp_paypal"
+	},
+
+	{
+    "label":"MasterCard",
+    "value":"p_method_adyen_hpp_mc"
+	},
+
+	{
+    "label":"Visa",
+    "value":"p_method_adyen_hpp_visa"
+	},
+
+  {
+    "label":"American Express",
+    "value":"p_method_adyen_hpp_amexl"
+  },
+
+  {
+    "label":"American Express",
+    "value":"adyen_hpp_paypal"
+  },
+
+  {
+    "label":"Diners Club",
+    "value":"p_method_adyen_hpp_diners"
+  },
+
+  {
+    "label":"Discover",
+    "value":"p_method_adyen_hpp_discover"
+  }  
+
+]

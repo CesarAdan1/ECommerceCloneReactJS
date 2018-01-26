@@ -1,0 +1,30 @@
+{
+    "Title": "Shipping & Returns",
+    "ShippintText": {
+        "Title": "Shipping",
+        "Headline": "We offer free worldwide shipment. See below for the estimated time of delivery:",
+        "TableContent": [{
+            "Destination",
+            "Express price",
+            "Express delivery"
+        }, {
+            "Within Europe",
+            "Free",
+            "1-3 working days"
+        }, {
+            "Rest of The world",
+            "Free",
+            "2-4 working days"
+        }]
+    },
+    "ShippingNote": "Please be aware of the fact that for straps which are bought individually (not together with a watch) we charge US$ 10 shipping costs:",
+    "ShippingDescription": {
+        "Title": "Returns",
+        "Description": {
+            "All purchases from ROSEFIELD watches can be returned within a 14-days trial period, starting the day of receiving the order, without stating a reason. A two-year warranty comes with all our products. Please, see our Terms and Conditions for more information.",
+            "All items returned within the 14-days trial period must be in the same condition in which they were received. In case the buyer wishes to return the product, he or she is allowed to unpack the product and only use it to determine whether he/she wants to keep the product. The returned products will be carefully examined, as they must be unworn and in their original packaging, containing all accessories of the packaging.",
+            "In case the product is received broken or damaged, the buyer is obliged to inform us immediately and we will send further instruction of how to proceed.",
+            "Please note, that if a buyer wishes to return the order, the shipping costs are his/her responsibility. We recommend that the buyer chooses a secured shipment method, as the return shipment is at his/her risk. We will inspect the product carefully and when a default (not caused by the customer) is detected, a repaired product or a replacement will be sent back and the customer will be reimbursed for his/her expenses."
+        }
+    }
+}

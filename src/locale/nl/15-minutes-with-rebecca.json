@@ -1,0 +1,109 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Rebecca Price",
+    "Tagline": "Maak kennis met een van de stylisten bij Karen Millen.",
+    "Time": "11.00 Amsterdam",
+    "ChatText": "We ontmoeten Rebecca voor een kop koffie en een praatje",
+    "IntroText": "Rebecca Price - Stylist bij Karen Millen, daarnaast werkt zij voor verschillende andere projecten en foto shoots.Van origine Brits, maar groeide op in een klein dorp in de Catalaanse Pyreneeën in de buurt van Barcelona, waar ze op een Catalaanse school heeft gezeten. Daarna teruggegaan naar Londen en daar aan de London College of Fashion gestudeerd. Rebecca is gek op moderne kunst en bezoekt tijdens haar reizen ook veel musea.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Wat betekent tijd voor jou?",
+                "answer": "Hoe ouder je wordt, hoe sneller de tijd lijkt te gaan. Ik geloofde het nooit als dat tegen me gezegd werd, maar wat gaat de tijd snel!"
+            },
+            {
+                "question": "Nieuwste ontdekking in Amsterdam?",
+                "answer": "Neef Louise Design in Noord voor tweedehands kleding en spulletjes. Ik fietste er eens langs met een vriendin en we zijn vervolgens de hele middag gebleven. Ze hebben ook een gezellige lunchroom waar je heerlijke verse jus en rozemarijn thee kunt drinken."
+            },
+            {
+                "question": "Wat is je ochtendroutine?",
+                "answer": "Eerst ontbijt. Als ik niet heb gegeten word ik chagrijnig. Daarna spring ik onder de douche en maak ik me klaar om naar mijn werk te gaan."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Je favoriete plek in Amsterdam?",
+                "answer": "Toki voor koffie op de Binnen Dommersstraat en Skins voor parfum en kaarsen. Cosmetica zijn een beetje een verslaving van me en voor de beste kaarsen moet je die van Dyptique hebben."
+            },
+            {
+                "question": "Op zondag..",
+                "answer": "ga ik graag naar een vlooienmarkt op zoek naar vintage kledingstukken en antieke meubels. Ik combineer graag vintage kleding met high street of designer stukken."
+            }
+        ]
+    },
+    "QuoteText": "Eerst ontbijt. Als ik niet heb gegeten word ik chagrijnig.",
+    "Name": "Rebecca",
+    "CenterQuestion":
+    {
+       "question": "wat doe je het liefst op een vrije dag?",
+       "answer": "Op een vrije dag bezoek ik het Stedelijk of Foam museum, ga ik koffiedrinken met een vriendin of maak ik een lange wandeling door het Vondelpark."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "11.10 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Je mooiste herinnering?",
+                "answer": "Wakker worden tijdens de oproep voor het gebed in Meknes, Marokko. Een paar jaar geleden heb ik heel Marokko rondgereisd en het is nog steeds een van de mooiste plekken waar ik ooit ben geweest!"
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Wie of wat inspireert jou en waarom?",
+                "answer": "Mijn ouders. Zij zijn nooit bang geweest voor een avontuur. We verhuisden en reisden vaak toen ik jong was en woonden op de meest afgelegen plekken. Zo woonden we in de laagste temperaturen in de Pyreneeën, zonder centrale verwarming, met alleen maar een houtvuur voor de warmte. We groeiden onze eigen groenten en hakten zelf hout. Het was de beste jeugd die ik kon wensen."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favoriete horloge",
+       "WatchText": "The Mercer in White Gold. Een klassiek horloge dat ik overal bij kan dragen. Ik krijg er ook veel complimenten over!",
+       "CheckThisWatch": "BEKIJK DIT HORLOGE",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "11.15 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Wat weten mensen niet over jou?",
+                "answer": "Mijn opa maakte en repareerde vroeger de gitaren voor de Beatles en Jimi Hendrix en toen ik 9 jaar was ben ik getroffen door de bliksem."
+            },
+            {
+                "question": "Ik ben altijd laat/op tijd..",
+                "answer": "Te vroeg. Ik vind te laat komen erg stressvol. Ik probeer daarom altijd 5-10 minuten te vroeg te zijn."
+            },
+            {
+                "question": "Over vijf jaar..",
+                "answer": "hoop ik weer terug in Barcelona te zijn. Vermut drinkend en luisterend naar Leonard Cohen op het terras. Dat voelt echt als thuis."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Als je jezelf zou kunnen teleporteren, waar zou je heengaan?",
+                "answer": "Terug naar de 70’s, de Ziggy Stardust Tour. Als iemand ooit een tijdmachine uitvindt kun je mij vinden op de eerste rij met David Bowie!"
+            },
+            {
+                "question": "Goud of zilver?",
+                "answer": "Goud. Altijd. Volgens mij heb ik nooit zilver gedragen."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Ik ben altijd te vroeg. Te laat komen vind ik erg stressvol."
+    }
+
+}

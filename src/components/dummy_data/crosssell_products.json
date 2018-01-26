@@ -1,0 +1,39 @@
+[
+  {
+  "id": 1,
+  "name": "The Gramercy",
+  "short_description": "White - Black",
+  "price": 89,
+  "image": "https://i.rosefieldwatches.com/products/watches/the-gramercy/The-Gramercy-White-black.png"
+}, {
+    "id": 2,
+    "name": "The Gramercy",
+    "short_description": "White - Rosegold",
+    "price": 89,
+    "image": "https://i.rosefieldwatches.com/products/watches/the-mercer/the-mercer-white-rosegold.png"
+}, {
+    "id": 3,
+    "name": "The Bowery",
+    "short_description": "White - Black",
+    "price": 89,
+    "image": "https://i.rosefieldwatches.com/products/watches/the-bowery/The-Bowery-White-Black-silver.png"
+}, {
+    "id": 282,
+    "name": "The West Village",
+    "short_description": "Elephant Grey - Rose Gold",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/west-village/west-village-elephant-grey.png"
+  },  {
+    "id": 301,
+    "name": "The Upper East Side",
+    "short_description": "White Pearl - Silver",
+    "price": "119",
+    "image": "https://i.rosefieldwatches.com/products/watches/upper-east-side/The-Upper-East-Side-White-Pearl-Silver.png"
+  }, {
+    "id": 191,
+    "name": "The Mercer",
+    "short_description": "White - Silver",
+    "price": "109",
+    "image": "https://i.rosefieldwatches.com/products/watches/the-mercer/the-mercer-white-silver.png"
+  }
+]

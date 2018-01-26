@@ -1,0 +1,109 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Chloé Leenheer",
+    "Tagline": "Meet the Dutch actress and photographer.",
+    "Time": "14.40 amsterdam",
+    "ChatText": "we met chloe for coffee and a chat",
+    "IntroText": "Actress, photographer and all-round cool girl Chloé Leenheer (28) lives in Amsterdam. She recently launched Pop In Portraits, a creative photo service studio for splendid and professional portraits, taken in a little less than half an hour – to be hung on the wall at home, for castings or as a handsome profile picture. Whenever Chloé is not behind the camera, you can admire her in front of it, in Dutch television series as Zusjes and Bluf. Chloé’s style is tough, rock-and-roll, even a little boyish with funky and feminine touches.",
+    
+    "Question_section1":
+    {
+        "Time_one": "14.45 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "I try to live in the present and not worry about time too much. But I do want to be punctual, so there’s small chance that I will arrive too late at an appointment."
+            },
+            {
+                "question": "Latest discovery in Amsterdam?",
+                "answer": "Eating churros with hot chocolate sauce at a small Spanish restaurant called Pacomer in the Pijp neighborhood. So delicious."
+            },
+            {
+                "question": "What's your morning routine?",
+                "answer": "Coffee. Scrolling Insta feeds. Croissants with jam and butter. And blush. Always blush."
+            },
+            {
+                "question": "Your favorite place in Amsterdam?",
+                "answer": "The Stedelijk Museum for modern art and the Felix Meritis theater and music venue."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Who or what is the epitome of beauty for you?",
+                "answer": "I would say French actress Marion Cotillard."
+            },
+            {
+                "question": "What do you like to do when you have a day off?",
+                "answer": "All my coats. Coats are the building bricks of my wardrobe, since we have to wear one almost every day of the year in the Netherlands.I can&#39;t live without my biker jacket (which is made from recycled leather) and my faux fur coats."
+            },
+            {
+                "question": "What is your best memory?",
+                "answer": "The premiere of the television series Zusjes."
+            }
+        ]
+    },
+    "QuoteText": "I try to live in the present and not worry about time too much.",
+    "Name": "Chloe",
+    "CenterQuestion":
+    {
+       "question": "on sundays i…",
+       "answer": "Work. But on Mondays I visit the Artis zoo and eat lamb chops at the Plantage restaurant."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "14.50 AM Amsterdam ",
+        "LeftQuestion":
+        [
+            {
+                "question": "I’m always late/on time?",
+                "answer": "I’m always on time, even earlier if I can. I don’t like waiting for people so I won’t keep them waiting either."
+            },
+            {
+                "question": "If you could teleport yourself, where would you go?",
+                "answer": "Harry Potter World, Orlando. But only if my best friend can come too!."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "What do people not know about you?",
+                "answer": "I don’t like cooking. But lately I’m trying… I really am."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "the timeless one. haha, what a paradox.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Bowery",
+       "ProductShortDesc": "White - Blue"
+    },
+    "Question_section3":
+    {
+        "Time_three": "14.55 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "In five years, I will ...",
+                "answer": "Own a multinational, have six horses on my Harry Potter ranch and will always be wearing a banana quilt. And my Rosefield watch of course."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Favorite Rosefield Watch?",
+                "answer": "The timeless one. Haha, what a paradox."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "In five years time I’ll own a multinational and will always be wearing a banana quilt."
+    }
+
+}

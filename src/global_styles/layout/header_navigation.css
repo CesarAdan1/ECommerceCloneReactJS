@@ -1,0 +1,523 @@
+header {
+  transition: background-color 500ms ease;
+  z-index: 90;
+
+  @svg-load logo url('logo.svg') {
+  fill: #f0f;
+    path {
+      fill: #f0f;
+    }
+  }
+
+
+  & nav {
+    letter-spacing: 3.16px;
+    font-weight: lighter;
+    background-color: #ffffff;
+
+    & .desktop-menu {
+      display: block;
+    }
+
+    & .mobile-menu {
+      display: none;
+    }
+
+    & ul {
+      lost-column: 20/20;
+      margin: 0;
+      padding: 0;
+    }
+
+    & .left-nav {
+      lost-column: 8/20;
+
+      & li {
+        float: left;
+        padding: 0 20px;
+      }
+
+      & li:first-child {
+        padding-left: 35px;
+      }
+    }
+
+    & .center-nav {
+      lost-column: 4/20;
+    }
+
+    & .right-nav {
+      lost-column: 8/20;
+      float: right;
+      text-align: right;
+
+      & li {
+        float: right;
+        padding: 0 20px;
+      }
+
+      & .nav-cart {
+        background-color: #fed6cc;
+        min-height: 60px;
+        font-size: 12px;
+        letter-spacing: 1px;
+        float: right;
+        left: 3px;
+
+        & span {
+          padding-left: 8px;
+        }
+      }
+
+      & .nav-login {
+        & a {
+          text-transform: initial;
+          letter-spacing: 1px;
+          font-size: 11px;
+        }
+      }
+    }
+
+    & li {
+      position: relative;
+      border: 0;
+
+      & a {
+        color: #434343 !important;
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 12px;
+        padding: 25px 0;
+        float: left;
+        position: relative;
+        white-space: nowrap;
+      }
+
+      & a:hover{
+        color: #dc9f8c !important;
+      }
+
+
+      & .home_logo {
+        lost-column: 4/4;
+        background: transparent svg-load('logo.svg', fill=#000) no-repeat 50%;
+        background-size: 150px;
+
+        /* text-hide */
+        overflow: hidden;
+        text-indent: 101%;
+        white-space: nowrap;
+      }
+
+      &.cart {
+        lost-column: 2/20;
+        background: #fed6cc;
+        & svg {
+          font-size: 18px;
+          position: relative;
+          top: -2px;
+        }
+      }
+
+      & svg.angle_down {
+        position: relative;
+        top: -1px;
+      }
+
+      & .sub-menu{
+        display: none;
+        background: #FFFFFF;
+        border-top: 1px solid #ecddd8;
+        position: absolute;
+        width: auto;
+        top: 63px;
+        z-index: 99;
+
+        & li {
+          text-transform: initial;
+          font-size: 12px;
+          float: left;
+          width: 100%;
+          text-align: left;
+          padding-left: 8px;
+          box-sizing: border-box;
+        }
+
+        & a {
+          padding: 12px 0;
+          text-transform: initial;
+          font-size: 12px;
+        }
+      }
+
+      & .switcher-sub-menu{
+        display: none;
+        background: #FFFFFF;
+        border-top: 1px solid #ecddd8;
+        position: absolute;
+        width: auto;
+        top: 63px;
+        z-index: 99;
+        width: 250px;
+        right: 0;
+        height: 300px;
+
+
+        & label {
+          float: left;
+        }
+
+        & select {
+          float: left;
+        }
+      }
+    }
+  }
+
+  &.has_banner nav ul li a {
+    color: #fff;
+
+    &.home_logo {
+      background-image: svg-load('logo.svg', fill=#000);
+    }
+  }
+}
+
+@media screen and (max-width: 1513px) {
+  header {
+    & nav {
+        & .right-nav {
+
+          & li{
+            padding: 0 19px;
+          }        
+        }
+      }
+  }    
+}
+@media screen and (max-width: 1498px) {
+  header {
+    & nav {
+      & .right-nav {
+
+        & li{
+          padding: 0 15px;
+        }
+
+        & a{
+          font-size: 10px;
+        }
+      }
+
+      & .nav-cart{
+        padding: 0 18px;
+      }
+    }
+  }
+  header {
+    & nav {
+      & .left-nav {
+
+        & li{
+          padding: 0 15px;
+
+          & a{
+          font-size: 10px;
+          }
+
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1294px) {
+  header {
+    & nav {
+      & .right-nav {
+
+        & li{
+          padding: 0 12px;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1219px) {
+  header {
+    & nav {
+      & .right-nav {
+
+        & li{
+          
+          & a{
+            font-size: 9px;
+          }
+        }
+      }
+
+      & .left-nav {
+
+        & li{
+
+          & a{
+          font-size: 9px;
+          }
+
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1173px) {
+  header {
+    & nav {
+      & .right-nav {
+
+        & li{
+          padding: 0 7px;
+        }
+
+         & .nav-cart{
+          padding: 0 16px;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1093px) {
+  header {
+    & nav {
+      & .right-nav {
+
+        & li{
+          padding: 0 5px;
+        }
+
+         & .nav-cart{
+          padding: 0 13px;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1037px) {
+  header {
+    & nav {
+      & .right-nav {
+
+        & li{
+          padding: 0 4px;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1024px) {
+
+  header {
+    left: 0 !important;
+
+    &.fixed {
+      & nav {
+        background-color: #fff;
+
+        & li {
+          & .mobile_logo {
+            lost-column: 3/4;
+            background: transparent svg-load('logo.svg', fill=#000) no-repeat 50%;
+            background-size: 150px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-indent: 101%;
+            margin: 0 auto !important;
+            float: none !important;
+            display: block;
+          }
+        }
+      }
+    }
+
+    & nav {
+      background-color: transparent;
+
+      & .desktop-menu {
+        display: none;
+      }
+
+      & .mobile-menu {
+        display: block;
+      }
+
+      & li {
+        & .mobile_logo {
+          lost-column: 3/4;
+          background: transparent svg-load('logo.svg', fill=#000) no-repeat 50%;
+          background-size: 150px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-indent: 101%;
+          margin: 0 auto !important;
+          float: none !important;
+          display: block;
+        }
+
+        &.nav-cart {
+          background-color: #fed6cc;
+          min-height: 60px;
+          font-size: 12px;
+          letter-spacing: 1px;
+          float: right;
+          position: absolute;
+          right: 0;
+          top: 0;
+          padding: 0 16px;
+
+          & .cart-icon {
+            background: url(/static/images/nav-cart-black.png) no-repeat center center;
+          }
+          
+          & span {
+            margin-left: 30px;
+          }
+
+          & a {
+            padding: 23px 0;
+          }
+        }
+
+      }
+    }
+  }
+
+  .has_image {
+    & header {
+
+      left: 0 !important;
+
+      &.fixed {
+        & nav {
+          background-color: #fff;
+
+          & li {
+            & .mobile_logo {
+              lost-column: 3/4;
+              background: transparent svg-load('logo.svg', fill=#000) no-repeat 50%;
+              background-size: 150px;
+              white-space: nowrap;
+              overflow: hidden;
+              text-indent: 101%;
+              margin: 0 auto !important;
+              float: none !important;
+              display: block;
+            }
+
+            &.nav-cart {
+              background-color: #fed6cc;
+              & span {
+                margin-left: 30px;
+                color: #000;
+              }
+
+              & .cart-icon {
+                background: url(/static/images/nav-cart-black.png) no-repeat center center;
+              }
+            }
+          }
+        }
+      }
+
+      & nav {
+        background-color: transparent;
+
+        & .desktop-menu {
+          display: none;
+        }
+
+        & .mobile-menu {
+          display: block;
+        }
+
+        & li {
+
+          & .mobile_logo {
+            lost-column: 3/4;
+            background: transparent svg-load('logo.svg', fill=#fff) no-repeat 50%;
+            background-size: 150px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-indent: 101%;
+            margin: 0 auto !important;
+            float: none !important;
+            display: block;
+          }
+
+          &.nav-cart {
+            background-color: transparent;
+            min-height: 60px;
+            font-size: 12px;
+            letter-spacing: 1px;
+            float: right;
+            position: absolute;
+            right: 0;
+            top: 0;
+            padding: 0 16px;
+
+            & .cart-icon {
+              background: url(/static/images/nav-cart-white.png) no-repeat center center;
+            }
+
+            & span {
+              margin-left: 30px;
+              color: #fff;
+            }
+
+            & a {
+              padding: 23px 0;
+            }
+          }
+
+        }
+      }
+
+    }
+  }
+}
+
+header nav li:hover > ul.sub-menu {
+  display:block;
+}
+header nav li:hover > ul.sub-menu li:hover {
+  background-color: #fed6cc;
+}
+header nav li:hover > ul.sub-menu li a:hover {
+  color: #ffffff !important;
+}
+
+header nav li:hover > div.switcher-sub-menu {
+  display:block;
+}
+
+/* Navigation Country and Language*/
+
+.rf-mod-languageBar__innerWrapper {float: left;padding: 15px;width: auto;}
+
+.rf-mod-locationSelector {background:#f8f8f8 url("https://www.rosefieldwatches.com/skin/frontend/watches/default/images/dest/new-img/rf-select-arrow-w.svg") no-repeat scroll 94% center / 10px auto; 
+border: 1px solid #9f9d9e;color: #000000;float: none;height: 40px;margin: 0 auto;outline: 0 none;overflow: hidden;width: 220px;}
+.country-img {float: left;margin: 0;outline: none;padding: 9px 0 11px 0;position: absolute;width: 25px;}
+.country-select {-moz-appearance:none; /* Firefox */ -webkit-appearance:none; /* Safari and Chrome */
+background: rgba(0, 0, 0, 0) url("https://www.rosefieldwatches.com/skin/frontend/watches/default/images/dest/rf-select-arrow.svg") no-repeat scroll 94% center / 10px auto; border: 0px solid #9f9d9e;color: #000;float: left;font-size: 10px;height: 40px;letter-spacing: 3px;outline: medium none;padding-left: 35px;text-transform: uppercase;width: 220px;}
+
+.country-select option, .language-select option {color: #000000;padding: 5px;}
+
+.rf-mod-languageSelector {background:#f8f8f8 url("https://www.rosefieldwatches.com/skin/frontend/watches/default/images/dest/new-img/rf-select-arrow-w.svg") no-repeat scroll 94% center / 10px auto; border: 1px solid #9f9d9e;color: #000000;float: none;height: 40px;letter-spacing: 3px;margin: 20px auto;outline: 0 none;overflow: hidden;width: 220px;}
+.language-select {-moz-appearance:none; /* Firefox */ -webkit-appearance:none; /* Safari and Chrome */
+ background: rgba(0, 0, 0, 0) url("https://www.rosefieldwatches.com/skin/frontend/watches/default/images/dest/rf-select-arrow.svg") no-repeat scroll 94% center / 10px auto; color: #000;border: 0px solid #9f9d9e;float: left;font-size: 10px;height: 40px;letter-spacing: 1px;margin: 0;outline: medium none;padding-left: 15px;text-transform: uppercase;width: 220px;}
+
+.select-button {background: transparent;border: 0 none;color: #000000;cursor: pointer;float: right;margin: 0;padding: 15px;position: relative;width: 120px;z-index: 0;}
+.select-button:before{content: "";position: absolute;z-index: -1;top: 0;left: 0;right: 0;bottom: 0;background: #ffd6cc;transform: scaleX(0.5);transform-origin: 0 50%;transition: transform .3s ease-out;}
+.select-button:hover:before{transform: scaleX(1);}
+.select-button:after{bottom: 10px;position: absolute;height: 4px;width: calc(1 - $letterSpacing); right: 15px;left: 15px;margin-top: 4px;content: ' ';display: block;background: #393939;}
+.select-button:hover:after {position: absolute;display: block;height: 4px;margin: 04px auto 0; -webkit-animation: lineWidth 0.4s;animation: lineWidth 0.4s;-webkit-animation-timing-function: cubic-bezier(0.57,0.21,0.86,0.39);animation-timing-function: cubic-bezier(0.57,0.21,0.86,0.39);background: #181818;}
+.select-button a {width: auto;font-size: 11px;color: #000; letter-spacing: 4px;text-transform: uppercase; padding: 0px;}

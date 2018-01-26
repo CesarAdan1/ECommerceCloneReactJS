@@ -1,0 +1,32 @@
+{
+    "Title": "VERSAND & RÜCKGABE",
+    "ShippintText": {
+        "Title": "VERSAND",
+        "Headline": "Wir liefern kostenlos weltweit. Weiter unter finden Sie eine Tabelle mit den voraussichtlichen Lieferzeiten:",
+        "TableContent": [{
+			"field1":"DESTINATION",
+            "field2":"EXPRESSPREIS",
+            "field3":"EXPRESSLIEFERUNG"
+        }, {
+            "field1":"Deutschland",
+            "field2":"Kostenlos",
+            "field3":"1 - 2 werktage"
+        }, {
+            "field1":"Der Rest der Europa",
+            "field2":"Kostenlos",
+            "field3":"1 - 3 werktage"
+        },{
+            "field1":"Der Rest der Welt",
+            "field2":"Kostenlos",
+            "field3":"2 - 4 werktage"
+        }]
+    },
+    "ShippingNote": "Bitte beachten Sie, dass wir für einzeln gekaufte Armbänder (die nicht zusammen mit einer Uhr gekauft wurden) Versandkosten in Höhe von 5 Euro berechnen.",
+    "ShippingDescription": {
+        "Title": "RÜCKGABE",
+        "Description": [{"sub_desc":"Alle Einkäufe bei ROSEFIELD, können innerhalb der Bedenkzeit von 14 Tagen, nach Erhalt der Ware, und ohne Angabe von Gründen zurückgeschickt werden. Unsere Produkte haben eine Garantie von zwei Jahren. Für mehr Informationen sehen Sie sich bitte unsere Allgemeinen Geschäftsbedingungen an."},
+            {"sub_desc":"Alle Artikel müssen innerhalb der 14-tägigen Bedenkzeit zurückgeschickt werden und sich in dem gleichen Zustand befinden, in dem wir den Artikel verschickt haben. Im Falle von Unzufriedenheit, ist es dem Kunden gestattet das Produkt auszupacken und zu benutzten, wenn es bei der Entscheidung dazu beiträgt, ob er/sie das Produkt behalten möchte oder nicht. Alle zurückgeschickten Produkte werden gründlich begutachtet, ob sie ungetragen, originalverpackt und vollständig sind."},
+            {"sub_desc":"Falls ein erhaltenes Produkt kaputt oder beschädigt sein sollte, hat der Käufer uns sofort darüber zu informieren. Wir werden dem Kunden daraufhin weitere Anweisungen geben, wie er/sie weiter zu verfahren hat."},
+            {"sub_desc":"Bitte beachten Sie, dass der Kunde im Falle einer Rücksendung die Kosten für den Versand selbst tragen muss. Wir empfehlen, dass der Käufer den versicherten Versand wählt, da die Rücksendung auf eigene Verantwortung geschieht. Wir werden das Produkt gründlich begutachten. Sollten wir einen Defekt, (der nicht durch den Kunden selbst verursacht wurde), entdecken, werden wir dem Kunden das reparierte Produkt oder ein Ersatzprodukt zukommen lassen und die Ausgaben, die der Kunde hatte, erstatten."}]
+}
+}

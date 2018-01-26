@@ -1,0 +1,113 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Cheyenne Tulsa",
+    "Tagline": "Wir haben Chayenne getroffen, Berlin It-girl und Model",
+    "Time": "11.00 Berlin",
+    "ChatText": "Wir haben uns mit Cheyenne in Berlin auf einen Kaffee getroffen",
+    "IntroText": "Berliner It-Girl und Model Cheyenne Tulsa liebt chinesisches Essen, Kunst Museen und K-Pop. Die Australierin lebt in Berlin und inspiriert uns mit ihrem ausgezeichneten Geschmack für Mode und Interieur. Sie erlaubt uns täglich einen Einblick in ihr Leben in Berlin.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.05 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "Was bedeutet Zeit für Dich?",
+                "answer": "Man sollte Zeit nicht verschwenden."
+            },
+            {
+                "question": "Neueste Entdeckung?",
+                "answer": "Ming’s Garden in Kudamm… wirklich das leckerste chinesische Restaurant in Berlin."
+            },
+            {
+                "question": "Was ist Deine morgendliche Routine?",
+                "answer": "Als erstes mache ich mir einen Kaffee…oder zwei. Danach antworte ich auf ein paar Emails, dusche und dann mache ich mich fertig und starte den Tag."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Lieblings Spot in Berlin?",
+                "answer": "Ich wohne in Kreuzberg umgeben von vielen meiner Lieblings Spots. Im Sommer bin ich gerne am Kanal oder im Park mit meinen Freunden. Jungbusch und Lugosi für Drinks. Der Kaffee von Carpenter Kaffee ist der Beste, Zola's für Pizza, Mugrabi oder Stella's zum Lunch, Eggs Benedict bei Le Bon, Hangover Cure bei Cabslam und so weiter..."
+            },
+            {
+                "question": "Wer oder was ist für Dich der Inbegriff von Schönheit?",
+                "answer": "Jemand der den Mut hat, seine Unvollkommenheit zu feiern."
+            },
+            {
+                "question": "Sonntags mache ich…",
+                "answer": "Besuche eine Ausstellung, treffe mich mit Freunde, mache Sport, bleibe im Bett..."
+            }
+        ]
+    },
+    "QuoteText": "Man sollte Zeit nicht verschwenden.",
+    "Name": "Cheyenne",
+    "CenterQuestion":
+    {
+       "question": "was machst du am liebsten an deinem freien tag?",
+       "answer": "Ein freier Tag ist sehr selten für mich, aber wenn ich einen habe dann besuche ich einen Stadtteil oder Laden. Ich nutzte auch die Zeit um Ideen und Projekte weiter zu entwickeln, die auf meiner To-do Liste stehen."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "11.10 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "Was ist Deine beste Erinnerung?",
+                "answer": "Der Tag an dem ich von Australien nach Europa umgezogen bin."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Ich bin immer zu spät/pünktlich. Wieso?",
+                "answer": "Egal was, ich probiere immer pünktlich zu sein."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "Favorite Rosefield Uhr?",
+       "WatchText": "Die Tribeca in weiß gold, klassisch gold.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Tribeca",
+       "ProductShortDesc": "White - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "11.15 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "Eine Sache, die die meisten Menschen nicht über dich wissen?",
+                "answer": "Ich liebe K-pop und spiele elektrische Bass Gitarre."
+            },
+            {
+                "question": "Wer oder was inspiriert dich im Leben und wieso?",
+                "answer": "Meine Mutter. Sie inspiriert mich am meisten und ist die herzlichste und fleißigste Frau, die ich kenne."
+            },
+            {
+                "question": "In fünf Jahren werde ich…",
+                "answer": "Mein neues Projekt entwickeln (launching soon). Viel reisen, mein eigenes Apartment am Meer und weitere Dinge von meiner 'To Do' Liste streichen können."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "An welchen Ort würdest du dich auf der Stelle beamen, wenn du könntest?",
+                "answer": "Ein tropischer Ort, wo ich am Strand im Bikini von einer Kokosnuss trinke, umgeben von Seafood und Acai Bowls."
+            },
+            {
+                "question": "Gold oder Silber?",
+                "answer": "Beides, aber ich trage Gold und Silber nie gleichzeitig."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Meine beste Erinnerung ist der Tag an dem ich von Australien nach Europa umgezogen bin."
+    }
+
+}

@@ -1,0 +1,100 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Annabel Kleyweg",
+    "Tagline": "Meet the label owner of Before 7 am in Berlin.",
+    "Time": "10.00 Berlin",
+    "ChatText": "we met annabel for a bike ride in berlin",
+    "IntroText": "Annabel Kleyweg - Lives in Berlin with her boyfriend. She is 29 years old and runs the conscious fashion label Before 7 am. Her collections are solely made from “leftover” material coming from high end designer labels.",
+    
+    "Question_section1":
+    {
+        "Time_one": "10.05 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "Time is probably the greatest driving force for most of us. It motivates and drives me, time forces me to make the right choices and helps me concentrate on what really matters. It’s tempting to lose yourself in the daily rush and established expectations, that don’t add depth or meaning to your life. I often think how I will look back on my life as a little old lady and that helps me reflect, put things into perspective and make the right decisions. Occasionally, time also means stress when I feel there is a conflict between the present moment and the things that I have to do. Minimizing stress is extremely important to me, so that I can use my time to see and experience more. Sometimes I’m also frustrated by time because it goes by so fast. If you don’t pay attention months will go by and you haven’t changed anything."
+            },
+            {
+                "question": "I don’t leave the house without…",
+                "answer": "My headphones and audiobooks. I love to read but it’s like everything that isn’t a priority, it’s difficult to make time for. That’s why audiobooks are perfect, because I can listen to them when I’m on my bike."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "What’s the first thing that you do at work?",
+                "answer": "Before I really get started, I have a little preparation ritual (call it procrastination if you want) where I first make a big pot of tea and plan my day around what has to be done the same day and what long term projects require my attention. And then I get started!"
+            },
+            {
+                "question": "What is your morning routine?",
+                "answer": "It doesn’t always go as planned (especially during cold winter mornings) but I try to get up around 6.30 am. If its light outside I will go for a quick run. Behind our house is an insanely beautiful park with a look out point over the entire city. If I have the time I like to sit on a park bench and day dream about what I want to accomplish during the day. I’ve realized that it helps me get into the right mindset and then I’m able to start my day with a positive attitude and lots of energy. Afterwards it’s time for brekkie. Breakfast is definitely my favorite meal. My boyfriend and I eat together every morning with some relaxing music playing in the background."
+            },
+            {
+                "question": "What clothing item gives you confidence and why?",
+                "answer": "A good pair of high heels. High heels have an absolute transformational effect on me haha. I walk better and feel much more feminine."
+            }
+        ]
+    },
+    "QuoteText": "Time is probably the greatest driving force for most of us.",
+    "Name": "Annabel",
+    "Question_section2":
+    {
+        "Time_two": "10.10 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "When did you move to Berlin? And why Berlin?",
+                "answer": "I moved to Berlin last May. Before that I lived in Asia but I wanted to return to Europe. While I was moving back from Asia I started planning my first collection for “Before 7 am”. I wanted to live in a city with a lot of creativity, entrepreneurship and freedom. Berlin is basically utopia, there is an enormous urge to fulfill your own dreams and that’s why it fits my own situation. Also the summers in Berlin are super nice and it’s close to home. By train, car or airplane I’m home in just a few hours."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "What’s your favorite spot in Berlin?",
+                "answer": "Tempelhof, this is a former airport that’s now open to the public. You can see people jogging, skating, longboarding, and flying kites on the landing strip. In the surrounding fields you can barbeque, let your dog run or do some gardening or work on art. Actually everything is happening at Tempelhof, it’s like a mini cosmos."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "The West Village in Mint grey, what a beauty! I’m a fan of nostalgic and romantic style. With a classy watch you can accentuate such a look perfectly.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The West Village",
+       "ProductShortDesc": "Mint Grey - Rose Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "10.15 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "The trip of your dreams?",
+                "answer": "A three-month round trip, kind of like a mini world trip."
+            },
+            {
+                "question": "I’m always late/on time...",
+                "answer": "If the appointment allows for it then late. I don’t like planning and I often find myself about to leave the house but then spontaneously remember little tasks like doing my nails and then in the end I’m in a race with time."
+            },
+            {
+                "question": "In five years time I…",
+                "answer": "I’m very interested to see all the changes in the fashion industry by then. Thanks to the enormous advancements of technology we’ve made, completely new business models are possible. In the coming five years I want to play an active role in the future of fashion."
+            }
+
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "What’s something most people don’t know about you?",
+                "answer": "Sometimes I dream about leaving the city life behind me, buying a piece of land on a warm island in the Atlantic or the Mediterranean and building a quite and relaxing life. Running around on bare feet all day, growing my own food and forgetting about reality a little bit."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Sometimes I dream about leaving the city life behind me."
+    }
+
+}

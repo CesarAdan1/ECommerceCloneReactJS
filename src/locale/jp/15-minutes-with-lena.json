@@ -1,0 +1,122 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Lena Lademann",
+    "Tagline": "Meet Lena, fashion Influencer and art lover",
+    "Time": "12.05 AM Amsterdam",
+    "ChatText": "we met lena for coffee and a chat",
+    "IntroText": "At 25 years old Lena Lademann is not only one of the Co-founders of Blogger Bazaar, a successful Blogazin that speaks to fashionable business women with empowering content, but has also recently launched her very own <a href='http://lenalademann.com/' target='_blank' rel='noopener noreferrer'>blog</a> . On this space Lena shares her very personal view on topics like design, fashion, beauty and travel & events. Lena has been able to grow her success and social media influence as a result of her ability to create impeccable outfits and her unique ability to combine fashion with her interest for art.",
+    
+    "Question_section1":
+    {
+        "Time_one": "12.10 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "For me, time means reflection on myself and what is most important. In my case this is my friends, family or even just the couch and good music. That’s the only way to stay true to yourself, be calm and balanced in the increasingly fast-paced everyday life. To have time means to find balance within yourself."
+            },
+            {
+                "question": "Do you have any morning routine?",
+                "answer": "Jump out of bed, preferably have a bath, wake up there and then taking extremely long to get dressed, do my makeup, have breakfast, check Instagram and e-mail – and then arrive a couple of minutes late everywhere."
+            },
+            {
+                "question": "Latest discovery? (Art, restaurant, shop etc ...)",
+                "answer": "Loéil. A very nice online shop from LA with minimalistic Scandinavian cuts.Artist: Robert Szot, a great contemporary painter based in NY."
+            },
+            {
+                "question": "What's your morning routine?",
+                "answer": "I make coffee and muesli and then I reside to the couch to check my e-mails."
+            },
+            {
+                "question": "Favorite spot in Hamburg?",
+                "answer": "The Café Paris. It’s a nice café / restaurant in Art Nouveau style. Somehow I always fall into positive melancholy and like to meet there with friends for breakfast. Another hotspot in Hamburg for me is at my parent’s home.The real home. Everyone knows when you visit your parents, no matter how stressed or worried you are, you feel protected and supported for that time. And you can always ask for something nice to eat ;) No matter how old you are."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Who or what is the essence of beauty for you?",
+                "answer": "Confidence. It has an enormous impact on your charisma."
+            },
+            {
+                "question": "What do you like to do most on a day off?",
+                "answer": "I like to relax on my couch and listen to music. Or allow myself an extended sauna session at my gym Aspria."
+            },
+            {
+                "question": "What is your best memory?",
+                "answer": "At 11, I went to Brazil, Salvador de Bahia for a month with the organization CISV (Children International Summer Villages) with a small German group (3 more my age and a supervisor) and stayed there with 12 other nations in a camp. When I was 14 I spend a month in Thailand with the same organization, this time we stayed with a guest family. Right from the start we spoke English. These exchanges allowed different nations to get to know each other at a young age, with an open and unaffected mind. I believe these experiences had a major impact on my personality. To not ever only judge somebody by their appearance but to be open when engaging with others or new situations and to treat others the way you want to be treated. At least as much as possible! Unfortunately, I find that this mind set is often missing today. My children definitely have to join such a camp."
+            }
+        ]
+    },
+    "QuoteText": "For me, time means reflection on myself and what is most important.",
+    "Name": "Lena",
+    "CenterQuestion":
+    {
+       "question": "On Sundays I...",
+       "answer": "Sleep in, attend exhibitions, exercise, go to the the sauna and cook."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "12.15 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "I am always late / on time. Why?",
+                "answer": "On time! I hate to let people wait. This has something to do with kindness and respect. Of course, this doesn’t apply to extraordinary circumstances."
+            },
+            {
+                "question": "Gold or silver?",
+                "answer": "Why not both?"
+            },
+            {
+                "question": "If you could, where would you beam yourself to?",
+                "answer": "It depends on the circumstances and my mood… Cold, snow, rain, ugh! Then I would like to be at a beach in the sun or in LA (my favorite city). If I’m stressed, on the road, or restless, then I just want to be home or by the Baltic Sea in the vacation home of my parents. Happy & satisfied: right where I am."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "One thing that most people do not know about you?",
+                "answer": "I'm actually a man. Just kidding. I have classical vocal training and played in the Bundesliga field hockey."
+            },
+            {
+                "question": "Who or what inspires you in life and why?",
+                "answer": "Mostly things I see during a certain moment in daily life. Forms in art, architecture, or things that happen on the street. Then I quickly take my phone to take a picture or think about how I can use it for future projects / photos."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "I love the Bowery in Black - Black. Beautiful details, but still simple.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Tribeca",
+       "ProductShortDesc": "Black - Black"
+    },
+    "Question_section3":
+    {
+        "Time_three": "12.20 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "In five years, I will ...",
+                "answer": "I’d also like to know that. But hopefully I’ll be traveling with my own small family, seeing and experiencing new things."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Favorite Rosefield Watch?",
+                "answer": "I love the Bowery in Black - Black. Beautiful details, but still simple."
+            }
+        ]
+    },
+
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "If I’m stressed, on the road, or restless, then I just want to be home or by the Baltic Sea in the vacation home of my parents."
+    }
+
+}

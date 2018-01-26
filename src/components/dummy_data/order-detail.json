@@ -1,0 +1,79 @@
+{
+	"order_id": "99261",
+	"orderno":"111800021944",
+	"status":"Pending",
+
+	"billing_address":
+	  {
+	    "id": "1",
+	    "firstname": "Demo",
+	    "middlename": "jimmy",
+	    "lastname": "Dev",
+	    "email": "demo1.testing1@gmail.com",
+	    "company": "RoseField",
+	    "telephone": "123-456-7896",
+	    "fax": "123-456-7896",
+	    "address1": "4002 Tanglewood Road",
+	    "address2": "1573 Buckhannan Avenue",
+	    "city": "Tupelo",
+	    "state": "Minnesota",
+	    "postalcode": "38801",
+	    "country": "United States"
+	  },
+
+	"shipping_address":
+	  {
+	    "id": "2",
+	    "firstname": "Demo",
+	    "middlename": "jimmy",
+	    "lastname": "Dev",
+	    "email": "demo1.testing1@gmail.com",
+	    "company": "RoseField",
+	    "telephone": "123-456-7896",
+	    "fax": "123-456-7896",
+	    "address1": "4002 Tanglewood Road",
+	    "address2": "1573 Buckhannan Avenue",
+	    "city": "Tupelo",
+	    "state": "Minnesota",
+	    "postalcode": "38801",
+	    "country": "United States"
+	  },
+
+	  "shipping_method":
+	  {
+	    "name": "MyParcel Shipping - Standard Shipping - Free"
+	  },
+
+	  "payment_method":
+	  {
+	    "name": "MyParcel Shipping - Standard Shipping - Free"
+	  },
+
+	  "order_items":
+    [
+      {
+        "id": 1,
+        "name": "The Mercer",
+        "sku": "MWR-M42",
+        "price": "$99.00",
+        "qty": 1,
+        "sub_total": "$99.00"
+
+      }, {
+        "id": 2,
+        "name": "The West Village",
+        "sku": "WMGR-W74",
+        "price": "$99.00",
+        "qty": 3,
+        "sub_total": "$297.00"
+      }, {
+        "id": 3,
+        "name": "The West Village",
+        "sku": "WBLG-W71",
+        "price": "$99.00",
+        "qty": 1,
+        "sub_total": "$99.00"
+      }
+    ]
+
+}

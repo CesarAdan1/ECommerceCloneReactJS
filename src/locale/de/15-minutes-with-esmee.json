@@ -1,0 +1,126 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Esmée Geeratz",
+    "Tagline": "Meet Fashion, Beauty en Lifestyle Editor Esmée.",
+    "Time": "11.10 AM amsterdam",
+    "ChatText": "15 Minuten mit Esmee",
+    "IntroText": "Esmée Geeratz (25), hat eine Vorliebe für Modefotografie. Sie hat ein ausgeprägtes Auge fürs Detail und ruht nicht, bis sie das perfekte Bild geschaffen hat. Nach fast fünf Jahren Styling und Art Direction für das niederländische Jan Magazine, ist es Zeit für sie, das warme Nest zu verlassen und ihre Flügel als Freiberufler auszubreiten. Sie hat bereits ihren ersten neuen und spannenden Job gelandet, kann uns aber noch nicht verraten, was es ist.",
+    
+    "Question_section1":
+    {
+        "Time_one": "11.18 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Was bedeutet Zeit für Sie?",
+                "answer": "Man hat nie genug Zeit, haha. Ich liebe meine Arbeit und manchmal wünsche ich mir, dass ein Tag länger sein könnte. Noch ein paar Stunden zu schießen, Spaß zu haben und das Leben zu genießen. Zeit für mich bedeutet auch immer ein bisschen älter und weiser zu werden und daher mich weniger über die kleinen Sachen zu kümmern und sich auf die wichtigen Sachen im Leben konzentrieren."
+            },
+            {
+                "question": "Ihr Job klingt supercool, in welchem Alter fing Ihre Faszination mit Mode und Fotografie an?",
+                "answer": "Schon in einem jungen Alter war ich von Mode und Fotografie fasziniert. Als ich etwa acht Jahre alt war, habe ich stundenlang die Highheels meiner Mutter getragen, sogar für einen Spaziergang in die Innenstadt, um Süßigkeiten zu kaufen. Später habe ich dann angefangen, Moodboards mit alten Schwarz-Weiß-Bildern und Cut-Outs aus Modezeitschriften zu erstellen. Ich fand Modefotografie schon immer faszinierend."
+            },
+            {
+                "question": "Mit welchem ​​Fotografen möchten Sie arbeiten?",
+                "answer": "Lebendig oder tot? Richard Avedon. Ich bewundere die Art wie er Menschen erfassen konnte. In jedem Bild gibt es eine bestimmte Bewegung. Ich liebe das in einem Bild."
+            },
+            {
+                "question": "Wie bleiben Sie auf dem neusten Stand bezüglich Trends?",
+                "answer": "Ich schaue mir die Shows der beliebtesten Designer an und was in High Fashion passiert. Und ich liebe Pinterest und Instagram für Streetstyle Trends. Viele Trends entstehen auf diesen Social-Media-Kanälen und das macht sie sehr tragbar."
+            },
+            {
+                "question": "Was machst du, um dich auf ein bevorstehendes Shooting vorzubereiten?",
+                "answer": "Das wichtigste für mich ist eine Geschichte. Ich mag es nicht, wenn jemand einfach in hübschen Kleidern steht. Ich brauche eine Geschichte; Was macht sie? Warum? Deshalb kreiere ich ein großes Storyboard mit vielen Ideen und Skizzen."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Ihre Neueste Entdeckung in Amsterdam?",
+                "answer": "Ein Geschäft namens Nuvo Niche. Es ist ein Geschäft mit Deko-Stücke für das Haus. Die Inhaberin Tiffany entwirft sogar einige der Einzelteile selbst, wie diese wirklich coolen Samtkissen in schönen Farben. Ich habe mir vier gekauft und jetzt sieht meine Couch aus wie ein altes Boudoir."
+            },
+            {
+                "question": "Dein Lieblingsort in Amsterdam?",
+                "answer": "Die Utrechtsestraat. Diese Straße ist wie ein kleines Dorf in der Mitte einer belebten Stadt. Ich gehe dort gerne spazieren, um ein paar Einkäufe zu machen, und hin und wieder um einen Kaffee zu trinken und was Leckeres beim Vietnamesen zu essen."
+            },
+            {
+                "question": "Was ist Ihre Morgenroutine?",
+                "answer": "Sobald ich aufwache, küsse ich meinen Mann, bis er sagt, ich soll weg, weil er noch etwas Schlaf braucht. Ich dusche und lasse mir eine Menge Zeit, um mich zu schminken. Durch meine Arbeit in der Modebranche habe ich mich mit ein paar Maskenbildner angefreundet, die mir einige Tricks gezeigt haben, die ich gerne anwende. Dann frühstücke ich, meistens ist das etwas rohes Gemüse und einigen Eiern oder Joghurt. Auf meiner Rollerfahrt ins Büro, genieße ich den Blick auf die Amsterdamer Grachten."
+            },
+            {
+                "question": "Wie magst du deinen Kaffee am Morgen?",
+                "answer": "Keinen Kaffee für mich, ich trinke morgens Tee."
+            }
+        ]
+    },
+    "QuoteText": "Für mich ist wahre Schönheit, wenn sich jemand selbst mag",
+    "Name": "Esmée",
+    "CenterQuestion":
+    {
+       "question": "ihre lieblings-rosefield-uhr?",
+       "answer": "Eine, die ich noch nicht besitze: Der Mercer in Roségold. Sie ist schlicht und zugleich glamourös, und ich liebe die Farbe."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "11.23 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Können Sie uns ein paar Beauty-Tipps und Tricks verraten?",
+                "answer": "Meine Nägel müssen immer schön sein. Für mich sind Hände eines der ersten Dinge, die Menschen sehen, deshalb müssen sie gut aussehen. Gel-Nagellack ist mein Favorit, er hält für zwei Wochen und glänzt schön."
+            },
+            {
+                "question": "Was sind die drei wichtigsten Artikel in Ihrem Beauty-Kit?",
+                "answer": "Feuchtigkeitscreme, Lippenbalsam und Mascara. Alles beginnt mit Baby weicher Haut. Ich kann nicht ohne Lippenbalsam leben und ohne Mascara fühle ich mich an einem Arbeitstag nackt."
+            },
+            {
+                "question": "Wer oder was ist der Inbegriff der Schönheit für Sie?",
+                "answer": "Glücklich mit sich selbst sein. In einer Welt gefüllt mit dieser Social-Media-Achterbahn, die einem sagt man muss eine gewisse Weiße aussehen ist es schwierig mit sich selbst glücklich zu sein. Man kann nicht die schönste Figur, Nase oder Haare haben, aber wenn man sich selbst schön findet ist man auch schön. Für mich ist wahre Schönheit, jemand der sich selbst mag."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Wer oder was inspiriert Sie im Leben?",
+                "answer": "Ein bisschen ein Klischee, aber meine Eltern inspirieren mich immer noch jeden Tag. Sie hatten mich als sie noch sehr jung waren. Mein Vater war fast neunzehn und meine Mutter war zweiundzwanzig. Aber sie arbeiteten ihren Arsch ab, um für mich zu sorgen. Meine Mutter war geboren, um eine Mutter zu sein, sie ist immer für mich da. Mein Vater gründete seine eigene Firma, als ich zwölf war und er ist verdammt gut in seinem Beruf. Ich habe immer alles bekommen, was ich wollte. Ich vermute, man könnte sagen, ich bin verwöhnt. Verwöhnt mit Liebe und schönen Dingen."
+            },
+            {
+                "question": "Was wissen die Leute nicht über Sie?",
+                "answer": "Dass ich sehr empfindlich bin und alles sehr tief fühle. Ich kann in einen Raum spazieren gehen und sofort fühlen, was jemand anderes fühlt. Wenn Leute in einer physischen Umgebung unbequem sind, neige ich zu wissen, was getan werden muss, um es bequemer zu machen (wie das Ändern der Beleuchtung oder der Sitzplätze). Es ist ein Segen und ein Fluch zugleich. Weil ich es zu meinem eigenen Vorteil nutzen kann, aber manchmal wäre es schön, sich nur um seine eigenen Gefühle kümmern zu müssen."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "Lieblings-Rosefield-Uhr",
+       "WatchText": "Der Mercer in Roségold. Sie ist schlicht und zugleich glamourös, und ich liebe die Farbe.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Rose Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "11.25 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "In fünf Jahren...",
+                "answer": "Werde 31 Jahre alt sein und wie mein Vater würde ich gerne meine eigene Firma gründen. Vielleicht mein eigenes Mode-Label, zurück zu meinen Wurzeln als Designer. Ich hoffe auch, dass ich das Glück habe, um eine Familie zu gründen, weil ich liebe Kinder. Dann könnte ich jemand anderen mit meinen morgendlichen Küssen ärgern."
+            }
+
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "An Sonntagen...",
+                "answer": "Entspannen, einfach nur entspannen. Ich plane nichts. Da ich viel reise, bin ich gern ganz befreit an den Tagen, an denen ich frei habe. Ich wache gerne auf und rede mit mir selbst: Was möchtest du heute tun? Ohne die Verpflichtung, jemanden treffen zu müssen oder etwas Bestimmtes zu tun. Ich mag den Tag so nehmen, wie er kommt."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Ich denke, man könnte sagen, ich bin verwöhnt. Verwöhnt mit Liebe und schönen Dingen."
+    }
+
+}

@@ -1,0 +1,17 @@
+{    
+    "AbySection":
+    {
+       "CheckoutText": "アムステルダムのストーリーをチェック",
+       "IntroText": "アムステルダムからアビィのある一日",
+       "SubIntroText": "夢いっぱいの2人、アビィとアリー。住むところは違っても、共通点がたくさん。",
+       "ButtonText": "Read story"
+    },
+    "AllySection":
+    {
+       "CheckoutText": "ニューヨークのストーリーをチェック",
+       "IntroText": "ニューヨークからアリーのある一日",
+       "SubIntroText": "夢いっぱいの2人、アビィとアリー。住むところは違っても、共通点がたくさん。",
+       "ButtonText": "Read story"
+    }
+
+}

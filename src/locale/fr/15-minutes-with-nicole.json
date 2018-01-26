@@ -1,0 +1,129 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Nicole Huisman",
+    "Tagline": "Meet Nicole, freelance stylist and lifestyle creative.",
+    "Time": "12.05 AM Amsterdam",
+    "ChatText": "we met nicole for coffee and a chat",
+    "IntroText": "Freelance stylist and lifestyle creative Nicole Huisman (28) made a roaring entrance as Shopping Editor at Dutch ELLE Magazine. She now works for magazines like Glamour NL, Vogue NL, online magazine intoIT and several brands, including Dutch brands Dick Moby, Ace & Tate and Marie Stella Maris. Nicole mixes masculine with girly, striking and bold with basics and denim with fake fur and glitter, resulting in an inspiring and eclectic cool girl style. What are her favorites?",
+    
+    "Question_section1":
+    {
+        "Time_one": "12.10 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "What does time mean to you?",
+                "answer": "I’m always short on time. It would be nice if days had more hours and weeks had more days. But hey, don’t be busy, be productive! Having said that: I should be on time more often."
+            },
+            {
+                "question": "Do you have any morning routine?",
+                "answer": "Jump out of bed, preferably have a bath, wake up there and then take extremely long to get dressed, do my makeup, have breakfast, check Instagram and e-mail – and then arrive everywhere a couple of minutes late."
+            },
+            {
+                "question": "What is most special about your job?",
+                "answer": "For work I’m able to see the most special and amazing places in the world. Every day is different and I get to work on creative projects which make the world a little more beautiful, with the most wonderful and talented people. I met loads of interesting people, some of them even became friends – that is very precious to me. But maybe the most fun is that I create things in my own name, as my own boss, so that I really do get the credits for my hard work."
+            },
+            {
+                "question": "When did you become interested in fashion?",
+                "answer": "In high-school I began experimenting with different fashion styles. Nothing was too crazy, really. I’ve worn polo shirts on extremely wide skate pants, that type of scenes. If I ran out of clothing money, I changed my looks, like cutting bangs or cutting my really long hair short. And I tore pages from fashion magazines to make wallpaper out of it for my teenage bedroom, obviously. Quite the cliché."
+            },
+            {
+                "question": "What’s your signature look?",
+                "answer": "At the moment I would say blue high waisted jeans, a fine knit polo-neck, high boots and an oversized coat. In the evening I wear something asymmetrical on my top half, preferably with glitter and a matte fuchsia lipstick."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Who’s your style icon?",
+                "answer": "Solange Knowles – refreshing and surprising. I would love to copy her entire wardrobe and beauty look. Furthermore I think her music fits her look perfectly, they complement each other."
+            },
+            {
+                "question": "How do you prepare for a shoot?",
+                "answer": "I begin with diving into the theme and story behind the shoot and roam Pinterest for hours to find suitable inspirational images. I brainstorm with the rest of the creative team (photographer, makeup artist, sometimes the model as well) until we’re all on the same page. And then sometimes all is different and not according to plan on the day of shooting, which could possibly make for the most amazing results."
+            },
+            {
+                "question": "What would be a dream job?",
+                "answer": "Australian mags such as Russh and Oyster are high on my wish list as titles I’d love to work for. I think their easy going cool girl style is really in tune with my own taste regarding styling."
+            },
+            {
+                "question": "Top-5 favorite brands?",
+                "answer": "I love small labels with still affordable prices. Brands like Self-portrait, with their well-cut party dresses. Or Saks Potts, LOVE their imagery and everything they make of goats hair. MiH Jeans for jeans that are just a bit different (have one with patches of bombs on my back pockets, yeah!) and Bower, Her the Label and Solid & Striped for swimwear. And Réalisation for the best party wear."
+            }
+        ]
+    },
+    "QuoteText": "I’m always short on time. But hey, don’t be busy, be productive!",
+    "Name": "Nicole",
+    "CenterQuestion":
+    {
+       "question": "favoriete rosefield timepiece?",
+       "answer": "The Tribeca in Black-Black. I like my watches to be as masculine and as classic as possible, but in feminine dimensions."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "12.15 AM Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Sneakers or heels?",
+                "answer": "Impossible to choose! Sneakers and slingbacks! Have a Converse sneakers and Dolce & Gabbana slingbacks phase right now."
+            },
+            {
+                "question": "What would you never ever wear?",
+                "answer": "Impossible to choose! Sneakers and slingbacks! Have a Converse sneakers and Dolce & Gabbana slingbacks phase right now."
+            },
+            {
+                "question": "Who’s the most stylish woman?",
+                "answer": "French blogger, model and designer Jeanne Damas – she’s always chic, cool and relaxed."
+            },
+            {
+                "question": "What’s your beauty secret?",
+                "answer": "Glowy foundation, a light shaping and extra heavy brows. Everything by beauty brand RMS is fave for daytime makeup, and I wear makeup by Charlotte Tilbury for going out. Skincare products by Bioderma (micellair water), Embryolisse (daycream) en Kiehl’s (that coriander shower gel!) are my saviors."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Latest discovery in Amsterdam?",
+                "answer": "Still haven’t visited, but I’m planning to discover the Jaap Eden IJsbaan, our famous ice skating-rink, and become really skilled on the ice."
+            },
+            {
+                "question": "Most valuable possession?",
+                "answer": "A picture of my nan and my mother as a little girl, taken by my grandfather, in Indonesia. It hangs above my bed and is the first thing I grab in case of a fire."
+            },
+            {
+                "question": "Favorite place in Amsterdam?",
+                "answer": "Wine bar Glou Glou in the Pijp neighborhood. Just around the corner from my house, cozy atmosphere, best olives in town and tasty wines."
+            },
+            {
+                "question": "What do people not know about you?",
+                "answer": "I used to be a chess champion and an active scout with a scouting group."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favorite watch",
+       "WatchText": "The Tribeca in Black-Black is my favorite. I like my watches to be as masculine and as classic as possible.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Tribeca",
+       "ProductShortDesc": "Black - Black"
+    },
+    "Question_section3":
+    {
+        "Time_three": "12.20 AM Amsterdam",
+        "CenterQuestion":
+        {
+           "question": "in five years time i’ll be...",
+           "answer": "33! Oh my! I hope I’ve made more of a brand of my name by then, as a freelance creative in several fields of work."
+            
+        }
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "My most valuable possession is a picture of my nan and my mother as a little girl, in Indonesia."
+    }
+
+}

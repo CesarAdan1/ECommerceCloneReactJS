@@ -1,0 +1,109 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Chloé Leenheer",
+    "Tagline": "Meet the Dutch actress and photographer.",
+    "Time": "14.40 amsterdam",
+    "ChatText": "we spraken af met chloe voor een drankje en een praatje",
+    "IntroText": "Actrice, fotograaf en all-round cool girl Chloé Leenheer (28) woont in Amsterdam. Ze lanceerde onlangs Pop In Portraits, een creatieve fotoservicestudio waar je in iets minder dan een half uur een fraai en sprekend portret kunt laten schieten – om thuis aan de muur te prikken, voor castings of als profielfoto. Staat Chloé niet zelf achter de camera, dan kun je haar voor de lens bewonderen, in series als Zusjes en Bluf. Chloé’s stijl is stoer, rock-’n-roll, en een tikje boyish met funky en vrouwelijke uitschieters. De actrice in dertien vragen.",
+    
+    "Question_section1":
+    {
+        "Time_one": "14.45 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Wat betekent tijd voor jou?",
+                "answer": "Ik probeer in het heden te leven en me niet zo druk te maken om de tijd. Ik wil wel graag scherp zijn, dus kleine kans dat ik te laat op een afspraak kom."
+            },
+            {
+                "question": "Nieuwste ontdekking in Amsterdam?",
+                "answer": "Churro’s met warme chocoladesaus eten in een klein Spaans restaurantje in de Amsterdamse Pijp, Pacomer. Zo verschrikkelijk lekker."
+            },
+            {
+                "question": "Wat is jouw ochtendritueel?",
+                "answer": "Koffie. Door m’n Insta-feed scrollen. Croissants met jam en boter. En blush. Altijd blush gebruiken."
+            },
+            {
+                "question": "Je favoriete plek in Amsterdam?",
+                "answer": "Het Stedelijk Museum en muziektheater Felix Meritis."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Wie of wat is schoonheid voor jou?",
+                "answer": "De Franse actrice Marion Cotillard."
+            },
+            {
+                "question": "Wat doe je graag op een vrije dag?",
+                "answer": "Dansen met mijn beste vrienden en naughty tequila’s drinken."
+            },
+            {
+                "question": "Je tofste herinnering?",
+                "answer": "De première van de televisieserie Zusjes."
+            }
+        ]
+    },
+    "QuoteText": "Ik probeer in het heden te leven en me niet zo druk te maken om de tijd",
+    "Name": "Chloe",
+    "CenterQuestion":
+    {
+       "question": "op zondag...",
+       "answer": "Werk ik. Maar op maandag ga ik naar dierentuin Artis en dan eet ik lamskoteletjes in restaurant Plantage."
+        
+    },
+    "Question_section2":
+    {
+        "Time_two": "14.50 AM Amsterdam ",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ik ben altijd te laat/op tijd?",
+                "answer": "Ik ben altijd op tijd, of zelfs vroeger als dat mogelijk is. Ik hou er niet van om op mensen te wachten, dus ik laat mensen ook niet op mij wachten."
+            },
+            {
+                "question": "Als jij jezelf kon teleporteren, waar zou je dan naartoe gaan?",
+                "answer": "Harry Potter World in Orlando. Maar alleen als mijn beste vriend ook mee mag."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Wat weten mensen niet over jou?",
+                "answer": "Ik hou niet van koken. Maar de laatste tijd probeer ik het wel… echt waar."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "Favoriete Rosefield-horloge?",
+       "WatchText": "Die tijdloze. Haha, wat een paradox.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Bowery",
+       "ProductShortDesc": "White - Blue"
+    },
+    "Question_section3":
+    {
+        "Time_three": "14.55 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Over vijf jaar...",
+                "answer": "Over vijf jaar heb ik mijn eigen multinational en bezit ik zes paarden die op mijn Harry Potter-ranch rondlopen en dan draag ik altijd een bananenquilt. En mijn Rosefield-horloge natuurlijk."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Favoriete Rosefield-horloge?",
+                "answer": "Die tijdloze. Haha, wat een paradox."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Over vijf jaar heb ik mijn eigen multinational en dan draag ik altijd een bananenquilt."
+    }
+
+}

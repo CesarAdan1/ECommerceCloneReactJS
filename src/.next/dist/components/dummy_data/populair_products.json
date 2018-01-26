@@ -1,0 +1,27 @@
+[
+  {
+  "id": 1,
+  "name": "The Gramercy",
+  "short_description": "White - Black",
+  "price": 8900,
+  "image": "https://i.rosefieldwatches.com/products/watches/the-gramercy/The-Gramercy-White-black.png"
+}, {
+    "id": 2,
+  "name": "The Gramercy",
+  "short_description": "White - Rosegold",
+  "price": 8900,
+  "image": "https://i.rosefieldwatches.com/products/watches/the-mercer/the-mercer-white-rosegold.png"
+}, {
+    "id": 3,
+  "name": "The Bowery",
+  "short_description": "White - Black",
+  "price": 8900,
+  "image": "https://i.rosefieldwatches.com/products/watches/the-bowery/The-Bowery-White-Black-silver.png"
+}, {
+    "id": 4,
+  "name": "The Bowery",
+  "short_description": "White - Brown",
+  "price": 8900,
+  "image": "https://i.rosefieldwatches.com/products/watches/the-bowery/The-Bowery-White-Brown.png"
+}
+]

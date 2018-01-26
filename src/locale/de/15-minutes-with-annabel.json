@@ -1,0 +1,100 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Annabel Kleyweg",
+    "Tagline": "Treffe die Inhaberin des Labels Before 7 am in Berlin",
+    "Time": "10.00 Berlin",
+    "ChatText": "Wir haben uns mit Annabel für eine Fahrradtour durch Berlin getroffen.",
+    "IntroText": "Annabel Kleyweg lebt in Berlin, zusammen mit ihrem Freund. Sie ist 29 Jahre alt und hat ihr eigenes nachhaltiges Fashion Label Before 7 am. Ihre Kollektion wird aus den „Materialresten“ von high-end Designern hergestellt.",
+    
+    "Question_section1":
+    {
+        "Time_one": "10.00 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "Was bedeutet Zeit für dich?",
+                "answer": "Für die meisten ist Zeit wahrscheinlich die größte treibende Kraft. Sie motiviert mich und treibt mich voran, sie zwingt mich, die richtigen Entscheidungen zu treffen und hilft mir mich auf die wichtigen Dinge zu konzentrieren. Es ist verführerisch, sich von der Alltagshektik und bestehenden Erwartungen mitreisen zu lassen, die deinem Leben keine Bedeutung oder Tiefe geben. Ich denke oft daran, dass wenn ich alt und grau bin, zurückdenken werde. Das gibt mir etwas Perspektive und hilft mir, die richtigen Entscheidungen zu treffen. Wenn es ein Konflikt zwischen dem jetzigen Moment und Projekten, die ich erledigen muss, gibt, kann Zeit auch Stress bedeuten. Stress zu reduzieren ist für mich sehr wichtig, damit ich die Zeit, die ich habe, nutzen kann, um mehr zu sehen und zu erleben. Manchmal frustriert mich Zeit auch, weil sie so schnell vorbeigeht. Wenn man nicht aufpasst gehen Monate vorbei und nichts hat sich verändert."
+            },
+            {
+                "question": "Ich verlasse das Haus nicht ohne...",
+                "answer": "Meine Kopfhörer und Audiobücher. Ich lese sehr gerne, aber wie mit Allem, das keine Priorität hat, ist es schwierig, sich Zeit dafür zu nehmen. Audiobücher sind perfekt, wenn ich auf dem Fahrrad unterwegs bin."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Was machst du als erstes auf der Arbeit?",
+                "answer": "Bevor ich meinen Tag richtig starte, habe ich ein kleines Vorbereitungsritual (man könnte es auch eine Verzögerung nennen). Ich setzte eine große Kanne Tee auf und plane meinen Tag. Ich schaue was noch am selben Tag erledigt werden muss und welche langfristigen Projekte meine Aufmerksamkeit benötigen."
+            },
+            {
+                "question": "Was ist dein Morgenritual?",
+                "answer": "Es läuft nicht immer nach Plan (vor allem nicht an einem kalten Winter Morgen) aber ich versuche gegen halb 7 aufzustehen. Wenn es hell ist, gehe ich eine kleine Runde laufen. Hinter unserem Haus befindet sich ein richtig schöner Park mit einem Aussichtspunkt, wo man auf die ganze Stadt schauen kann. Wenn ich Zeit dazu habe, setzte ich mich gerne auf eine Parkbank und träume über den Tag und was ich erreichen möchte. Mir ist bewusstgeworden, dass es mir die richtige Einstellung gibt und dann kann ich positiv und mit viel Energie in den Tag starten. Danach ist es Zeit für Frühstück. Frühstück ist definitiv meine Lieblingsmahlzeit. Jeden Morgen frühstücke ich zusammen mit meinem Freund bei entspannender Musik."
+            },
+            {
+                "question": "Welches Kleidungsstück gibt dir Selbstvertrauen? Warum?",
+                "answer": "Schöne Heels. Heels haben einen verwandelnden Effekt auf mich haha. Ich laufe besser und fühle mich fraulicher."
+            }
+        ]
+    },
+    "QuoteText": "Für die meisten ist Zeit wahrscheinlich die größte treibende Kraft.",
+    "Name": "Annabel",
+    "Question_section2":
+    {
+        "Time_two": "10.10 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "Wann bist du nach Berlin gezogen? Warum Berlin?",
+                "answer": "Ich bin Mai 2016 nach Berlin gezogen. Davor habe ich in Asien gelebt, aber ich wollte zurück nach Europa. In der Zeit, in der ich mich im Umzug zurück nach Europa befand, habe ich dann mit der Planung für die erste Kollektion von Before 7 am angefangen. Ich wollte in einer Stadt leben, in der es reichlich Kreativität, Unternehmertum und Freiheit gibt. Berlin ist fast Utopia, hier herrscht ein enormer Drang, seine Träume und Projekte zu realisieren und deswegen passt diese Stadt gut zu meiner Situation. Der Sommer in Berlin ist auch toll und ich bin mit Bahn, Auto oder Flugzeug innerhalb weniger Stunden zu Hause."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Was ist dein Lieblingsort in Berlin?",
+                "answer": "Tempelhof, der ehemalige Flughafen, der jetzt für die Öffentlichkeit zugänglich ist. Auf der Landebahn kann man Menschen beim Joggen, Skaten, Longboarden, Drachen fliegen etc. beobachten. In den umgebenden Feldern kann mal grillen, Hunde freilaufen lassen, im Garten oder an einem Kunstwerk arbeiten. Eigentlich passiert alles im Tempelhof, wie ein kleiner Mini-Kosmos."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "Deine Lieblings Rosefield Uhr?",
+       "WatchText": "Die West Village in Minzgrün, so eine Schönheit! Ich bin ein Fan von einem nostalgisch/romantischen Stil. Eine schöne Uhr kann ein solchen Look perfekt hervorheben.",
+       "CheckThisWatch": "BEKIJK DIT HORLOGE",
+       "ProductName": "The West Village",
+       "ProductShortDesc": "Mint Grey - Rose Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "10.15 Berlin",
+        "LeftQuestion":
+        [
+            {
+                "question": "Deine Traumreise?",
+                "answer": "Eine dreimonatige Rundreise, wie eine mini Weltreise."
+            },
+            {
+                "question": "Ich bin immer pünktlich/zu spät...",
+                "answer": "Wenn der Termin es zulässt, dann spät! Ich plane nicht gerne und bin oftmals schon an der Tür, wenn mir dann noch spontan allerlei kleine Aufgaben einfallen wie z.B. Fingernägel lackieren. So bin ich immer im Rennen mit der Zeit."
+            },
+            {
+                "question": "In 5 Jahren werde ich...",
+                "answer": "Ich bin sehr gespannt, was sich bis dahin alles in der Mode Branche verändert hat. Dank dem enormen Fortschritt in der Technologie können wir komplett neue Geschäftsmodelle verwirklichen. In den kommenden 5 Jahren möchte ich eine aktive Rolle in der Zukunftsvision von Mode spielen."
+            }
+
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Was wissen die meisten nicht von dir?",
+                "answer": "Dass ich manchmal davon träume, das Stadtleben hinter mir zu lassen und ein Grundstück auf einer warmen Insel im Atlantik oder Mittelmeer zu kaufen und dort ein entspanntes Leben zu führen. Den ganzen Tag würde ich barfuß umherlaufen und meinen eigenen Garten anbauen und die Realität ein bisschen vergessen."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "ich träume manchmal davon, das Stadtleben hinter mir zu lassen."
+    }
+
+}

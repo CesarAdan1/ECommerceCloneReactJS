@@ -1,0 +1,130 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Yin Fung",
+    "Tagline": "Maak kennis met Yin, Editorial Assistant bij ELLE.",
+    "Time": "15.00 Amsterdam",
+    "ChatText": "We met Yin at the canals of Amsterdam",
+    "IntroText": "De altijd charmante Yin Fung (forever 28) is Editorial Assistant bij ELLE Magazine. Ze woont in Amsterdam en is gek op slenteren door ‘haar stad’. Haar stijl is origineel en kleurig – hysterisch versus ingetogen, zoals ze het zelf noemt. Yin is gek op reizen en bovendien een enorme dierenliefhebber. Wat zijn haar favorieten?",
+    
+    "Question_section1":
+    {
+        "Time_one": "15.05 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Wat betekent tijd voor jou?",
+                "answer": "Soms zou ik willen dat er meer uren in een dag zitten, de tijd vliegt. Maar dat is alleen maar omdat ik zo’n lol heb."
+            },
+            {
+                "question": "Je werkt voor een van de tofste magazines in Nederland, ELLE. Heeft dat invloed op je creditcard?",
+                "answer": "Nou, wel een beetje. Zeker tijdens de sale. Mijn collega’s hebben allemaal een fantastische smaak en zij inspireren me enorm, maar als het op kopen aankomt probeer ik toch voorzichtig te zijn, mijn aankopen tot een minimum te beperken. Minder kopen is meer."
+            },
+            {
+                "question": "Kun je jouw stijl omschrijven?",
+                "answer": "Hysterisch slash ingetogen – een mix van uitersten. Ik ben gek op glitter, kleur en prints. Een stijl als die van Rick Owens, daar zou ik heel ongelukkig van worden."
+            },
+            {
+                "question": "Sneakers of hakken?",
+                "answer": "Momenteel mijn New Balance-sneakers."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Nieuwste ontdekking in Amsterdam?",
+                "answer": "Flevopark. Ik probeer weg te blijven van te drukke parken. Het Flevopark is superrustig."
+            },
+            {
+                "question": "Hoe begin jij je dag?",
+                "answer": "Ik zet ALTIJD eerst MTV Breakfast Club aan voor ik aan mijn ochtendritueel begin. Ik besluit de avond van tevoren wat ik de volgende dag aantrek, dus meestal ben ik vrij snel klaar met aankleden. Na het ontbijt doe ik lippenstift op en dan fiets ik naar mijn werk."
+            },
+            {
+                "question": "Je favoriete plek in Amsterdam?",
+                "answer": "Zeedijk, Chinatown. Dat heeft waarschijnlijk met mijn Chinese achtergrond te maken. Ik ben dol op het eten, de sfeer en de mensen daar."
+            },
+            {
+                "question": "Op zondag...",
+                "answer": "Zondagen breng ik het liefst door met mijn vriendin, dus we slenteren meestal wat door de stad, bezoeken musea en spreken af met vrienden."
+            }
+        ]
+    },
+    "QuoteText": "Ik probeer mijn aankopen tot een minimum te beperken. Minder kopen is meer",
+    "Name": "Yin",
+    "CenterQuestion":
+    {
+       "question": "wat doe je het liefst op een vrije dag?",
+       "answer": "Eerst wat yoga, hangen met vrienden en dan naar een rave."
+        
+    },
+
+    "Question_section2":
+    {
+        "Time_two": "15.10 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Je mooiste herinnering?",
+                "answer": "Mijn reis naar Peru. Ik wilde als kind altijd al naar Peru. Het was bovendien mijn eerste soloreis ever. Mensen moeten ten minste één keer in hun leven alleen op reis, het is echt supercool. Een boost voor je zelfvertrouwen."
+            },
+            {
+                "question": "Wat heb je geleerd van je reis?",
+                "answer": "Een ‘go with the flow’-houding verrast je op zo veel manieren. Je ontmoet daardoor fantastische mensen en je komt op plaatsen waarvan je nooit had kunnen bedenken dat je er ooit eens naartoe zou gaan."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Wie of wat inspireert jou en waarom?",
+                "answer": "Ik word elke dag omringd door de coolste, slimste en grappigste mensen. Door hen realiseer ik me dat je niet hoeft te doen wat iedereen doet om toch ergens bij te horen en je op je plaats te voelen in de samenleving."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "favoriete horloge",
+       "WatchText": "The Mercer in Gold is mijn favoriet – simpel en elegant.",
+       "CheckThisWatch": "BEKIJK DIT HORLOGE",
+       "ProductName": "The Mercer",
+       "ProductShortDesc": "White - Gold"
+    },
+    "Question_section3":
+    {
+        "Time_three": "15.15 Amsterdam",
+        "LeftQuestion":
+        [
+            {
+                "question": "Wat is jouw beautygeheim?",
+                "answer": "De schoonheidsspecialist is mijn beste vriend wat betreft huidverzorging. En ik drink geen alcohol, nul."
+            },
+            {
+                "question": "Wie bewonder je?",
+                "answer": "Mijn tweelingzus, ze is zo sterk en tegelijkertijd heel gevoelig."
+            },
+            {
+                "question": "Ik ben altijd laat/op tijd...",
+                "answer": "Op tijd. Ik vind het verschrikkelijk als mensen te laat komen."
+            },
+            {
+                "question": "Goud of zilver?",
+                "answer": "Nu goud, maar ik zeg geen ‘nee’ tegen zilver."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Over vijf jaar...",
+                "answer": "Over vijf jaar heb ik mijn eigen kledinglijn, samen met mijn beste vriendin, en dan bezoek ik heel veel landen."
+            },
+            {
+                "question": "Als je jezelf kon teleporteren, waar zou je dan naartoe gaan?",
+                "answer": "Ik zou naar Bhutan gaan. Er wordt gezegd dat dat het gelukkigste land ter wereld is. Ik wil wel graag uitzoeken waarom dat zo is."
+            }
+        ]
+    },
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "Ik ben altijd op tijd. Ik vind het verschrikkelijk als mensen te laat komen."
+    }
+
+}

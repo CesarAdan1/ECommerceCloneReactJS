@@ -1,0 +1,122 @@
+{
+    "Title": "15 Minutes With",
+    "BannerName": "Lena Lademann",
+    "Tagline": "Meet Lena, fashion Influencer and art lover",
+    "Time": "13.05 AM Hamburg",
+    "ChatText": "15 minuten mit lena lademann",
+    "IntroText": "Mit 25 Jahren ist Lena Lademann nicht nur einer der Gründer von Blogger Bazaar, ein erfolgreicher Blogazin, der modische Business-Frauen inspirierendem Inhalt bietet, sondern vor kurzem auch ihr eigenes <a href='http://lenalademann.com/' target='_blank' rel='noopener noreferrer'>blog</a>. ins Leben gerufen hat. Hier teilt Lena ihre ganz persönliche Ansicht zu Themen wie Design, Mode, Schönheit und Reisen & Events. Lena konnte ihren Erfolg und sozialen Einfluss beeinflussen, da sie in der Lage war, einwandfreie Outfits zu kreieren und ihre einzigartige Fähigkeit, Mode mit ihrem Interesse für Kunst zu verbinden. Lena hat vor allem durch ihr Talent einzigartige Outfits zu krieieren Erfolg. Sie verbindet Mode mit ihrem Interesse für Kunst und konnte dadurch auch ihren Einfluss in den sozialen Medien vergrößern.",
+    
+    "Question_section1":
+    {
+        "Time_one": "13.10 AM Hamburg",
+        "LeftQuestion":
+        [
+            {
+                "question": "Was bedeutet Zeit für Dich?",
+                "answer": "Zeit bedeutet für mich Rückbesinnung auf sich selbst und auf das, was einem am wichtigsten ist. In meinem Falle meine Freunde, Familie oder auch einfach nur die Couch und gute Musik. Nur so bleibt man bei sich und gewinnt im immer schneller werdenden Alltag Ruhe und Ausgeglichenheit. Zeit zu haben heißt für mich Vervollständigung des Ichs."
+            },
+            {
+                "question": "Was ist Deine morgendliche Routine?",
+                "answer": "Kaffee aufsetzen, Müsli machen und auf der Couch die ersten eMails checken."
+            },
+            {
+                "question": "Neueste Entdeckung?",
+                "answer": "Loéil. Ein sehr schöner Onlineshop aus LA mit minimalistisch-skandinavisch angehauchten Schnitten. Künstler: Robert Szot, ein toller zeitgenössischer Maler mit Sitz in NY."
+            },
+            {
+                "question": "What's your morning routine?",
+                "answer": "I make coffee and muesli and then I reside to the couch to check my e-mails."
+            },
+            {
+                "question": "Favorite spot in Hamburg?",
+                "answer": "The Café Paris. It’s a nice café / restaurant in Art Nouveau style. Somehow I always fall into positive melancholy and like to meet there with friends for breakfast. Another hotspot in Hamburg for me is at my parent’s home. The real 'home'. Everyone knows when you visit your parents, no matter how stressed or worried you are, you feel protected and supported for that time. And you can always ask for something nice to eat ;) No matter how old you are."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Wer oder was ist für Dich der Inbegriff von Schönheit?",
+                "answer": "Selbstbewusstsein. Das übt sich ungemein auf die Ausstrahlung aus."
+            },
+            {
+                "question": "Was machst du am liebsten an Deinem freien Tag?",
+                "answer": "Da krümel ich mich gerne auf meine Couch und höre Musik. Oder genehmige mir eine ausgedehnte Saunarunde in meinem Sportstudio Aspria."
+            },
+            {
+                "question": "Was ist Deine beste Erinnerung?",
+                "answer": "Mit 11 war ich mit der Organisation CISV (Children International Summer Villages) für einen Monat mit einer kleinen deutschen Delegation (3 weitere in meinem Alter und eine Begleiterin) in Brasilien, Salvador de Bahía und habe dort mit 12 anderen Nationen in einem Camp gelebt. Mit der selben Organisation habe ich dann mit 14 für einen Monat in Thailand bei einer Gastfamilie gewohnt. Gesprochen wurde von Anfang an Englisch. Bei diesen Austauschen ging es immer darum, dass sich unterschiedlichste Nationen unbefangen kennenlernen, das eben bereits in jungen Jahren, und ich glaube, dass diese frühen, einmaligen Erfahrungen und Erlebnisse sehr prägend für meine Persönlichkeit waren. Menschen niemals nur nach dem Äußeren zu beurteilen, offen und ohne Vorurteile gegenüber Situationen oder anderen zu sein und den Gegenüber so zu behandeln, wie man selber behandelt werden möchte. Jedenfalls so gut es geht! Ich finde leider, dass das heutzutage oftmals fehlt. Meine Kinder müssen da also irgendwann definitiv auch mal durch ;)"
+            }
+        ]
+    },
+    "QuoteText": "Zeit bedeutet für mich Rückbesinnung auf sich selbst und auf das, was einem am wichtigsten ist.",
+    "Name": "Lena",
+    "CenterQuestion":
+        {
+           "question": "sonntags mache ich..",
+           "answer": "Aussschlafen, Ausstellung, Sport&Sauna, Kochen."
+            
+    },
+    "Question_section2":
+    {
+        "Time_two": "13.15 AM Hamburg",
+        "LeftQuestion":
+        [
+            {
+                "question": "Ich bin immer zu spät/pünktlich. Wieso?",
+                "answer": "Pünktlich! Ich hasse es Menschen warten zu lassen. Das hat was mit Freundlichkeit und Respekt zu tun. Natürlich zählen dazu keine außerplanlichen Vorkommnisse."
+            },
+            {
+                "question": "Gold oder Silber?",
+                "answer": "Geht nicht beides?"
+            },
+            {
+                "question": "An welchen Ort würdest du dich auf der Stelle beamen, wenn du könntest?",
+                "answer": "Das kommt auf die Gemütslage an… Kalt, Schnee, Regen, bä! : gerne an einen Strand in die warme Sonne oder nach LA (Lieblingsstadt) Gestresst, unterwegs, ruhelos: nach Hause oder an die Ostsee in das Ferienhaus meiner Eltern. Glücklich & zufrieden: genau in das Jetzt und Hier."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Eine Sache, die die meisten Menschen nicht über dich wissen?",
+                "answer": "Ich bin eigentlich ein Mann. Scherz. Ich habe eine klassische Gesangausbildung und in der Bundesliga Feldhockey gespielt."
+            },
+            {
+                "question": "Wer oder was inspiriert dich im Leben und wieso?",
+                "answer": "Meist Dinge, die ich in einem bestimmten Moment im Alltag sehe. Formen in der Kunst, Architektur oder Dinge, die auf der Straße passieren. Dann zücke ich schnell mein Handy, um ein Bild zu machen oder überlege mir, wie ich gesehenes für zukünftige Projekte/Bilder nutzen kann."
+            }
+        ]
+    },
+    "WatchSection":
+    {
+       "FavoriteWatch": "FAVORITE UHR?",
+       "WatchText": "Ich liebe die Bowery in Schwarz - Schwarz. Wunderschöne Details, aber trotzdem schlicht.",
+       "CheckThisWatch": "Check This Watch",
+       "ProductName": "The Tribeca",
+       "ProductShortDesc": "Black - Black"
+    },
+    "Question_section3":
+    {
+        "Time_three": "13.20 AM Hamburg",
+        "LeftQuestion":
+        [
+            {
+                "question": "In fünf Jahren werde ich...",
+                "answer": "Das wüsste ich auch gerne. Aber hoffentlich mit eigener, kleinen Familie reisen, sehen und erleben."
+            }
+        ],
+        "RightQuestion":
+        [
+            {
+                "question": "Favorite Uhr?",
+                "answer": "Ich liebe die Bowery in Schwarz - Schwarz. Wunderschöne Details, aber trotzdem schlicht."
+            }
+        ]
+    },
+
+    "MainCloseImageText":
+    {
+       "MainText": "15 Minutes",
+       "QuoteText": "If I’m stressed, on the road, or restless, then I just want to be home or by the Baltic Sea in the vacation home of my parents."
+    }
+
+}
